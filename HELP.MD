@@ -42,7 +42,7 @@ Relativement complexe pour un non informaticien (notamment pour s'assurer que so
 L'onglet **[issues](https://github.com/sveinburne/lets-play-science/issues)**, normalement prévu pour répertorier
 les bugs/problèmes d'un logiciel, est ici utilisé comme un forum de discussion (1 issue = 1 fil/topic).
 
-Comme dans un forum classique, merci d'utiliser la barre de recherche en haut de la liste pour vérifier qu'une **issue**
+Comme dans un forum classique, merci d'utiliser la **barre de recherche** en haut de la liste pour vérifier qu'une **issue**
 existante ne traite pas déjà du sujet que vous souhaitez aborder.
 
 Si vous n'en trouvez pas, créez un nouveau topic/issue, en donnant un **titre court et explicite**,
@@ -54,9 +54,11 @@ approfondir la réflexion sur le sujet Y...).
 Chaque topic peut être associé à un ou plusieurs **[labels](https://github.com/sveinburne/lets-play-science/labels)** qui
 permettent une classification, aidant à retrouver plus facilement certains thèmes de discussion.
 
-#### 2.2. Filtres
+#### 2.2. [Filtres](https://help.github.com/articles/searching-issues/)
 
-...
+Le **moteur de recherche** des **topics/issues** permet l'utilisation de filtres. Par défaut les filtres `is:issue` et `is:open` sont activés, mais en ouvrant le menu déroulant `Filters`, de nombreuses options permettent un filtrage pratique et efficace.
+
+Voir aussi : [Guide pour une utilisation avancée des filtres (en anglais)](https://help.github.com/articles/searching-issues/).
 
 
 ## 3. [Tchat](https://gitter.im/sveinburne/lets-play-science)
