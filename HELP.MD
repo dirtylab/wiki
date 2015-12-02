@@ -12,7 +12,7 @@ L'ensemble du projet est accessible "en lecture" sans inscription, cependant si 
 Voir le fichier [`README.MD`](https://github.com/sveinburne/lets-play-science/blob/master/README.MD) pour la liste des principaux fichiers du projet et leurs rôles.
 
 Ces fichiers sont écrits au format **Markdown** (language de mise en forme très simple,
-[qu'on peut apprendre en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/))
+[qu'on peut apprendre en cinq minutes](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/))
 
 Leur rédaction est collaborative :  n'importe qui avec un compte **GitHub** peut proposer, à tout moment, une modification à l'aide du mécanisme de **Pull Request** (PR) décrit en détail plus bas.
 
