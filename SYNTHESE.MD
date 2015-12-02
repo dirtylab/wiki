@@ -79,7 +79,7 @@ Beaucoup partent du constat que les fonctionnalités offertes par le système de
   3. Votes par catégorie
   4. Former un groupe de modos / contributeurs "reconnus"
 
-**Plateformes existantes évoquées** : Reddit (très souvent), Discourse.
+**Plateformes existantes évoquées** : [Reddit](https://www.reddit.com/) (très souvent), [Discourse](http://www.discourse.org/).
 
 #### 1.2 Commentaires Youtube (25%)
 
@@ -94,7 +94,7 @@ Beaucoup partent du constat que les fonctionnalités offertes par le système de
 **Fonctionnalité particulière souvent proposée :**
 * Eviter l'effet "mouton" en masquant les votes, en ordonnant aléatoirement les propositions (pendant un temps limité ou non), etc.
 
-**Outils existants évoqués** (par ordre de fréquence décroissante) : StackOverflow/StackExchange, Quora, république-numérique.fr, jepolitique.fr, laprimaire.org, projet "Reboot la France", Tricider, straw poll divers
+**Outils existants évoqués** (par ordre de fréquence décroissante) : [StackOverflow](http://stackoverflow.com/)/[StackExchange](http://stackexchange.com/)/[jepolitique.fr](http://jepolitique.fr/), [Quora](https://www.quora.com/), [republique-numerique.fr](https://www.republique-numerique.fr/), [laprimaire.org](https://laprimaire.org/), [projet "Reboot la France"](http://korben.info/reboot-la-france-vous-etes-des-grands-malades.html), [Tricider](https://www.tricider.com/), straw poll divers
 
 Permettrait à moindre coût de faire ressortir facilement les grandes tendances se dégageant d'un groupe d'individus.
 
@@ -109,14 +109,12 @@ Ce qui ressort de la plupart de ces propositions, serait qu'un groupe d'internau
 
 Dans une moindre mesure, l'idée de faire collaborer les internautes directement sur l'espace d'écriture a également été exprimée.
 
-**Outils existants évoqués** : Wikipedia/Wikis, authorea.com, GoogleDoc, workflowy
+**Outils existants évoqués** : [Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)/[Wikis](https://en.wikipedia.org/wiki/Comparison_of_wiki_software), [authorea.com](https://www.authorea.com/), [GoogleDoc](https://www.google.fr/intl/fr/docs/about/), [workflowy](https://workflowy.com/)
 
 <a name="II.4"></a>
 ### 4. Espace de T'Chat (5%)
 
 Propositions de participants qui utilisent régulièrement IRC ou Twitch.
-
-
 
 
 <a name="III"></a>
