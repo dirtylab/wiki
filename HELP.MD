@@ -20,13 +20,9 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinb
 
 #### 1.1. Faire une PR
 
-###### 1.1.1. Avec un fork 
+###### 1.1.1. En éditant directement le fichier qu'on veut modifier 
 
-...
-
-###### 1.1.2. En éditant directement le fichier qu'on veut modifier 
-
-- Sélectionnez le fichier [README.md](README.md)
+- Sélectionnez le fichier à modifier (par ex. [README.md](README.md))
 - appuyez sur ![le symbole en forme de stylo *edit*](img/edit.png)
 - faites vos modifications
 - en bas de la page, section **Propose file change** :
@@ -35,6 +31,11 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinb
 - Une *Pull Request* apparait alors [dans le forum](https://github.com/sveinburne/lets-play-science/pulls?utf8=%E2%9C%93&q=is%3Apr+) et **les gens peuvent commenter cette proposition**
 - L'[équipe de validation](https://github.com/sveinburne/lets-play-science/issues/1) confirme l'édition.
 
+###### 1.1.2. Avec un fork 
+
+Relativement complexe pour un non informaticien (notamment pour s'assurer que son **fork** est synchro avec le repo original. [Il existe des manières de le faire directement sur GitHub.com](http://stackoverflow.com/a/23853061/488666) mais c'est relativement lourd tout ça).
+
+[Guide officiel GitHub.com (anglais)](https://guides.github.com/activities/forking/)
 
 ## 2. [Forum](https://github.com/sveinburne/lets-play-science/issues)
 
