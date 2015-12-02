@@ -11,7 +11,7 @@ Au préalable, si vous souhaitez participer (modifier le texte d'un fichier, ouv
 ## 1. [Fichiers](https://github.com/sveinburne/lets-play-science)
 
 Les fichiers `.MD` sont écrits au format **Markdown** (language de mise en forme très simple,
-[qu'on peut apprendre en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)**)
+[qu'on peut apprendre en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/))
 
 Chaque participant peut à tout moment proposer une amélioration sur un de ces fichiers,
 à l'aide du mécanisme de **Pull Request** (PR).
