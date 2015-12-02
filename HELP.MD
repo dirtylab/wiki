@@ -37,7 +37,7 @@ Chaque participant peut à tout moment proposer une amélioration sur un de ces 
 ## 2. [Forum](https://github.com/sveinburne/lets-play-science/issues)
 
 L'onglet **[issues](https://github.com/sveinburne/lets-play-science/issues)**, normalement prévu pour répertorier
-les bugs/problèmes d'un logiciel, peut très bien être utilisé comme un forum de discussion (1 issue = 1 fil/topic).
+les bugs/problèmes d'un logiciel, est ici utilisé comme un forum de discussion (1 issue = 1 fil/topic).
 
 Comme dans un forum classique, merci d'utiliser la barre de recherche en haut de la liste pour vérifier qu'une **issue**
 existante ne traite pas déjà du sujet que vous souhaitez aborder.
