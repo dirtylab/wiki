@@ -66,6 +66,6 @@ des derniers "événements" qui ont eu lieu sur le
 
 #### Quand utiliser Gitter vs le Forum
 
-Peut permettre de laisser une amorce d'idée, demander de l'aide.
+Le Tchat peut permettre de laisser une amorce d'idée, demander de l'aide.
 Pour garder une trace durable il est conseillé d'utiliser le **[forum](https://github.com/sveinburne/lets-play-science/issues)**
 ou de faire des **PR** (chaque PR a un fil de discussion attaché)
