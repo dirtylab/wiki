@@ -7,13 +7,16 @@ un petit topo sur l'utilisation des *espaces de discussion* et *d'écriture coll
 
 L'ensemble du projet est accessible "en lecture" sans inscription, cependant si vous souhaitez participer (proposer des modifications...), il vous faudra d'abord [**créer un compte GitHub**](https://github.com/join).
 
-## 1. [Fichiers](https://github.com/sveinburne/lets-play-science)
+## 1. [Rédaction collaborative](https://github.com/sveinburne/lets-play-science)
 
-Les fichiers `.MD` sont écrits au format **Markdown** (language de mise en forme très simple,
+Voir le fichier [`README.MD`](https://github.com/sveinburne/lets-play-science/blob/master/README.MD) pour la liste des principaux fichiers du projet et leurs rôles.
+
+Ces fichiers sont écrits au format **Markdown** (language de mise en forme très simple,
 [qu'on peut apprendre en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/))
 
-Chaque participant peut à tout moment proposer une amélioration sur un de ces fichiers,
-à l'aide du mécanisme de **Pull Request** (PR).
+Leur rédaction est collaborative :  n'importe qui avec un compte **GitHub** peut proposer, à tout moment, une modification à l'aide du mécanisme de **Pull Request** (PR) décrit en détail plus bas.
+
+Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinburne/lets-play-science/issues/1) :wink: se chargent de discuter/valider les **PR**, mais cela peut évoluer.
 
 #### 1.1. Faire une PR
 
