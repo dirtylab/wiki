@@ -58,6 +58,8 @@ permettent une classification, aidant à retrouver plus facilement certains thè
 
 ## 3. [Tchat](https://gitter.im/sveinburne/lets-play-science)
 
+[![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
+
 La plateforme [Gitter](https://gitter.im) (associée à Github), propose dans un panneau sur la droite la liste
 des derniers "événements" qui ont eu lieu sur le
 **[repository GitHub LetsPlayScience](https://github.com/sveinburne/lets-play-science)**.
