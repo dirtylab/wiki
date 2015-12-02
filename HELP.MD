@@ -59,12 +59,17 @@ permettent une classification, aidant à retrouver plus facilement certains thè
 
 [![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
 
-La plateforme [Gitter](https://gitter.im) (associée à Github), propose dans un panneau sur la droite la liste
-des derniers "événements" qui ont eu lieu sur le
-**[repository GitHub LetsPlayScience](https://github.com/sveinburne/lets-play-science)**.
+La plateforme [Gitter](https://gitter.im) (associée à Github), est utilisée.
+
+Avantages :
+
+* L'historique des interventions est conservé, donc on peut laisser un commentaire même s'il n'y a personne d'autre à ce moment là.
+* Dans un panneau sur la droite, est affichée la liste des derniers "événements"
+qui ont eu lieu sur le **[repository GitHub LetsPlayScience](https://github.com/sveinburne/lets-play-science)**.
 
 #### Quand utiliser Gitter vs le Forum
 
-Le Tchat peut permettre de laisser une amorce d'idée, demander de l'aide.
-Pour garder une trace durable il est conseillé d'utiliser le **[forum](https://github.com/sveinburne/lets-play-science/issues)**
-ou de faire des **PR** (chaque PR a un fil de discussion attaché)
+Le Tchat peut permettre de laisser une amorce d'idée, demander de l'aide...
+
+Pour garder une trace durable il est recommandé d'utiliser le **[forum](https://github.com/sveinburne/lets-play-science/issues)**
+ou de faire des **PR** (chaque PR a un fil de discussion associé)
