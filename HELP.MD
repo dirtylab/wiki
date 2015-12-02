@@ -5,8 +5,7 @@ Afin de permettre à un maximum de personnes (y compris non informaticiens) d'ut
 un petit topo sur l'utilisation des *espaces de discussion* et *d'écriture collaborative* qu'offrent
 **GitHub + Gitter**.
 
-Au préalable, si vous souhaitez participer (modifier le texte d'un fichier, ouvrir une issue...), il vous faudra
-[**créer un compte GitHub**](https://github.com/join).
+L'ensemble du projet est accessible "en lecture" sans inscription, cependant si vous souhaitez participer (proposer des modifications...), il vous faudra d'abord [**créer un compte GitHub**](https://github.com/join).
 
 ## 1. [Fichiers](https://github.com/sveinburne/lets-play-science)
 
