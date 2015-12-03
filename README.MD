@@ -10,7 +10,7 @@ LetsPlayScience #3 - A la recherche de la sagesse des foules
 
 * Outil d'**écriture collaborative** (fichiers `.MD` au format Markdown).  
   - [Tutoriel très rapide (EN, 5 min)](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)
-  - [Tutoriel complêt (FR, 20 min)](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
+  - [Tutoriel complet (FR, 20 min)](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
 * **Forum de discussion** (onglet [issues](https://github.com/sveinburne/lets-play-science/issues))
 * Outil de **messagerie instantanée** intégré [![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
 
