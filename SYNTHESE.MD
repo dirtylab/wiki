@@ -1,4 +1,4 @@
-synthèse des commentaires youtube
+Synthèse des commentaires youtube
 ----------------------------------------------------------
 **Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
 - Les commentaires les plus pertinents ne sont pas forcément les plus likés
@@ -11,8 +11,6 @@ Sommaire
 ----------------------------------------------------------
 
 I. [Participer à la synthèse](#I)
-  1.  [Ouvrir une issue](#I.1)
-  2.  [Faire une requête](#I.2)
 
 II. [Synthèse des commentaires Youtube](#II)
   1. [Espace de discussion (60% des propositions)](#II.1)
@@ -36,31 +34,7 @@ III. [Agrégation des propositions de fonctionnalités pour une plateforme colla
 
 <a name="I"></a>
 ## I. Participer à la synthèse
-**Pour faire une proposition d'édition**, deux options
-
-<a name="I.1"></a>
-#### 1. Ouvrir une issue
-- [Créez un compte github](https://github.com/join)
-- Ouvrez une issue avec **le point concerné** (ex [II.2.b] : influence sur l'algorithme de tri), en vous rendant [à cette adresse](https://github.com/sveinburne/lets-play-science/issues) puis en cliquant sur ![New Issue](img/new_issue.png). Les modérateurs vont taguer l'issue comme `synthèse`
-
-<a name="I.2"></a>
-#### 2. Faire une requête
-
-- [Créez un compte github](https://github.com/join)
-- Sélectionnez le fichier [README.md](README.md)
-- appuyez sur ![le symbole en forme de stylo *edit*](img/edit.png)
-- faites vos modifications
-- en bas de la page, section **Propose file change** :
-  - renseignez une phrase qui décrit la modification
-  - appuyez sur ![Propose file change](img/propose.png)
-- Une *Pull Request* apparait alors [dans le forum](https://github.com/sveinburne/lets-play-science/pulls?utf8=%E2%9C%93&q=is%3Apr+) et **les gens peuvent commenter cette proposition**
-- L'[équipe de validation](https://github.com/sveinburne/lets-play-science/issues/1) confirme l'édition.
-
-**Si vous ne savez pas écrire en markdown, c'est un language de mise en forme très simple, [on l'apprend en cinq minutes](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)**  
-
-<a name="help"></a>
-**Si d'autres veulent me prêter la main pour la validation, [laissez un message ici](https://github.com/sveinburne/lets-play-science/issues/1)!**
-
+**Pour faire une proposition d'édition**, suivez [**notre petit tutoriel**](https://github.com/sveinburne/lets-play-science/blob/master/HELP.MD).
 
 
 <a name="II"></a>
