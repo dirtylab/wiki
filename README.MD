@@ -2,7 +2,7 @@
 LetsPlayScience #3 - A la recherche de la sagesse des foules
 ---------------------------------------------------
 
-> *** Comment collaborer à 5000 cerveaux sur la même question ?***
+> ***Comment collaborer à 5000 cerveaux sur la même question ?***
 
 **Un repository GitHub** pour organiser les réflexions sur l'épisode 3 de **Lets Play Science** !
 
