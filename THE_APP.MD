@@ -219,19 +219,18 @@ Elle associe des concepts pour ensuite tirer des inférences...
 
 ##### g. Défininitions chaînées
 Un peu comme dans un wiki, des définitions sont référées les une aux autres par des *relations sémantiques* qualifiées.
-Les différentes natures de ces relations (proposées par Frosty-Z) sont :
+Les différentes natures de ces relations (proposées par [Piratdu52](https://github.com/Piratdu52)) sont :
 
+>
 **Spécialisation**: Pour les liens de type un carré est un rectangle. Il sera surement obligatoire de créer une balise "généralisation" simplement pour ne pas avoir la liste de tout les modelés d'avions sur la page du concept d'avion.
 **Association**: Pour définir un concept n'ayant pas de nom a proprement parler, tel qu'un couple (jockey, cheval), on fait un ovale avec les concept lié entre eux , tel un graphe dans le graphe et on lie a un autre concept.
 **Action**: Pour faire simple c'est le verbe d'une phrase liant deux concept, on lui passerait ce verbe en paramètre qui serait affiché dans un rectangle sur le lien.
-
-Et deux balise supplémentaire:
-
+>
 **Composant**: On définit un concept faisant partie du concept courant(on peut éventuellement pointer sur un concept existant) et pouvant être amené a varier selon le cas. Tel un terrain pour une course. C'est un point d'ancrage pour la balise suivante. Si il n'est pas utilisé, on ne l'affiche pas. Sinon on affiche un triangle lié au nœud avec le nom du concept a l’intérieur.
 **Variation**:On prend trois paramétrés, le concept qui varie (le terrain), le concept sur lequel il varie (course), le concept  spécialisé utilisé (piste de formule 1). On représentante ensuite le lien entre le composant et le nœud variation par un lien de type spécialisation.
-
+>
 Et une balise optionnelle:
-
+>
 **NoFollow**: Pour que le moteur ignore le lien. Utile pour pointer vers une page qui n'a pas de lien sémantique directe, par exemple pour comparer les performances de deux concept d'éclairage tel la bougie et .l'ampoule.
 
 <a name="I.4.e"></a>
