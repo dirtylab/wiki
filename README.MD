@@ -2,11 +2,11 @@
 LetsPlayScience #3 - A la recherche de la sagesse des foules
 ---------------------------------------------------
 
-***"Comment collaborer à 5000 cerveaux sur la même question ?"***
+> *** Comment collaborer à 5000 cerveaux sur la même question ?***
 
 **Un repository GitHub** pour organiser les réflexions sur l'épisode 3 de **Lets Play Science** !
 
-##### Cette plateforme est utilisée comme...
+#### Cette plateforme est utilisée comme...
 
 * Outil d'**écriture collaborative** (fichiers `.MD` au format Markdown).  
   - [Tutoriel très rapide (EN,5 min)](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)
@@ -14,14 +14,13 @@ LetsPlayScience #3 - A la recherche de la sagesse des foules
 * **Forum de discussion** (onglet [issues](https://github.com/sveinburne/lets-play-science/issues))
 * Outil de **messagerie instantanée** intégré [![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
 
-##### Par ou commencer ?
+#### Ou trouver de l'aide ?
 
-- Lisez cette introduction jusqu'au bout ;)
 - [Si vous n'êtes pas familiers de **github**, lisez notre tutoriel](HELP.MD).
 - N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new) pour aborder un sujet
 - Poser une question sur le [Tchat](https://gitter.im/sveinburne/lets-play-science) en cas de doute
 
-On sera heureux de vous venir en aide ;)
+On sera heureux de vous familiariser avec ces outils ;)
 
 
 
