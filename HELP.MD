@@ -20,7 +20,7 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinb
 
 #### 1.1. Faire une PR
 
-###### 1.1.1. En éditant directement le fichier qu'on veut modifier 
+###### 1.1.1. En éditant directement le fichier qu'on veut modifier
 
 - Sélectionnez le fichier à modifier (par ex. [README.md](README.md))
 - appuyez sur [![le symbole en forme de stylo *edit*](img/edit.png)](#)
@@ -31,7 +31,7 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinb
 - Une *Pull Request* apparait alors [dans le forum](https://github.com/sveinburne/lets-play-science/pulls?utf8=%E2%9C%93&q=is%3Apr+) et **les gens peuvent commenter cette proposition**
 - L'[équipe de validation](https://github.com/sveinburne/lets-play-science/issues/1) confirme l'édition.
 
-###### 1.1.2. Avec un fork 
+###### 1.1.2. Avec un fork
 
 Relativement complexe pour un non informaticien (notamment pour s'assurer que son **fork** est synchro avec le repo original. [Il existe des manières de le faire directement sur GitHub.com](http://stackoverflow.com/a/23853061/488666) mais c'est relativement lourd tout ça).
 
@@ -51,14 +51,25 @@ approfondir la réflexion sur le sujet Y...).
 
 #### 2.1. [Labels](https://github.com/sveinburne/lets-play-science/labels)
 
-Chaque topic peut être associé à un ou plusieurs **[labels](https://github.com/sveinburne/lets-play-science/labels)** qui
-permettent une classification, aidant à retrouver plus facilement certains thèmes de discussion.
+
+Chaque sujet (issue, pull request) peut être associé à un ou plusieurs **[labels](https://github.com/sveinburne/lets-play-science/labels)** qui
+permettent une classification, aidant à retrouver plus facilement certains thèmes de discussion.  
+[Lire ce post sur la signification de chaque label](https://github.com/sveinburne/lets-play-science/issues/39).  
 
 #### 2.2. [Filtres](https://help.github.com/articles/searching-issues/)
 
-Le **moteur de recherche** des **topics/issues** permet l'utilisation de filtres. Par défaut les filtres `is:issue` et `is:open` sont activés, mais en ouvrant le menu déroulant `Filters`, de nombreuses options permettent un filtrage pratique et efficace.
+Le **moteur de recherche** des **topics/issues** permet l'utilisation de filtres.
+Voici des filtres utiles :
+ - [`is:issue`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aissue+) (toutes les *issues*, c'est à dire "posts")
+ - [`is:pr`](https://github.com/sveinburne/lets-play-science/pulls?q=is%3Apr) (toutes les pull request, PR)
+ - [`is:open`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aopen)  (tous les sujets ouverts)
+ - [`is:closed`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aclosed+) (tous les sujets fermés)  
+ - [`label:épinglé`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3A%C3%A9pingl%C3%A9) (tous les sujets épinglés)
+ - [`-label:épinglé`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=-label%3A%C3%A9pingl%C3%A9+) (tous les sujets qui ne sont pas épinglés)
 
-Voir aussi : [Guide pour une utilisation avancée des filtres (en anglais)](https://help.github.com/articles/searching-issues/).
+Les filtres peuvent se cumuler, exemple [`-label:épinglé is:open`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=-label%3A%C3%A9pingl%C3%A9+is%3Aopen)  
+Vous pouvez aussi utiliser l'interface graphique, boutons `Filters`, `Labels`, `Sort` (tri) ... etc  
+[Pour plus de fonctionnalités sur les filtres, voir le guide officiel (en anglais)](https://help.github.com/articles/searching-issues/).
 
 
 ## 3. [Tchat](https://gitter.im/sveinburne/lets-play-science)
