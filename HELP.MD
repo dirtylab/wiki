@@ -62,10 +62,11 @@ Le **moteur de recherche** des **topics/issues** permet l'utilisation de filtres
 Voici des filtres utiles :
  - [`is:issue`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aissue+) (toutes les *issues*, c'est à dire "posts")
  - [`is:pr`](https://github.com/sveinburne/lets-play-science/pulls?q=is%3Apr) (toutes les pull request, PR)
+ - [**`sort:updated-desc `**](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=sort%3Aupdated-desc+) (trier par **modifié le plus récemment d'abord**)
  - [`is:open`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aopen)  (tous les sujets ouverts)
  - [`is:closed`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aclosed+) (tous les sujets fermés)  
- - [`label:épinglé`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3A%C3%A9pingl%C3%A9) (tous les sujets épinglés)
- - [`-label:épinglé`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=-label%3A%C3%A9pingl%C3%A9+) (tous les sujets qui ne sont pas épinglés)
+ - [**`label:épinglé`**](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3A%C3%A9pingl%C3%A9) (tous les sujets épinglés)
+ - [`-label:épinglé`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=-label%3A%C3%A9pingl%C3%A9+) (tous les sujets qui **ne sont pas** épinglés)
 
 Les filtres peuvent se cumuler, exemple [`-label:épinglé is:open`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=-label%3A%C3%A9pingl%C3%A9+is%3Aopen)  
 Vous pouvez aussi utiliser l'interface graphique, boutons `Filters`, `Labels`, `Sort` (tri) ... etc  
