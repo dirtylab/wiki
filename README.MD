@@ -6,26 +6,46 @@ LetsPlayScience #3 - A la recherche de la sagesse des foules
 
 **Un repository GitHub** pour organiser les réflexions sur l'épisode 3 de **Lets Play Science** !
 
-Cette plateforme est utilisée comme :
+##### Cette plateforme est utilisée comme...
 
-* Outil d'**écriture collaborative** (fichiers `.MD` au format [Markdown](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/))
-* **Forum de discussion** (onglet [issues](https://github.com/sveinburne/lets-play-science/issues)).
-* Outil de **messagerie instantanée** [![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
+* Outil d'**écriture collaborative** (fichiers `.MD` au format Markdown).  
+  - [Tutoriel très rapide (EN,5 min)](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)
+  - [Tutoriel complêt (FR, 20 min)](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
+* **Forum de discussion** (onglet [issues](https://github.com/sveinburne/lets-play-science/issues))
+* Outil de **messagerie instantanée** intégré [![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
 
-Si vous êtes perdus, plus de détails sur [ce tutoriel](HELP.MD). N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new), ou poser une question sur le [Tchat](https://gitter.im/sveinburne/lets-play-science), on viendra gentiment vous accueillir !
+##### Par ou commencer ?
 
-Ce n'est **pas** un projet de développement ([pas pour l'instant du moins, mais vous pouvez tous soumettre des idées](#OS))  
+- Lisez cette introduction jusqu'au bout ;)
+- [Si vous n'êtes pas familiers de **github**, lisez notre tutoriel](HELP.MD).
+- N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new) pour aborder un sujet
+- Poser une question sur le [Tchat](https://gitter.im/sveinburne/lets-play-science) en cas de doute
+
+On sera heureux de vous venir en aide ;)
+
+
+
 
 Les objectifs de ce repo ?
 ----------------------------------------------------------
 
-1. Faire la synthèse des propositions sur youtube -  [c'est ici : SYNTHESE.MD](SYNTHESE.MD)
-2. Rechercher et partager un maximum de connaissances sur le sujet, qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ... -  [c'est ici : INSPIRATION.MD](INSPIRATION.MD)
-3. Faire l'inventaire des outils existants répondant à nos besoins - [c'est ici : OUTILS.MD](OUTILS.MD)
+1. Faire la synthèse des propositions sur youtube  
+[c'est ici : SYNTHESE.MD](SYNTHESE.MD)
+2. Faire l'inventaire des outils existants répondant à nos besoins  
+[c'est ici : OUTILS.MD](OUTILS.MD)
+3. Rechercher et partager un maximum de connaissances sur le sujet, qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ...  
+[c'est ici : INSPIRATION.MD](INSPIRATION.MD)
 4. Imaginer des solutions inspirées des démarches **1.**, **2.** et **3.** - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
-  - définir un vocabulaire qui nous permet de communiquer sans ambiguité, [c'est ici : THE_APP.MD#I](THE_APP.MD#I)
-  - proposer des solutions concrêtes (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons - [c'est ici : THE_APP.MD#II](THE_APP.MD#II)
-5. Implémenter la solution qui émergera de **4.** en faisant intervenir un **maximum de gens d'horizons disciplinaires différents**. Après un temps de réflexion suffisant. On ne souhaite pas se précipiter, on préfère avancer sereinement que trébucher en courant.
+  - définir un vocabulaire qui nous permet de communiquer sans ambiguité  
+  [c'est ici : THE_APP.MD#I](THE_APP.MD#I)
+  - proposer des solutions concrêtes (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
+  [c'est ici : THE_APP.MD#II](THE_APP.MD#II)
+5. Implémenter la plateforme open-source qui émergera de **4.** en faisant intervenir un **maximum de gens d'horizons disciplinaires différents**. On ne souhaite pas se précipiter, on préfère avancer sereinement que trébucher en courant.
+  - Rédiger les spécifications
+  - Lister les intéressés et leurs domaines de prédilection
+  - Choisir les technologies
+  - ...etc
+6. Itérer de manière ininterrompue de **2.** à **5.**
 
 <a name="OS"></a>
 On est des fous et on fait l'application en Open Source!
