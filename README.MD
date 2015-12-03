@@ -16,7 +16,7 @@ LetsPlayScience #3 - A la recherche de la sagesse des foules
 
 #### Ou trouver de l'aide ?
 
-- [Si vous n'êtes pas familiers de **github**, lisez notre tutoriel](HELP.MD).
+- [Si vous n'êtes pas familiers de **GitHub**, lisez notre tutoriel](HELP.MD).
 - N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new) pour aborder un sujet
 - Poser une question sur le [Tchat](https://gitter.im/sveinburne/lets-play-science) en cas de doute
 
@@ -37,7 +37,7 @@ Les objectifs de ce repo ?
 4. Imaginer des solutions inspirées des démarches **1.**, **2.** et **3.** - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
   - définir un vocabulaire qui nous permet de communiquer sans ambiguité  
   [c'est ici : THE_APP.MD#I](THE_APP.MD#I)
-  - proposer des solutions concrêtes (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
+  - proposer des solutions concrètes (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
   [c'est ici : THE_APP.MD#II](THE_APP.MD#II)
 5. Implémenter la plateforme open-source qui émergera de **4.** en faisant intervenir un **maximum de gens d'horizons disciplinaires différents**. On ne souhaite pas se précipiter, on préfère avancer sereinement que trébucher en courant.
   - Rédiger les spécifications
