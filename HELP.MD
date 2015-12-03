@@ -23,11 +23,11 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinb
 ###### 1.1.1. En éditant directement le fichier qu'on veut modifier 
 
 - Sélectionnez le fichier à modifier (par ex. [README.md](README.md))
-- appuyez sur ![le symbole en forme de stylo *edit*](img/edit.png)
+- appuyez sur [![le symbole en forme de stylo *edit*](img/edit.png)](#)
 - faites vos modifications
 - en bas de la page, section **Propose file change** :
   - renseignez une phrase qui décrit la modification
-  - appuyez sur ![Propose file change](img/propose.png)
+  - appuyez sur [![Propose file change](img/propose.png)](#)
 - Une *Pull Request* apparait alors [dans le forum](https://github.com/sveinburne/lets-play-science/pulls?utf8=%E2%9C%93&q=is%3Apr+) et **les gens peuvent commenter cette proposition**
 - L'[équipe de validation](https://github.com/sveinburne/lets-play-science/issues/1) confirme l'édition.
 
