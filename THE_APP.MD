@@ -43,7 +43,7 @@ Sommaire
       - h [Filtre Catégorique](#I.3.h)
       - i [Rôle](#I.3.i)
       - j [Badges](#I.3.j)
-      - k [Consensus simple / lazy consensus](#I.3.k)
+      - k [Consensus tacite / lazy consensus](#I.3.k)
 
     4. [Sémantique](#I.4)
       - a [Carte Heuristique / Mind map](#I.4.a)
@@ -165,7 +165,7 @@ Exemples (proposés par [Gophys](https://github.com/Gophys)) :
 * **Journaliste**: personne donnant souvent un "pouce vert" aux nouvelles idées/modifications, avant d'être suivie par la foule
 
 <a name="I.3.k"></a>
-##### i. Consensus simple / Lazy consensus
+##### i. Consensus tacite / Lazy consensus
 Processus de décision "léger" consistant à suivre les étapes suivantes :
 * Proposition
 * Discussion
