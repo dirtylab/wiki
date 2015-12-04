@@ -14,7 +14,7 @@ Comparatif des outils existants
 |----------------------------------------------|:------------------:|:-------------:|:----------------:|:----------------:|:---------------------------:|:--------------------------:|
 | [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | ?| ?| ?| ?|
 | [Muut](https://muut.com)                       | :white_check_mark: | | ?| ?| ?| ?|
-
+| [Discourse](http://www.discourse.org)                       | payant | | ?| ?| ?| ?|
 A parcourir en détail pour remplir le tableau ci dessus :
 
 * [Top 15 moteurs de forums sur Quertime.com](http://www.quertime.com/article/15-best-online-forum-platforms-software-free-and-paid/)
@@ -32,8 +32,6 @@ A parcourir en détail pour remplir le tableau ci dessus :
 
 
 ## III. Espace d'écriture collaborative
-
-Uniquement des outils avec validation sinon on va automatiquement se retrouver dans un cas "Twitch for Pokémon" brut (ration coût / efficacité très faible).
 
 | Outil                                       |  Service en ligne   | Projet Github | Commentaires |
 |----------------------------------------------|:--------------------:|:-------------:|:-----------|
