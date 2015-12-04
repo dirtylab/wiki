@@ -43,6 +43,7 @@ Sommaire
       - h [Filtre Catégorique](#I.3.h)
       - i [Rôle](#I.3.i)
       - j [Badges](#I.3.j)
+      - k [Consensus tacite/implicite](#I.3.k)
 
     4. [Sémantique](#I.4)
       - a [Carte Heuristique / Mind map](#I.4.a)
@@ -162,6 +163,18 @@ Exemples (proposés par [Gophys](https://github.com/Gophys)) :
 * **Policier**: personne mettant en avant les comportements non respectueux
 * **Expert**: personne proposant de nouvelles solutions ou des modifications pertinentes dans un domaine particulier
 * **Journaliste**: personne donnant souvent un "pouce vert" aux nouvelles idées/modifications, avant d'être suivie par la foule
+
+<a name="I.3.k"></a>
+##### i. Consensus tacite/implicite - Lazy consensus
+Processus de décision simple consistant à suivre les étapes suivantes :
+* Proposition
+* Discussion
+* Vote (si aucun consensus n'est obtenu suite à discussion)
+* Décision
+
+Le consensus est *implicite* dans le sens où ceux qui n'auraient pas exprimé leur opinion au delà d'une certaine durée,
+acceptent *implicitement* la décision. Cf. inspiration [sur le Wiki GitHub du projet Xerte Online Toolkits](https://github.com/thexerteproject/xerteonlinetoolkits/wiki/6.-Decision-Making-Process)
+
 
 <a name="I.4"></a>
 #### 4. Sémantique
