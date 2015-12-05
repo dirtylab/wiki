@@ -156,7 +156,7 @@ Un *Rôle* est une mission assumée par un membre le temps d'un *défi*.
 > Ex : Aggrégateur de [*références*](#I.1.d)
 
 <a name="I.3.j"></a>
-##### i. Badge
+##### j. Badge
 Distinction récompensant l'investissement et la bonne volonté d'un participant.
 Exemples (proposés par [Gophys](https://github.com/Gophys)) :
 
@@ -165,7 +165,7 @@ Exemples (proposés par [Gophys](https://github.com/Gophys)) :
 * **Journaliste**: personne donnant souvent un "pouce vert" aux nouvelles idées/modifications, avant d'être suivie par la foule
 
 <a name="I.3.k"></a>
-##### i. Consensus tacite/implicite - Lazy consensus
+##### k. Consensus tacite/implicite - Lazy consensus
 Processus de décision simple consistant à suivre les étapes suivantes :
 * Proposition
 * Discussion
