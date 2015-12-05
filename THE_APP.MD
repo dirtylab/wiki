@@ -230,7 +230,7 @@ Au sujet d'une représentation visuelle (arbre), choix des noeuds à afficher po
 Une [ontologie](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) en informatique est un modèle non ambigu de description du réel.
 Elle associe des concepts pour ensuite tirer des inférences...
 
-##### g. Défininitions chaînées
+##### g. Définitions chaînées
 Un peu comme dans un wiki, des définitions sont référées les une aux autres par des *relations sémantiques* qualifiées.
 Les différentes natures de ces relations (proposées par [Piratdu52](https://github.com/Piratdu52)) sont :
 
@@ -244,7 +244,7 @@ Les différentes natures de ces relations (proposées par [Piratdu52](https://gi
 >
 Et une balise optionnelle:
 >
-**NoFollow**: Pour que le moteur ignore le lien. Utile pour pointer vers une page qui n'a pas de lien sémantique directe, par exemple pour comparer les performances de deux concept d'éclairage tel la bougie et .l'ampoule.
+**NoFollow**: Pour que le moteur ignore le lien. Utile pour pointer vers une page qui n'a pas de lien sémantique directe, par exemple pour comparer les performances de deux concept d'éclairage tel la bougie et l'ampoule.
 
 <a name="I.5"></a>
 #### 5. Versionnement
