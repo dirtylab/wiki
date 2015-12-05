@@ -24,18 +24,17 @@ Sommaire
 I. [L'étude de la collaboration](#I)  
 
   1. [Dans les sciences](#I.1)
-  
+
     1. [Sciences humaines et sociales](#I.1.1)
     2. [Sciences de la vie et la Terre](#I.1.2)
     3. [Sciences de l'information et de la communication](#I.1.3)
     4. [Approches transdisciplinaires](#I.1.4)
-  
-  3. [Dans les entreprises](#I.2)
-  
-  4. [Dans la philosophie](#I.3)
-  
-  5. [Dans le quotidien](#I.4)
-  *...
+
+
+  2. [Dans les entreprises](#I.2)
+  3. [Dans la philosophie](#I.3)
+  4. [Dans le quotidien](#I.4)
+
 
 II. [Les initiatives et projets liés à la colaboration](#II)  
 
@@ -51,15 +50,21 @@ II. [Les initiatives et projets liés à la colaboration](#II)
 
 <a name="I.1.1"></a>
 #### 1. Sciences humaines et sociales
-*[Psychologie sociale](https://fr.wikipedia.org/wiki/Psychologie_sociale) [Sociologie](https://fr.wikipedia.org/wiki/Sociologie) [Psychologie]https://fr.wikipedia.org/wiki/Psychologie [Linguistique](https://fr.wikipedia.org/wiki/Linguistique)*
+- [Psychologie sociale](https://fr.wikipedia.org/wiki/Psychologie_sociale)
+- [Sociologie](https://fr.wikipedia.org/wiki/Sociologie)
+- [Psychologie](https://fr.wikipedia.org/wiki/Psychologie)
+- [Linguistique](https://fr.wikipedia.org/wiki/Linguistique)
 
 <a name="I.1.1"></a>
 #### 2. Sciences de la vie et la terre
-##### 1. [Intelligence animale](https://fr.wikipedia.org/wiki/Intelligence_animale) / [intelligence collective](https://fr.wikipedia.org/wiki/Intelligence_collective)
+- [Intelligence animale](https://fr.wikipedia.org/wiki/Intelligence_animale)
+- [intelligence collective](https://fr.wikipedia.org/wiki/Intelligence_collective)
+
 <a name="I.1.1"></a>
 #### 3. Sciences de l'information et de la communication
 ##### 1. [Simulations multi-agent](https://fr.wikipedia.org/wiki/Syst%C3%A8me_multi-agents)
-* --> livre "Programming collective intelligence", Toby Segaran*
+--> livre "Programming collective intelligence", Toby Segaran
+
 ##### 2. [Programmation parallèle](https://fr.wikipedia.org/wiki/Parall%C3%A9lisme_%28informatique%29)
 
 <a name="I.1.1"></a>
