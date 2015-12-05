@@ -1,14 +1,26 @@
 Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 ==
-Titre : Mieux exploiter les espaces de discussion existants + proposer un espace Q&A adapté
+Titre : Suivre le chemin tracé par la [synthèse des commentaires Youtube](SYNTHESE.MD)
 -
 
 Principe
 -
-**Dans un premier temps**, exploiter au maximum les données des commentaires Youtube / Facebook tel que décrit dans le [`Readme`](https://github.com/sveinburne/lets-play-science/blob/master/README.md) via une **application intégrée**. En parallèle, mettre en avant un **[espace Q&A](#II)** aussi adapté que possible au cas de *Let's Play Science*, afin d'exploiter la grande efficacité collaborative mise en évidence par ce type d'outil (s'il ne fallait citer qu'un exemple : [Biology StackExchange](http://biology.stackexchange.com/)).
-Evidemment, l'ensemble devra rester simple pour être exploitable rapidement, et éviter de se perdre dans des développements trop coûteux et/ou complexes.
 
-**Dans un deuxième temps**, selon le succès et l'efficacité montrés par ces outils "mis à l'épreuve", des fonctionnalités plus avancées pourront être développées, les performances soignées et améliorées, voire de nouveaux outils (si nécessaire) pourront compléter la plateforme.
+Se focaliser sur les **besoins recensés** à la lecture des **commentaires Youtube**, en triant les besoins par nombre d'occurrences de leur formulation (comme si chaque participant avait *voté* pour les besoins qu'il a exprimé), de nombreux besoins identiques ou très similaires étant exprimés très souvent.
+
+La **proportion d'occurrences** de chaque besoin (ou sous-besoin) servirait également à déterminer la *priorité* à consacrer à chaque besoin.
+Il serait bien entendu possible de travailler sur plusieurs besoins en parallèle (seul ou à plusieurs), en veillant à ne pas trop s'écarter des **proportions exprimées**, en terme de *temps passé* ou *quantité de ressources* consacrés.
+
+Roadmap
+-
+
+Note : je ne donne ici aucune indication de délai / milestone, puisque cela dépend énormément du nombre et de l'implication des bonnes volontés qui contribueront au "défi" !
+
+1. Commencer par s'approprier des outils existants (commentaires Youtube, [GitHub](https://github.com/) + [Gitter](https://gitter.im/sveinburne/lets-play-science) inclus puisqu'ils servent déjà d'espace de discussion, de rédaction, de t'chat pour quelques-uns)
+
+2. Aller vers des plateformes plus adaptées (notamment plus *accessibles*), comme [Discourse](http://www.discourse.org/) pour l'espace de discussion, un [StackOverflow](http://stackoverflow.com/)-like pour l'espace Q&A...
+
+3. Selon le succès rencontré par les plateformes, et les besoins d'amélioration encore exprimés, le développement d'une plateforme spécifique (développée par la *communauté DirtyBiology*) regroupant tout ou partie des espaces de collaboration serait lancé.
 
 
 <a name="I"></a>
@@ -48,15 +60,14 @@ Excepté la notion de [posts versionnés](https://github.com/sveinburne/lets-pla
 <a name="II"></a>
 II. Espace Q&A + écriture collaborative
 -
-
-Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), ou "fait maison" si on ne trouve rien qui correspond aux fonctionnalités que l'on souhaite en gratuit.
-
-Implique que Léo mette en avant l'existence de l'outil, dans la vidéo + dans les liens en dessous.
+Outil existant similaire à StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), sinon "fait maison" si on ne trouve rien qui correspond aux fonctionnalités indispensables que l'on souhaite en gratuit.
 
 <a name="II.1"></a>
 ### II.1. Avantages
 
-* Permet de [**structurer les propositions de manière arborescente**](#II.2.1), s'apparentant à un **"mind map"** en temps réel (un "mind map" succinct peut également être envisagé en ne retenant que les *titres* des sous-propositions, sous-défis, sous-sous-propositions, etc. et pourrait très bien faire office de page d'accueil)
+* Permettrait d'exploiter la grande efficacité collaborative mise en évidence par ce type d'outil (s'il ne fallait citer qu'un exemple : [Biology StackExchange](http://biology.stackexchange.com/)).
+
+* Permettrait de [**structurer les propositions de manière arborescente**](#II.2.1), s'apparentant à un **"mind map"** en temps réel (un "mind map" succinct peut également être envisagé en ne retenant que les *titres* des sous-propositions, sous-défis, sous-sous-propositions, etc. et pourrait très bien faire office de page d'accueil)
 
 * **Tous nouveaux élements** (références, arguments, etc.) **sont agrégés au fil des participations** (modification, ou proposition de modification possible par tous, Wiki-like) **et visibles facilement par tous** (vs. revue fastidieuse de posts souvent redondants, hors sujet, d'une file de discussion)
  * Constitue une expérience d'écriture collaborative
@@ -127,6 +138,5 @@ III. Modération
 
 Considérations d'ordre général :
 
-* Dans un premier temps, Léo + les développeurs de la plateforme seraient modos, tous espaces confondus.
+* Dans un premier temps, Léo + les développeurs/installeurs des outils/plateformes seraient modos.
 * Ensuite si nécessaire des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), pourraient être envisagées.
-
