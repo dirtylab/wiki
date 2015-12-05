@@ -36,7 +36,7 @@ I. [L'étude de la collaboration](#I)
   4. [Dans le quotidien](#I.4)
 
 
-II. [Les initiatives et projets liés à la colaboration](#II)  
+II. [Les initiatives et projets liés à la collaboration](#II)  
 
   1. [Le web sémantique](#II.1)
   2. [Les CLOMS/MOOCS](#II.2)
@@ -86,7 +86,7 @@ II. [Les initiatives et projets liés à la colaboration](#II)
 ### 4. Dans le quotidien
 
 <a name="II"></a>
-## II. Les initiatives et projets liés à la colaboration
+## II. Les initiatives et projets liés à la collaboration
 
 <a name="II.1"></a>
 ### 1. [Le web sémantique](https://fr.wikipedia.org/wiki/Web_s%C3%A9mantique)
