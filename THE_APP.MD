@@ -1,15 +1,15 @@
-La réflexion autour de l'application
-------------------------------------
+# La réflexion autour de l'application
+
 *Avant de concevoir une application, c'est une bonne idée de savoir à quoi elle ressemble, d'analyser quels sont les enjeux techniques de sa réalisation.*  
 
 **Forum :**  
-- [**META-TOPIC DEFINITIONS**](https://github.com/sveinburne/lets-play-science/issues/40)  
-- [**META-TOPIC VISIONS D'ENSEMBLE**](https://github.com/sveinburne/lets-play-science/issues/41)  
-- [**LABELS**](https://github.com/sveinburne/lets-play-science/issues/39):
+- [**meta-topic - Définition**](https://github.com/sveinburne/lets-play-science/issues/40)  
+- [**meta-topic - Visions d'ensemble**](https://github.com/sveinburne/lets-play-science/issues/41)  
+- [**labels**](https://github.com/sveinburne/lets-play-science/issues/39):
   - [`label:définitions`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Ad%C3%A9finitions+) au sujet d'une [**définition**](#I)
   - [`label:visions d'ensemble`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22vision+d%27ensemble%22) pour organiser la discussion autour d'une [**vision d'ensemble**](#II)
 
-**Document :**  
+**Document**  
 
 - Il n'est pas du tout destiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur à faire valoir.
 - Il répertorie
@@ -267,11 +267,11 @@ Action de fusionner deux posts sémantiquement proches.
 Action de soumettre à l'auteur d'un post une nouvelle **version** du document.
 
 <a name="I.5.d"></a>
-##### d. Poste cible
+##### d. Message cible
 C'est la destination, reçu par l'*hôte*, de la *fusion*.
 
 <a name="I.5.e"></a>
-##### e. Poste source
+##### e. Message source
 C'est le document *amendé* (proposé par l'amendeur) de la fusion.
 
 <a name="I.5.f"></a>
