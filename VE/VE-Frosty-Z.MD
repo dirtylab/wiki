@@ -59,17 +59,17 @@ Fonctionnalités proposées : identiques à ce qui est décrit dans [la synthès
 
 Quelques propositions plus détaillées que dans [la synthèse](https://github.com/sveinburne/lets-play-science/blob/master/SYNTHESE.MD#II.1) :
 
-* Tenter une organisation minimale des commentaires Youtube : Léo posterait d'emblée sous chaque future *vidéo LetsPlayScience* des commentaires faisant office de *catégories*. Par exemple :
+* **Tenter une organisation minimale des commentaires Youtube** : Léo posterait d'emblée sous chaque future *vidéo LetsPlayScience* des commentaires faisant office de *catégories*. Par exemple :
   * Réactions sur le défi traité dans la vidéo (ex. *nous n'irons pas dans l'espace*) ? Répondez ici SVP
   * Propositions pour le prochain défi (ex. *comment collaborer à 5000*) ? Participez sur la plateforme dédiée + lien (*si la plateforme existe, sinon* "Répondez ici SVP")
   * Rien de tout cela ? Répondez ici SVP
 
-* Exploitation des commentaires "bruts" par une *plateforme souveraine LetsPlayScience* :
+* **Exploitation des commentaires "bruts" par une _plateforme souveraine LetsPlayScience_** :
   * Exploitation de données type metrics (nombre de posts, occurrences de mots...)
   * Moteur de recherche de commentaires simple
   * Toute autre fonctionnalité simple à mettre en oeuvre (analyseurs syntaxiques existants...) qui peut apporter une information générale sur la masse de commentaires bruts sans être trop coûteux.
 
-* *Noter les commentaires* (suggéré plusieurs fois), serait beaucoup plus simple à gérer/synthétiser via un espace de discussion souverain, et fait partie du fonctionnement d'un espace Q&A (vote) :arrow_right: je proposerais d'écarter cette demande dans le cadre d'une *vision d'ensemble* (censée former un tout cohérent)
+* **_Noter les commentaires_** (suggéré plusieurs fois), serait beaucoup plus simple à gérer/synthétiser via un espace de discussion souverain, et fait partie du fonctionnement d'un espace Q&A (vote) :arrow_right: je proposerais d'écarter cette demande dans le cadre d'une *vision d'ensemble* (censée former un tout cohérent)
 
 <a name="II"></a>
 II. Espace Q&A + écriture collaborative
