@@ -357,4 +357,5 @@ Remarques importantes :
 *Voici la liste des VE et de leur issue associée sur le forum*
 
 **VE 1** : [Suivre le chemin tracé par la synthèse des commentaires Youtube](VE/VE-Frosty-Z.MD)
+
 **VE 2** : [La foule a les pleins pouvoirs](VE/VE-Gophys.MD)
