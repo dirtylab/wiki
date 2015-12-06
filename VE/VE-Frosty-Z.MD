@@ -6,7 +6,7 @@ Titre : Suivre le chemin tracé par la [synthèse des commentaires Youtube](SYNT
 Principe
 -
 
-Se servir au maximum des **besoins recensés** à la lecture des **commentaires Youtube**, en triant les besoins par nombre d'occurrences de leur formulation (comme si chaque participant avait *voté* pour les besoins qu'il a exprimé), de nombreux besoins identiques ou très similaires étant exprimés très souvent.
+Se servir au maximum des **besoins recensés** à la lecture des **commentaires Youtube**, en triant les besoins par le nombre d'occurrences de leur formulation (comme si chaque participant avait *voté* pour les besoins qu'il a exprimé), de nombreux besoins identiques ou très similaires étant exprimés très souvent.
 
 La **proportion d'occurrences** de chaque besoin (ou sous-besoin) servirait également à déterminer la *priorité* à consacrer à chaque besoin.
 Il serait bien entendu possible de travailler sur plusieurs besoins en parallèle (seul ou à plusieurs), en veillant à ne pas trop s'écarter des **proportions exprimées**, en terme de *temps passé* ou *quantité de ressources* consacrés.
