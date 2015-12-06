@@ -3,6 +3,28 @@ Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 Titre : Suivre le chemin tracé par la [synthèse des commentaires Youtube](SYNTHESE.MD)
 -
 
+Sommaire
+-
+
+- [Principe](#principe)
+- [Roadmap](#roadmap)
+- [I. Espace de discussion (fil de commentaires, forum...)](#I)
+	- [I.1. Application souveraine](#I.1)
+	- [I.2. Application intégrée (Youtube + Facebook + interface de "suivi")](#I.2)
+- [II. Espace Q&A + écriture collaborative](#II)
+	- [II.1. Avantages](#II.1)
+	- [II.2. Fonctionnalités](#II.2)
+		- [II.2.1. Questions/Réponses](#II.2.1)
+		- [II.2.2. Votes](#II.2.2)
+		- [II.2.3. Réputation (proposition)](#II.2.3)
+		- [II.2.4. Modération](#II.2.4)
+		- [II.2.5. Possibilité d'éditer les questions et réponses de manière collaborative (= posts versionnés)](#II.2.5)
+		- [II.2.6. Structuration sémantique (tags, sous-questions...)](#II.2.6)
+		- [II.2.7. Authentification](#II.2.7)
+- [III. Espace de t'chat](#III)
+- [IV. Modération](#IV)
+
+<a name="principe"></a>
 Principe
 -
 
@@ -11,6 +33,7 @@ Se servir au maximum des **besoins recensés** à la lecture des **commentaires 
 La **proportion d'occurrences** de chaque besoin (ou sous-besoin) servirait également à déterminer la *priorité* à consacrer à chaque besoin.
 Il serait bien entendu possible de travailler sur plusieurs besoins en parallèle (seul ou à plusieurs), en veillant à ne pas trop s'écarter des **proportions exprimées**, en terme de *temps passé* ou *quantité de ressources* consacrés.
 
+<a name="roadmap"></a>
 Roadmap
 -
 
@@ -27,12 +50,12 @@ I. Espace de discussion (fil de commentaires, forum...)
 -
 
 <a name="I.1"></a>
-### I.2. Application souveraine
+### I.1. Application souveraine
 
 Fonctionnalités proposées : identiques à ce qui est décrit dans [la synthèse des commentaires Youtube](https://github.com/sveinburne/lets-play-science/blob/master/SYNTHESE.MD#II.1), détails à discuter/décider
 
 <a name="I.2"></a>
-### I.1. Application intégrée (Youtube + Facebook + interface de "suivi")
+### I.2. Application intégrée (Youtube + Facebook + interface de "suivi")
 
 Quelques propositions plus détaillées que dans [la synthèse](https://github.com/sveinburne/lets-play-science/blob/master/SYNTHESE.MD#II.1) :
 
@@ -51,7 +74,7 @@ Quelques propositions plus détaillées que dans [la synthèse](https://github.c
 <a name="II"></a>
 II. Espace Q&A + écriture collaborative
 -
-Outil existant similaire à StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), sinon "fait maison" si on ne trouve rien qui correspond aux fonctionnalités indispensables que l'on souhaite en gratuit.
+Outil de questions/réponses existant, similaire à [StackOverflow](http://stackoverflow.com/), [Yahoo Q&A](https://fr.answers.yahoo.com/), [Tricider](http://www.tricider.com/)... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), sinon "fait maison" si on ne trouve rien qui correspond aux fonctionnalités indispensables que l'on souhaite en gratuit.
 
 <a name="II.1"></a>
 ### II.1. Avantages
