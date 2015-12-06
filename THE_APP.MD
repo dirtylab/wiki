@@ -1,5 +1,5 @@
 La réflexion autour de l'application
----------------------------------------------------
+------------------------------------
 *Avant de concevoir une application, c'est une bonne idée de savoir à quoi elle ressemble, d'analyser quels sont les enjeux techniques de sa réalisation.*  
 
 **Forum :**  
@@ -80,7 +80,7 @@ Ce corpus de définitions est là pour faciliter la communication autour du proj
 
 <a name="I.1"></a>
 #### 1. Optique
-*L'optique c'est l'analyse des buts de la collaboration, "dans quelle direction regardons-nous"*
+*L'optique c'est l'analyse des buts de la collaboration : dans quelle direction regardons-nous ?*
 <a name="I.1.a"></a>
 ##### a. Défi
 Question soumise pour l'organisateur de l'événement, ici Léo, et par extension, tous le processus d'élaboration de réponses par les participants.
@@ -125,13 +125,13 @@ Observation, critique, avis fait sur un post. Ce n'est pas un document collabora
 **Remarque** : les définitions qui suivent ne s'excluent pas les unes des autres.
 
 <a name="I.3.a"></a>
-##### a. Modération Oligarchique
+##### a. Modération oligarchique
 Le choix des modérateurs se fait par l'ultime souverain : Léo.
 <a name="I.3.b"></a>
-##### b. Modération Méritocratique
+##### b. Modération méritocratique
 Le choix des modérateurs se fait par *réputation*.
 <a name="I.3.c"></a>
-##### c. Modération Démocratique
+##### c. Modération démocratique
 Le choix des modérateurs se fait par *élection*.  
 <a name="I.3.d"></a>
 ##### d. Réputation
@@ -141,15 +141,15 @@ La réputation, c'est une métrique (un score) qui est d'autant plus grand que l
 Une élection est l'attribution d'un rôle (ex modérateur) par le résultat d'un vote de la communauté, pour une durée finie (mandat).
 <a name="I.3.f"></a>
 ##### f. Vote Simple
-Un vote simple est exactement comme lorsqu'on donne un pouce sur facebook ou youtube.
+Un vote simple est exactement comme lorsqu'on donne un pouce sur Facebook ou YouTube.
 <a name="I.3.g"></a>
 ##### g. Vote Catégorique
 Un vote catégorique est comme un vote simple à la différence près que le votant a plusieurs choix. Il donne l'avantage de pouvoir créer des *filtres catégoriques* et d'avoir un système de réputation plus fin.  
 > Ex : Pas bête, Drôle, Impertinent, Spam, Troll ...
 
 <a name="I.3.h"></a>
-##### h. Filtre Catégorique
-Un filtre catégorique permet à l'utilisateur de l'application de ne sélectionner que les posts "Pas bêtes", "Drôle", "Impertinent"... etc
+##### h. Filtre catégorique
+Un filtre catégorique permet à l'utilisateur de l'application de ne sélectionner que les posts « Pas bête », « Drôle », « Impertinent », etc.
 <a name="I.3.i"></a>
 ##### i. Rôle
 Un *Rôle* est une mission assumée par un membre le temps d'un *défi*.
@@ -162,7 +162,7 @@ Exemples (proposés par [Gophys](https://github.com/Gophys)) :
 
 * **Policier**: personne mettant en avant les comportements non respectueux
 * **Expert**: personne proposant de nouvelles solutions ou des modifications pertinentes dans un domaine particulier
-* **Journaliste**: personne donnant souvent un "pouce vert" aux nouvelles idées/modifications, avant d'être suivie par la foule
+* **Journaliste**: personne donnant souvent un « pouce levé » aux nouvelles idées/modifications, avant d'être suivie par la foule
 
 <a name="I.3.k"></a>
 ##### k. Consensus tacite/implicite - Lazy consensus
@@ -223,7 +223,7 @@ Affiche tous les posts référés dans le chemin `Propulsion:Fusées`.
 
 <a name="I.4.e"></a>
 Va agréger (fusionner) tous les noeuds appellés `Fusées`
-##### e. Niveau de Détail
+##### e. Niveau de détail
 Au sujet d'une représentation visuelle (arbre), choix des noeuds à afficher pour conserver un bon niveau de lisibilité.
 
 ##### f. Ontologie
@@ -235,16 +235,16 @@ Un peu comme dans un wiki, des définitions sont référées les une aux autres 
 Les différentes natures de ces relations (proposées par [Piratdu52](https://github.com/Piratdu52)) sont :
 
 >
-**Spécialisation**: Pour les liens de type un carré est un rectangle. Il sera surement obligatoire de créer une balise "généralisation" simplement pour ne pas avoir la liste de tout les modelés d'avions sur la page du concept d'avion.
-**Association**: Pour définir un concept n'ayant pas de nom a proprement parler, tel qu'un couple (jockey, cheval), on fait un ovale avec les concept lié entre eux , tel un graphe dans le graphe et on lie a un autre concept.
+**Spécialisation** : Pour les liens de type un carré est un rectangle. Il sera surement obligatoire de créer une balise « généralisation » simplement pour ne pas avoir la liste de tout les modelés d'avions sur la page du concept d'avion.
+**Association** : Pour définir un concept n'ayant pas de nom a proprement parler, tel qu'un couple (jockey, cheval), on fait un ovale avec les concept lié entre eux , tel un graphe dans le graphe et on lie a un autre concept.
 **Action**: Pour faire simple c'est le verbe d'une phrase liant deux concept, on lui passerait ce verbe en paramètre qui serait affiché dans un rectangle sur le lien.
 >
-**Composant**: On définit un concept faisant partie du concept courant(on peut éventuellement pointer sur un concept existant) et pouvant être amené a varier selon le cas. Tel un terrain pour une course. C'est un point d'ancrage pour la balise suivante. Si il n'est pas utilisé, on ne l'affiche pas. Sinon on affiche un triangle lié au nœud avec le nom du concept a l’intérieur.
-**Variation**:On prend trois paramétrés, le concept qui varie (le terrain), le concept sur lequel il varie (course), le concept  spécialisé utilisé (piste de formule 1). On représentante ensuite le lien entre le composant et le nœud variation par un lien de type spécialisation.
+**Composant** : On définit un concept faisant partie du concept courant(on peut éventuellement pointer sur un concept existant) et pouvant être amené a varier selon le cas. Tel un terrain pour une course. C'est un point d'ancrage pour la balise suivante. Si il n'est pas utilisé, on ne l'affiche pas. Sinon on affiche un triangle lié au nœud avec le nom du concept a l’intérieur.
+**Variation** :On prend trois paramétrés, le concept qui varie (le terrain), le concept sur lequel il varie (course), le concept  spécialisé utilisé (piste de formule 1). On représentante ensuite le lien entre le composant et le nœud variation par un lien de type spécialisation.
 >
-Et une balise optionnelle:
+Et une balise optionnelle :
 >
-**NoFollow**: Pour que le moteur ignore le lien. Utile pour pointer vers une page qui n'a pas de lien sémantique directe, par exemple pour comparer les performances de deux concept d'éclairage tel la bougie et l'ampoule.
+**NoFollow** : Pour que le moteur ignore le lien. Utile pour pointer vers une page qui n'a pas de lien sémantique directe, par exemple pour comparer les performances de deux concept d'éclairage tel la bougie et l'ampoule.
 
 <a name="I.5"></a>
 #### 5. Versionnement
@@ -259,7 +259,7 @@ Une version figée d'un [*post versionné*](#I.2.b), qu'on peut rétablir plus t
 <a name="I.5.b"></a>
 ##### b. Fusion
 Action de fusionner deux posts sémantiquement proches.  
-*Questions* : qui propose la fusion ? Un utilisateur peut-il suggérer la fusion de deux posts qu'il trouve proches? P'tet une option "proposer une fusion", cette dernière devant être validée par les deux auteurs...
+*Questions* : qui propose la fusion ? Un utilisateur peut-il suggérer la fusion de deux posts qu'il trouve proches ? Peut-être une option « proposer une fusion », cette dernière devant être validée par les deux auteurs...
 
 <a name="I.5.c"></a>
 ##### c. Soumission
@@ -267,11 +267,11 @@ Action de fusionner deux posts sémantiquement proches.
 Action de soumettre à l'auteur d'un post une nouvelle **version** du document.
 
 <a name="I.5.d"></a>
-##### d. Post Cible
+##### d. Poste cible
 C'est la destination, reçu par l'*hôte*, de la *fusion*.
 
 <a name="I.5.e"></a>
-##### e. Post Source
+##### e. Poste source
 C'est le document *amendé* (proposé par l'amendeur) de la fusion.
 
 <a name="I.5.f"></a>
@@ -301,29 +301,29 @@ Catégorisons de types de données :
   - ...*
 
 <a name="I.6.a"></a>
-##### a. Application Souveraine
+##### a. Application souveraine
 Créer une source de données spécifique et propre, une nouvelle base de donnée. Cela permettrai la mise en oeuvre de certains cas d'utilisation comme la fusion, les gestions des cycles de vies, la gestion des versions, etc...
 
-**pros**
+**Avantages**
 - Permet l'édition collaborative, versionnement et fusion
 - Donne globalement plus de marge de manoeuvre à la gestion des contenus par l'application
 
-**cons**
-- Séparé de Youtube, effort pour le participant
+**Inconvénients**
+- Séparé de YouTube, effort pour le participant
 
 <a name="I.6.b"></a>
-##### b. Application Intégrée
-Utiliser pour les données primaires les commentaires de Youtube et leurs réponses. Cela limitera certain cas d'utilisation, mais cela permettra de ne pas perturber les utilisateurs de Youtube, qui pourront continuer à faire des propositions, faire leurs réponses comme d'habitude ! Les utilisateurs qui voudrons prendre du recul pourrons alors passer sur la présente application pour gérer ces commentaires, les regrouper, les tagger, etc... Les données d'associations sémantiques seraient, quant à elle, stockées spécifiquement. Ce qui est interessant c'est que cette mécanique serait accessible alors pour toutes les chaines Youtube.
+##### b. Application intégrée
+Utiliser pour les données primaires les commentaires de YouTube et leurs réponses. Cela limitera certain cas d'utilisation, mais cela permettra de ne pas perturber les utilisateurs de YouTube, qui pourront continuer à faire des propositions, faire leurs réponses comme d'habitude ! Les utilisateurs qui voudrons prendre du recul pourrons alors passer sur la présente application pour gérer ces commentaires, les regrouper, les tagger, etc... Les données d'associations sémantiques seraient, quant à elle, stockées spécifiquement. Ce qui est interessant c'est que cette mécanique serait accessible alors pour toutes les chaines YouTube.
 
-On pourrait aussi imaginer une syntaxe pour que l'application "filtre" les messages qui ont un rapport, permettant par exemple une intégration avec les hashs sémantiques!
+On pourrait aussi imaginer une syntaxe pour que l'application « filtre » les messages qui ont un rapport, permettant par exemple une intégration avec les hashs sémantiques!
 
-**pros**
+**Avantages**
 - Pas de changement brutal des habitudes pour les participants
-- Ouverture de la plateforme à toutes les chaines Youtube
-- Authentification par Youtube ou Google+, c'est un parti pris
+- Ouverture de la plateforme à toutes les chaines YouTube
+- Authentification par YouTube ou Google+, c'est un parti pris
 
-**cons**
-- Authentification par Youtube ou Google+, c'est un parti pris
+**Inconvénients**
+- Authentification par YouTube ou Google+, c'est un parti pris
 - Versionnement des posts rendu plus compliqué
 
 <a name="II"></a>
@@ -336,7 +336,7 @@ Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situ�
 - elle doit s'appuyer rigoureusement sur le vocabulaire définit en [**I**](#I)
 - elle doit être rédigée avec **concision** et esprit de **synthèse**
 - elle doit offrir une **perspective** à minima sur les points suivants :
-  1. Application Souveraine vs Application intégrée ?
+  1. Application souveraine vs Application intégrée ?
   2. Posts Versionnés vs posts simples
   3. Type de modération
   4. Choix technologique sur la sémantique
@@ -356,6 +356,6 @@ Remarques importantes :
 #### 2. Référencement des VE
 *Voici la liste des VE et de leur issue associée sur le forum*
 
-**VE 1** : [Suivre le chemin tracé par la synthèse des commentaires Youtube](VE/VE-Frosty-Z.MD)
+**VE 1** : [Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)
 
 **VE 2** : [La foule a les pleins pouvoirs](VE/VE-Gophys.MD)
