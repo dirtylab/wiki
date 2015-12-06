@@ -1,22 +1,22 @@
-Synthèse des commentaires youtube
-----------------------------------------------------------
-**Problématique** :  **"Comment collaborer à 5000 cerveaux sur la même question ?".**  
+# Synthèse des commentaires youtube
+
+**Problématique : Comment collaborer à 5000 cerveaux sur la même question ? ».**
+
 - Les commentaires les plus pertinents ne sont pas forcément les plus likés
 - Aller à la recherche des commentaires pertinents est une tâche laborieuse!
 - Cette *navigation en eaux troubles* limite la circulation des idées, et cause de nombreux doublons
 
 De nombreuses interventions sont venues apporter des éléments de réponse à ces problèmes, en voici la synthèse!
 
-Sommaire
-----------------------------------------------------------
+## Sommaire
 
 I. [Participer à la synthèse](#I)
 
 II. [Synthèse des commentaires Youtube](#II)
   1. [Espace de discussion (60% des propositions)](#II.1)
-  2. [Espace Q&A / sondage (20%)](#II.2)
+  2. [Espace Q&R / sondage (20%)](#II.2)
   3. [Espace d'écriture collaborative (15%)](#II.3)
-  4. [Espace de T'chat (5%)](#II.4)
+  4. [Espace de tchat (5%)](#II.4)
 
 III. [Agrégation des propositions de fonctionnalités pour une plateforme collaborative](#III)
   1. [Espace de discussion (commentaires, forum...)](#III.1)
@@ -27,15 +27,12 @@ III. [Agrégation des propositions de fonctionnalités pour une plateforme colla
     5. [Une interface qui favorise l'évaluation entre pairs](#III.1.5)
     6. [L'édition collaborative des posts](#III.1.6)
     7. [L'organisation une comunauté qui prémache le filtrage](#III.1.7)
-  2. [Espace Q&A](#III.2)
+  2. [Espace Q&R](#III.2)
   3. [Espace d'écriture collaborative](#III.3)
-
-
 
 <a name="I"></a>
 ## I. Participer à la synthèse
 **Pour faire une proposition d'édition**, suivez [**notre petit tutoriel**](https://github.com/sveinburne/lets-play-science/blob/master/HELP.MD).
-
 
 <a name="II"></a>
 ## II. Synthèse des commentaires Youtube
@@ -63,7 +60,7 @@ Beaucoup partent du constat que les fonctionnalités offertes par le système de
   3. De faire de l'analyse syntaxique pour dégager les principaux mots clés, tendances
 
 <a name="II.2"></a>
-### 2. Espace Q&A / sondage (20% des propositions)
+### 2. Espace Q&R / sondage (20% des propositions)
 
 **Fonctionnalité particulière souvent proposée :**
 * Eviter l'effet "mouton" en masquant les votes, en ordonnant aléatoirement les propositions (pendant un temps limité ou non), etc.
@@ -89,7 +86,6 @@ Dans une moindre mesure, l'idée de faire collaborer les internautes directement
 ### 4. Espace de T'Chat (5%)
 
 Propositions de participants qui utilisent régulièrement IRC ou Twitch.
-
 
 <a name="III"></a>
 ## III. Agrégation des propositions de fonctionnalités pour une plateforme collaborative
@@ -166,7 +162,6 @@ Comment transporter l'humanité dans l'espace ?
 - **c** Fusion de **a** et **b** : un hashtag avec domaine de noms, séparés par des `:`
   - Exemple : `#Ascenceurs Spaciaux:Skyhook`
 
-
 *[proposé par Fjellfrass ](https://www.youtube.com/user/Fjellfrass), [ Sebastien Huet](https://www.youtube.com/user/huetse), [heyhoo yoo](https://www.youtube.com/channel/UCfKFZIdjzeti_fbmDH4uIvg)*
 - **d** Par une analyse syntaxique des posts (computationnellement très couteux !)
 
@@ -231,8 +226,6 @@ Dans ce mode, **seuls les contenus non marqués (comme "vu", "pas con", "spam" o
   - Le nombre de vues n'a qu'une influence marginale sur l'évaluation de qualité d'un post. On peut imaginer une fonction racine cubique par exemple.
   - Ca reste une structure souple, par exemple on est pas obligé de commencer tout de suite par un pre-run, on peut commencer par une phase de publication vide.
 
-
-
 *Proposé par [Jean Baptiste Dallara](https://www.youtube.com/user/a46production)*
 - **e** Un peu à la facemash, proposer des paires de propositions et demander à l'évaluateur celle qu'il trouve la plus pertinente.  
 
@@ -253,7 +246,7 @@ Avec notamment :
 - Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu (voire déprime carrément) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
 
 <a name="III.2"></a>
-#### **2** Espace Q&A
+#### **2** Espace Q&R
 
 *proposé par [Frosty-Z](https://github.com/Frosty-Z)*
 
@@ -272,4 +265,4 @@ Permet d'effectuer une synthèse et rassembler des références de manière coll
 
 *proposé par [Frosty-Z](https://github.com/Frosty-Z)*
 
-Dans l'éventualité d'un *espace Q&A*, on peut envisager que chaque proposition (et sous-proposition) soit modifiable de manière collaborative. L'*espace Q&A* et l'*espace d'écriture collaborative* seraient donc confondus.
+Dans l'éventualité d'un *espace Q&R*, on peut envisager que chaque proposition (et sous-proposition) soit modifiable de manière collaborative. L'*espace Q&R* et l'*espace d'écriture collaborative* seraient donc confondus.
