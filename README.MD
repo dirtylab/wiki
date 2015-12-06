@@ -54,7 +54,7 @@ On est des fous et on fait l'application en Open Source!
 #### 1. Participer à la réflexion sur l'application, pas besoin d'être dev'
 *Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
 
-- Consultez les documents dédiés : [THE_APP.MD](THE_APP.MD) et [INSPIRATION.MD](#INSPIRATION.MD)
+- Consultez les documents dédiés : [THE_APP.MD](THE_APP.MD) et [INSPIRATION.MD](INSPIRATION.MD)
 - Lisez [ce billet](https://github.com/sveinburne/lets-play-science/issues/11)
 - Consulter les issues taguées avec
   - [`label:vision d'ensemble`,](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3A%22vision+d%27ensemble%22+)
