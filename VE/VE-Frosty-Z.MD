@@ -1,62 +1,64 @@
 Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 ==
-Titre : Mieux exploiter les espaces de discussion existants + proposer un espace Q&A adapté
+Titre : Suivre le chemin tracé par la [synthèse des commentaires Youtube](SYNTHESE.MD)
 -
 
 Principe
 -
-**Dans un premier temps**, exploiter au maximum les données des commentaires Youtube / Facebook tel que décrit dans le [`Readme`](https://github.com/sveinburne/lets-play-science/blob/master/README.md) via une **application intégrée**. En parallèle, mettre en avant un **[espace Q&A](#II)** aussi adapté que possible au cas de *Let's Play Science*, afin d'exploiter la grande efficacité collaborative mise en évidence par ce type d'outil (s'il ne fallait citer qu'un exemple : [Biology StackExchange](http://biology.stackexchange.com/)).
-Evidemment, l'ensemble devra rester simple pour être exploitable rapidement, et éviter de se perdre dans des développements trop coûteux et/ou complexes.
 
-**Dans un deuxième temps**, selon le succès et l'efficacité montrés par ces outils "mis à l'épreuve", des fonctionnalités plus avancées pourront être développées, les performances soignées et améliorées, voire de nouveaux outils (si nécessaire) pourront compléter la plateforme.
+Se servir au maximum des **besoins recensés** à la lecture des **commentaires Youtube**, en triant les besoins par le nombre d'occurrences de leur formulation (comme si chaque participant avait *voté* pour les besoins qu'il a exprimé), de nombreux besoins identiques ou très similaires étant exprimés très souvent.
 
+La **proportion d'occurrences** de chaque besoin (ou sous-besoin) servirait également à déterminer la *priorité* à consacrer à chaque besoin.
+Il serait bien entendu possible de travailler sur plusieurs besoins en parallèle (seul ou à plusieurs), en veillant à ne pas trop s'écarter des **proportions exprimées**, en terme de *temps passé* ou *quantité de ressources* consacrés.
+
+Roadmap
+-
+
+Note : je ne donne ici aucune indication de délai / milestone, puisque cela dépend énormément du nombre et de l'implication des bonnes volontés qui contribueront au "défi" !
+
+1. Commencer par s'approprier des outils existants (commentaires Youtube, [GitHub](https://github.com/) + [Gitter](https://gitter.im/sveinburne/lets-play-science) inclus, puisqu'ils servent déjà d'espace de discussion, de rédaction, de t'chat pour quelques-uns)
+
+2. Aller vers des plateformes plus adaptées (notamment plus *accessibles*), comme [Discourse](http://www.discourse.org/) pour l'espace de discussion, un [StackOverflow](http://stackoverflow.com/)-like pour l'espace Q&A...
+
+3. Selon le succès rencontré par les plateformes, et les besoins d'amélioration encore exprimés, le développement d'une plateforme spécifique (développée par la *communauté DirtyBiology*) regroupant tout ou partie des espaces de collaboration serait lancé.
 
 <a name="I"></a>
 I. Espace de discussion (fil de commentaires, forum...)
 -
 
 <a name="I.1"></a>
-### I.1. Application intégrée (Youtube + Facebook + interface de "suivi")
-
-**Fonctionnalités disponibles sur la "plateforme externe"**
-* Soumettre un commentaire/post
-* Cliquer sur les boutons :+1: / :-1: (selon plateforme)
-* Répondre spécifiquement à un commentaire (=> arborescence de commentaires)
-
-**Fonctionnalités disponibles sur la *plateforme Let's Play Science* suite à un traitement des commentaires "bruts" :**
-* Exploitation de données type metrics (nombre de posts, occurrences de mots...)
-* Moteur de recherche de commentaires simple
-* Toute autre fonctionnalité simple à mettre en oeuvre (analyseurs syntaxiques existants...) qui peuvent apporter une information générale sur la masse de commentaires bruts sans être trop coûteux.
-
-
-<a name="I.2"></a>
 ### I.2. Application souveraine
 
-**Coût global certainement sensiblement plus élevé** que le cas de l'[application intégrée](#I.1). A voir **dans un deuxième temps**.
+Fonctionnalités proposées : identiques à ce qui est décrit dans [la synthèse des commentaires Youtube](https://github.com/sveinburne/lets-play-science/blob/master/SYNTHESE.MD#II.1), détails à discuter/décider
 
-Implique que Léo bloque les commentaires Youtube, et indique sur Youtube et Facebook un lien vers la plateforme de collaboration pour Let's Play Science (par ex. page d'accueil du défi en cours).
+<a name="I.2"></a>
+### I.1. Application intégrée (Youtube + Facebook + interface de "suivi")
 
-**Fonctionnalités** qui seraient disponibles en plus du cas de l'[application intégrée](#I.1), correspondant autant que possible au [**II.1** du `Readme`](https://github.com/sveinburne/lets-play-science/blob/master/README.md#II), et *à prioriser* :
-* Votes par catégorie sur chaque post
-* Hashtags (avec éventuellement gestion de namespaces : Hashtags sémantiques)
-* etc.
+Quelques propositions plus détaillées que dans [la synthèse](https://github.com/sveinburne/lets-play-science/blob/master/SYNTHESE.MD#II.1) :
 
-Excepté la notion de [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné) car déjà présente dans [l'espace Q&A](#II). Les posts seraient tout de même éditables par l'auteur + les modos, mais sans gestion d'historique de versions.
+* Tenter une organisation minimale des commentaires Youtube : Léo posterait d'emblée sous chaque future *vidéo LetsPlayScience* des commentaires faisant office de *catégories*. Par exemple :
+  * Réactions sur le défi traité dans la vidéo (ex. *nous n'irons pas dans l'espace*) ? Répondez ici SVP
+  * Propositions pour le prochain défi (ex. *comment collaborer à 5000*) ? Participez sur la plateforme dédiée + lien (*si la plateforme existe, sinon* "Répondez ici SVP")
+  * Rien de tout cela ? Répondez ici SVP
 
+* Exploitation des commentaires "bruts" par une *plateforme souveraine LetsPlayScience* :
+  * Exploitation de données type metrics (nombre de posts, occurrences de mots...)
+  * Moteur de recherche de commentaires simple
+  * Toute autre fonctionnalité simple à mettre en oeuvre (analyseurs syntaxiques existants...) qui peut apporter une information générale sur la masse de commentaires bruts sans être trop coûteux.
 
+* *Noter les commentaires* (suggéré plusieurs fois), serait beaucoup plus simple à gérer/synthétiser via un espace de discussion souverain, et fait partie du fonctionnement d'un espace Q&A (vote) :arrow_right: je proposerais d'écarter cette demande dans le cadre d'une *vision d'ensemble* (censée former un tout cohérent)
 
 <a name="II"></a>
 II. Espace Q&A + écriture collaborative
 -
-
-Inspiré de StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), ou "fait maison" si on ne trouve rien qui correspond aux fonctionnalités que l'on souhaite en gratuit.
-
-Implique que Léo mette en avant l'existence de l'outil, dans la vidéo + dans les liens en dessous.
+Outil existant similaire à StackOverflow, Yahoo Q&A, Tricider... ou [autre](http://web.appstorm.net/roundups/18-awesome-survey-poll-apps/), sinon "fait maison" si on ne trouve rien qui correspond aux fonctionnalités indispensables que l'on souhaite en gratuit.
 
 <a name="II.1"></a>
 ### II.1. Avantages
 
-* Permet de [**structurer les propositions de manière arborescente**](#II.2.1), s'apparentant à un **"mind map"** en temps réel (un "mind map" succinct peut également être envisagé en ne retenant que les *titres* des sous-propositions, sous-défis, sous-sous-propositions, etc. et pourrait très bien faire office de page d'accueil)
+* Permettrait d'exploiter la grande efficacité collaborative mise en évidence par ce type d'outil (s'il ne fallait citer qu'un exemple : [Biology StackExchange](http://biology.stackexchange.com/)).
+
+* Permettrait de [**structurer les propositions de manière arborescente**](#II.2.1), s'apparentant à un **"mind map"** en temps réel (un "mind map" succinct peut également être envisagé en ne retenant que les *titres* des sous-propositions, sous-défis, sous-sous-propositions, etc. et pourrait très bien faire office de page d'accueil)
 
 * **Tous nouveaux élements** (références, arguments, etc.) **sont agrégés au fil des participations** (modification, ou proposition de modification possible par tous, Wiki-like) **et visibles facilement par tous** (vs. revue fastidieuse de posts souvent redondants, hors sujet, d'une file de discussion)
  * Constitue une expérience d'écriture collaborative
@@ -65,9 +67,10 @@ Implique que Léo mette en avant l'existence de l'outil, dans la vidéo + dans l
 
 * **La fin du défi peut intervenir à tout moment**, lorsque les diverses propositions semblent être arrivées à "maturité" (par ex. en suivant un metric sur le nombre de propositions / edits par jour)
 
-
 <a name="II.2"></a>
 ### II.2. Fonctionnalités
+
+Proposition de fonctionnalités reprenant les grands principes des sites Q&A les plus connus + quelques adaptations pour mener une *réflexion complète sur un sujet* (enchaînement/arborescence de questions et sous-questions...), plutôt que de se limiter à des questions posées *de manière isolée*.
 
 <a name="II.2.1"></a>
 #### II.2.1. Questions/Réponses
@@ -86,13 +89,13 @@ Valorisant, motivant, ludique. Reflète le niveau de confiance accordé à un pa
 
 Peut permettre à terme de "débloquer" certaines fonctionnalités avancées (alerter un modo, modifier une définition de hashtag...), par défaut inacessibles.
 
-* +1 par contribution (proposition, création de sous-défi, édition approuvée par un modo...)
-* +3 par vote positif reçu sur sa propre proposition
-* -1 par vote négatif donné ou reçu
-* *[Dev de priorité moindre]* +1 par vote positif reçu sur une proposition à laquelle on a participé (par ex. édition d'au moins 100 caractères, approuvée par un modo)
+* `+1` par contribution (proposition, création de sous-défi, édition approuvée par un modo...)
+* `+3` par vote positif reçu sur sa propre proposition
+* `-1` par vote négatif donné ou reçu
+* *[Dev de priorité moindre]* `+1` par vote positif reçu sur une proposition à laquelle on a participé (par ex. édition d'au moins 100 caractères, approuvée par un modo)
 
 Ce mécanisme de réputation peut être combiné à des participations sur l'[*espace de discussion*](#1), notamment en cas de vote par catégorie
-* +3 pour un vote "intéressant" reçu
+* `+3` pour un vote "intéressant" reçu
 
 <a name="II.2.4"></a>
 #### II.2.4. Modération
@@ -122,11 +125,20 @@ Possibilité de :
 
 
 <a name="III"></a>
-III. Modération
+III. Espace de t'chat
+-
+
+Pour le moment [Gitter](https://gitter.im/sveinburne/lets-play-science) s'en sort très bien.
+
+A voir dans le temps s'il sera nécessaire de séparer les **discussions sur les défis** des **discussions sur l'évolution de la plateforme LetsPlayScience**. Sur Gitter, cela peut se faire à l'aide de *"rooms"* distinctes.
+
+
+<a name="IV"></a>
+IV. Modération
 -
 
 Considérations d'ordre général :
 
-* Dans un premier temps, Léo + les développeurs de la plateforme seraient modos, tous espaces confondus.
-* Ensuite si nécessaire des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), pourraient être envisagées.
+* Dans un premier temps, Léo + les développeurs/installeurs des outils/plateformes seraient modos.
+* Ensuite, si ce besoin est exprimé par la communauté, des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), seraient envisagées.
 
