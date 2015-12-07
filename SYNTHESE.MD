@@ -1,14 +1,16 @@
-# Synthèse des commentaires youtube
+Synthèse des commentaires Youtube
+=================================
 
-**Problématique : Comment collaborer à 5000 cerveaux sur la même question ? ».**
+**Problématique : comment collaborer à 5000 cerveaux sur la même question ?.**
 
 - Les commentaires les plus pertinents ne sont pas forcément les plus likés
-- Aller à la recherche des commentaires pertinents est une tâche laborieuse!
+- Aller à la recherche des commentaires pertinents est une tâche laborieuse
 - Cette *navigation en eaux troubles* limite la circulation des idées, et cause de nombreux doublons
 
-De nombreuses interventions sont venues apporter des éléments de réponse à ces problèmes, en voici la synthèse!
+De nombreuses interventions sont venues apporter des éléments de réponse à ces problèmes, en voici la synthèse.
 
-## Sommaire
+Sommaire
+--------
 
 I. [Participer à la synthèse](#I)
 
@@ -31,11 +33,13 @@ III. [Agrégation des propositions de fonctionnalités pour une plateforme colla
   3. [Espace d'écriture collaborative](#III.3)
 
 <a name="I"></a>
-## I. Participer à la synthèse
+I. Participer à la synthèse
+---------------------------
 **Pour faire une proposition d'édition**, suivez [**notre petit tutoriel**](https://github.com/sveinburne/lets-play-science/blob/master/HELP.MD).
 
 <a name="II"></a>
-## II. Synthèse des commentaires Youtube
+II. Synthèse des commentaires Youtube
+-------------------------------------
 
 <a name="II.1"></a>
 ### 1. Espace de discussion (60% des propositions)
@@ -88,7 +92,8 @@ Dans une moindre mesure, l'idée de faire collaborer les internautes directement
 Propositions de participants qui utilisent régulièrement IRC ou Twitch.
 
 <a name="III"></a>
-## III. Agrégation des propositions de fonctionnalités pour une plateforme collaborative
+III. Agrégation des propositions de fonctionnalités pour une plateforme collaborative
+-------------------------------------------------------------------------------------
 
 **Un nombre très majoritaire de contributeurs s'accordent sur la nécessité de déplacer la discussion sur une plateforme 'augmentée' qui améliorerait de façon drastique la circulation des idées et favoriserait l'évaluation des propositions peu exposées**
 
