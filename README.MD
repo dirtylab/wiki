@@ -1,20 +1,18 @@
-
-LetsPlayScience #3 - A la recherche de la sagesse des foules
----------------------------------------------------
+# LetsPlayScience #3 - À la recherche de la sagesse des foules
 
 > ***Comment collaborer à 5000 cerveaux sur la même question ?***
 
 **Un repository GitHub** pour organiser les réflexions sur [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
 
-#### Cette plateforme est utilisée comme...
+## Cette plateforme est utilisée comme...
 
-* Outil d'**écriture collaborative** (fichiers `.MD` au format Markdown).  
+* Outil d'**écriture collaborative** (fichiers `.md` au format Markdown).  
   - [Tutoriel très rapide (EN, 5 min)](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)
   - [Tutoriel complet (FR, 20 min)](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
 * **Forum de discussion** (onglet [issues](https://github.com/sveinburne/lets-play-science/issues))
 * Outil de **messagerie instantanée** intégré [![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
 
-#### Ou trouver de l'aide ?
+## Ou trouver de l'aide ?
 
 - [Si vous n'êtes pas familiers de **GitHub**, lisez notre tutoriel](HELP.MD).
 - N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new) pour aborder un sujet
@@ -22,11 +20,7 @@ LetsPlayScience #3 - A la recherche de la sagesse des foules
 
 On sera heureux de vous familiariser avec ces outils ;)
 
-
-
-
-Les objectifs de ce repo ?
-----------------------------------------------------------
+## Les objectifs de ce repo ?
 
 1. Faire la synthèse des propositions sur youtube  
 [c'est ici : SYNTHESE.MD](SYNTHESE.MD)
