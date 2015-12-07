@@ -16,7 +16,7 @@ I. [Participer à la synthèse](#I)
 
 II. [Synthèse des commentaires Youtube](#II)
   1. [Espace de discussion (60% des propositions)](#II.1)
-  2. [Espace Q&R / sondage (20%)](#II.2)
+  2. [Espace questions/réponses / sondage (20%)](#II.2)
   3. [Espace d'écriture collaborative (15%)](#II.3)
   4. [Espace de tchat (5%)](#II.4)
 
@@ -29,7 +29,7 @@ III. [Agrégation des propositions de fonctionnalités pour une plateforme colla
     5. [Une interface qui favorise l'évaluation entre pairs](#III.1.5)
     6. [L'édition collaborative des posts](#III.1.6)
     7. [L'organisation une comunauté qui prémache le filtrage](#III.1.7)
-  2. [Espace Q&R](#III.2)
+  2. [Espace questions/réponses](#III.2)
   3. [Espace d'écriture collaborative](#III.3)
 
 <a name="I"></a>
@@ -64,7 +64,7 @@ Beaucoup partent du constat que les fonctionnalités offertes par le système de
   3. De faire de l'analyse syntaxique pour dégager les principaux mots clés, tendances
 
 <a name="II.2"></a>
-### 2. Espace Q&R / sondage (20% des propositions)
+### 2. Espace questions/réponses / sondage (20% des propositions)
 
 **Fonctionnalité particulière souvent proposée :**
 * Eviter l'effet « mouton » en masquant les votes, en ordonnant aléatoirement les propositions (pendant un temps limité ou non), etc.
@@ -251,7 +251,7 @@ Avec notamment :
 - Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu (voire déprime carrément) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
 
 <a name="III.2"></a>
-#### **2** Espace Q&R
+#### **2** Espace questions/réponses
 
 *proposé par [Frosty-Z](https://github.com/Frosty-Z)*
 
@@ -270,4 +270,4 @@ Permet d'effectuer une synthèse et rassembler des références de manière coll
 
 *proposé par [Frosty-Z](https://github.com/Frosty-Z)*
 
-Dans l'éventualité d'un *espace Q&R*, on peut envisager que chaque proposition (et sous-proposition) soit modifiable de manière collaborative. L'*espace Q&R* et l'*espace d'écriture collaborative* seraient donc confondus.
+Dans l'éventualité d'un *espace questions/réponses*, on peut envisager que chaque proposition (et sous-proposition) soit modifiable de manière collaborative. L'*espace questions/réponses* et l'*espace d'écriture collaborative* seraient donc confondus.
