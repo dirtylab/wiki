@@ -24,8 +24,8 @@ A parcourir en détail pour remplir le tableau ci dessus :
 * [Top 9 moteurs de forums sur SaveDelete.com](http://savedelete.com/software/best-forum-software-free-and-paid/14592/)
 * [Page Wikipédia comparant de nombreux moteurs de forum](https://en.m.wikipedia.org/wiki/Comparison_of_Internet_forum_software)
 
-II. Espace Q&R
---------------
+II. Espace questions/réponses
+-----------------------------
 
 | Outil                        |  Service en ligne        | Projet Github |
 |------------------------------|:------------------------:|:--------------------:|
