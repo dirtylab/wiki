@@ -91,3 +91,8 @@ Au même titre qu'un Wiki, cette application permet de faire des **révisions av
 - L'idée est que chacun puisse éditer ces document en apportant de nouvelles suggestions/idées/synthèses.
 - Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton ![Watch](img/watch.png) en haut à droite.
 - **Pour ne voir que les ajouts récents, et pas se refarcir tout le document à chaque fois**, faites un tour [du côté des *commits*](https://github.com/sveinburne/lets-play-science/commits/master)
+
+
+Licence / Droits d'utilisation du contenu de ce projet Github
+----------------------------------------------------------
+<a rel="licence" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Ce travail est sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
