@@ -69,6 +69,8 @@ Sommaire
       - a [Application Souveraine](#I.6.a)
       - b [Application Intégrée](#I.6.b)
 
+    7. [Technique](#I.7)
+      - a [Dépôt](#I.7.a)
 
 - II. [Visions d'ensemble (VE)](#II)
   1. [Critères de soumission d'une VE](#II.1)
@@ -327,6 +329,21 @@ On pourrait aussi imaginer une syntaxe pour que l'application « filtre » les m
 **Inconvénients**
 - Authentification par YouTube ou Google+, c'est un parti pris
 - Versionnement des posts rendu plus compliqué
+
+
+<a name="I.7"></a>
+### 7. Technique
+*Définitions d'ordre purement technique*
+
+<a name="I.7.a"></a>
+#### a. Dépôt
+
+Ensemble de fichiers constituant le code source (+ documentations, éléments graphiques...) d'un projet, généralement accessible via un service de gestion de source (git, SVN, etc.).
+
+Sur ce site ([GitHub.com](https://github.com)), les **dépôts** sont également associés à diverses fonctionnalités complémentaires telles qu'un gestionnaire de bugs (issues), détourné en **forum** pour le cas de notre **dépôt lets-play-science**.
+
+Un **dépôt** est également appelé couramment **repository** ou **repo**.
+
 
 <a name="II"></a>
 II. Visions d'ensemble (VE)
