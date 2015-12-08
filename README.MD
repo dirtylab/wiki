@@ -2,7 +2,7 @@
 
 > ***Comment collaborer à 5000 cerveaux sur la même question ?***
 
-**Un repository GitHub** pour organiser les réflexions sur [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
+**Un [dépôt](THE_APP.MD#I.7.a) GitHub** pour organiser les réflexions sur [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
 
 ## Cette plateforme est utilisée comme...
 
@@ -20,7 +20,7 @@
 
 On sera heureux de vous familiariser avec ces outils ;)
 
-## Les objectifs de ce repo ?
+## Les objectifs de ce [dépôt](THE_APP.MD#I.7.a) ?
 
 1. Faire la synthèse des propositions sur youtube  
 [c'est ici : SYNTHESE.MD](SYNTHESE.MD)
