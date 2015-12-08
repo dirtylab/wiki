@@ -17,7 +17,7 @@ I. Espace de discussion
 |----------------------------------------------|:------------------:|:-------------:|:----------------:|:----------------:|:---------------------------:|:--------------------------:|
 | [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | ?| ?| ?| ?|
 | [Muut](https://muut.com)                       | :white_check_mark: | | ?| ?| ?| ?|
-| [Discourse](http://www.discourse.org)                       | payant | | ?| ?| ?| ?|
+| [Discourse](http://www.discourse.org)                       | payant | | | :white_check_mark: |  | "like" simple |
 | [GitHub](http://github.com/) ([issues](https://github.com/sveinburne/lets-play-science/issues))                     | :white_check_mark: | | | :white_check_mark: |  | "+1" ZenHub |
 A parcourir en détail pour remplir le tableau ci dessus :
 
