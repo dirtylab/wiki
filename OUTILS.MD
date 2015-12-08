@@ -13,11 +13,12 @@ Comparatif des outils existants
 I. Espace de discussion
 -----------------------
 
-| Outil | Service en ligne | Projet GitHub | Hashtags (posts) | Hashtags (fichiers) | Arborescence | Vote par catégorie (posts) |
+| Outil | Service en ligne | Projet GitHub | Hashtags (posts) | Hashtags (sujets) | Arborescence | Vote par catégorie (posts) |
 |----------------------------------------------|:------------------:|:-------------:|:----------------:|:----------------:|:---------------------------:|:--------------------------:|
 | [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | ?| ?| ?| ?|
 | [Muut](https://muut.com)                       | :white_check_mark: | | ?| ?| ?| ?|
 | [Discourse](http://www.discourse.org)                       | payant | | ?| ?| ?| ?|
+| [GitHub](http://github.com/) ([issues](https://github.com/sveinburne/lets-play-science/issues))                     | :white_check_mark: | | | :white_check_mark: |  | "+1" ZenHub |
 A parcourir en détail pour remplir le tableau ci dessus :
 
 * [Top 15 moteurs de forums sur Quertime.com](http://www.quertime.com/article/15-best-online-forum-platforms-software-free-and-paid/)
