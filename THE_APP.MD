@@ -338,7 +338,7 @@ On pourrait aussi imaginer une syntaxe pour que l'application « filtre » les m
 <a name="I.7.a"></a>
 #### a. Dépôt
 
-Ensemble de fichiers constituant le code source (+ documentations, éléments graphiques...) d'un projet, généralement accessible via un service de gestion de source (git, SVN, etc.).
+Ensemble de fichiers constituant le code source (+ documentations, éléments graphiques...) d'un projet, généralement accessible via un [service de gestion de source](https://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions) (git, SVN, etc.).
 
 Sur ce site ([GitHub.com](https://github.com)), les **dépôts** sont également associés à diverses fonctionnalités complémentaires telles qu'un gestionnaire de bugs (issues), détourné en **forum** pour le cas de notre **dépôt lets-play-science**.
 
