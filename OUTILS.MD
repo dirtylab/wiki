@@ -40,3 +40,12 @@ III. Espace d'écriture collaboratif
 | Outil  |  Service en ligne   | Projet GitHub | Commentaires |
 |----------------------------------------------|:--------------------:|:-------------:|:-----------|
 | GitHub | :white_check_mark:  |               | Il y a certainement plus « accessible » (plateformes type wiki ?) |
+
+
+IV. Espace de t'chat
+--------------------
+
+| Outil  |  Service en ligne   | Commentaires |
+|--------|:--------------------:|:-----------|
+| Gitter | :white_check_mark: | *plateforme courante* |
+| [Slack](https://slack.com/) | :white_check_mark:  |               |
