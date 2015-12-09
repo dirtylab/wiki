@@ -100,7 +100,7 @@ Proposition de fonctionnalités reprenant les grands principes des sites Q&A les
 * Au début du cycle de vie, seule la question principale (correspondant au défi) serait posée.
 * Chaque participant peut formuler une ou plusieurs propositions
 * Les propositions sont classées par "score" (nb. votes positifs + nb. votes négatifs) décroissant
-* Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*), et formant ainsi une arborescence (défi :arrow_right: proposition :arrow_right: sous-défi :arrow_right: etc.)
+* Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*), et formant ainsi une **arborescence** (défi :arrow_right: proposition :arrow_right: sous-défi :arrow_right: sous-proposition :arrow_right: sous-sous-défi :arrow_right: etc.)
 
 <a name="II.2.2"></a>
 #### II.2.2. Votes
@@ -122,13 +122,17 @@ Ce mécanisme de réputation peut être combiné à des participations sur l'[*e
 
 <a name="II.2.4"></a>
 #### II.2.4. Modération
-Possibilité de :
-* modifier tout (sous-)défi, et (sous-)proposition, avec versionnage
-* supprimer des sous-défis, (sous-)propositions, hashtags...
-* réorganiser l'arborescence de défis/propositions (au minimum : pouvoir changer la "proposition parente" d'un sous-défi)
+
+Modération "à posteriori" assez classique :
+* Tout **participant authentifié** doit pouvoir signaler un **sous-défi** ou une **(sous-)proposition** problématique (HS, insulte, doublon, mal placé dans l'arborescence...)
+* Un **modérateur** aurait alors la possibilité de :
+  * Modifier tout **(sous-)défi**, et **(sous-)proposition** (un historique des versions serait conservé à la manière d'un [post versionné](THE_APP.MD#b-post-versionné))
+  * Supprimer des **sous-défis**, **(sous-)propositions**, **hashtags**...
+  * Réorganiser l'arborescence de **défis/propositions** (au minimum : pouvoir changer la "proposition parente" d'un **sous-défi**)
+
 
 <a name="II.2.5"></a>
-#### II.2.5. Possibilité d'éditer les questions et réponses de manière collaborative (= [posts versionnés](https://github.com/sveinburne/lets-play-science/blob/master/THE_APP.MD#b-post-versionné))
+#### II.2.5. Possibilité d'éditer les questions et réponses de manière collaborative (= [posts versionnés](THE_APP.MD#b-post-versionné))
 * L'auteur de la question/proposition, un modo, ou un participant authentifié (avec validation par modo), peut modifier son contenu (titre, description, hashtags...), avec versionnage, permettant ainsi une *rédaction collaborative* des (sous-)propositions.
 * Modifications concurrentes : dans un premier temps, je propose un simple "c'est le dernier commit qui gagne" étant donné qu'on aurait le versionnage d'entrée de jeu. A voir dans le temps et selon le succès de la plateforme, pour une gestion plus poussée.
 
