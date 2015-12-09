@@ -167,6 +167,6 @@ IV. Modération
 
 Considérations d'ordre général :
 
-* Dans un premier temps, Léo + les développeurs/installeurs des outils/plateformes seraient modos.
-* Ensuite, si ce besoin est exprimé par la communauté, des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), seraient envisagées.
+* Dans un premier temps, Léo + les développeurs/installeurs des outils/plateformes seraient modos ([modération oligarchique](THE_APP.MD#a-modération-oligarchique)).
+* Ensuite, si ce besoin est exprimé par la communauté, des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), seraient envisagées ([modération démocratique et/ou méritocratique](THE_APP.MD#b-modération-méritocratique)).
 
