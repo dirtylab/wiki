@@ -41,9 +41,9 @@ Note : je ne donne ici aucune indication de délai / milestone, puisque cela dé
 
 1. Commencer par s'approprier des outils existants (commentaires Youtube, [GitHub](https://github.com/) + [Gitter](https://gitter.im/sveinburne/lets-play-science) inclus, puisqu'ils servent déjà d'espace de discussion, de rédaction, de t'chat pour quelques-uns)
 
-2. Aller vers des plateformes plus adaptées (notamment plus *accessibles*), comme [Discourse](http://www.discourse.org/) pour l'espace de discussion, un [StackOverflow](http://stackoverflow.com/)-like pour l'espace Q&A...
+2. Aller vers des plateformes plus adaptées (notamment plus *accessibles*), comme [Discourse](http://www.discourse.org/) ou [Vanilla Open Source](http://vanillaforums.org/discussions) pour l'espace de discussion, un [StackOverflow](http://stackoverflow.com/)-like pour l'espace Q&A...
 
-3. Selon le succès rencontré par les plateformes, et les besoins d'amélioration encore exprimés, le développement d'une plateforme spécifique (développée par la *communauté DirtyBiology*) regroupant tout ou partie des espaces de collaboration serait lancé.
+3. Selon le succès rencontré par les plateformes, et les besoins d'amélioration encore exprimés, le développement d'une plateforme spécifique (développée par la **communauté DirtyBiology**), regroupant tout ou partie des espaces de collaboration, serait lancé.
 
 <a name="I"></a>
 I. Espace de discussion (fil de commentaires, forum...)
@@ -100,7 +100,8 @@ Proposition de fonctionnalités reprenant les grands principes des sites Q&A les
 * Au début du cycle de vie, seule la question principale (correspondant au défi) serait posée.
 * Chaque participant peut formuler une ou plusieurs propositions
 * Les propositions sont classées par "score" (nb. votes positifs + nb. votes négatifs) décroissant
-* Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. défi *"Peut-on envoyer l'humanité dans l'espace ?"*, une proposition est formulée sur l'idée de fusée, un participant peut créer la question associée : *"Quel est le meilleur système de propulsion pour une fusée ?"*), et formant ainsi une **arborescence** (défi :arrow_right: proposition :arrow_right: sous-défi :arrow_right: sous-proposition :arrow_right: sous-sous-défi :arrow_right: etc.)
+* Tout participant, dès qu'il l'estime nécessaire, peut créer une ou plusieurs sous-questions ("sous-défis"), permettant d'affiner les "propositions principales" (par ex. **défi** *"Peut-on envoyer l'humanité dans l'espace ?"*, une **proposition** est formulée sur l'idée de fusée, un participant peut alors créer une question associée (= **sous-défi**) : *"Quel est le meilleur système de propulsion pour une fusée ?"*), et formant ainsi une **arborescence** :
+  * défi :arrow_right: proposition :arrow_right: sous-défi :arrow_right: sous-proposition :arrow_right: sous-sous-défi :arrow_right: etc.
 
 <a name="II.2.2"></a>
 #### II.2.2. Votes
