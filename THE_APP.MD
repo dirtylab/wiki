@@ -28,10 +28,11 @@ Sommaire
       - d [Référence](#I.1.d)
       - e [Cycle de vie](#I.1.e)
 
-    2. [Coordination](#I.2)
+    2. [Créations](#I.2)
       - a [Post Simple](#I.2.a)
       - b [Post Versionné](#I.2.b)
       - c [Commentaire](#I.2.c)  
+      - d [Document](#I.2.d)
 
     3. [Politique](#I.3)
       - a [Modération Oligarchique](#I.3.a)
@@ -110,8 +111,8 @@ C'est une source littéraire ou culturelle, logiquement associée à un post.
 C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *défi* posé par Léo. Cette définition est au coeur des différentes approches possibles, les [visions d'ensemble](#II)
 
 <a name="I.2"></a>
-### 2. Coordination
-*La coordination en vue d'atteindre les objectifs de la collaboration*
+### 2. Créations
+*Ce que la communauté créée*
 <a name="I.2.a"></a>
 #### a. Post Simple
 Texte structuré qui répond au *défi*, éditable par son auteur seulement.
@@ -122,7 +123,15 @@ Document collaboratif qui offre une réponse possible au *défi*. Se référer �
 
 <a name="I.2.c"></a>
 #### c. Commentaire
-Observation, critique, avis fait sur un post. Ce n'est pas un document collaboratif.
+Observation, critique, avis fait sur un *post*. Ce n'est pas un document collaboratif.
+
+<a name="I.2.d"></a>
+#### d. Document
+Production quelconque référencée ou fournie par la communauté.
+Ce peut être une vidéo, un *post*, un article, une page web interactive, un gif...  
+> ![](http://i.imgur.com/C4buo.gif)  
+*Gif référencé par le chemin sémantique `#Mind:Nuclear:Explosion`*
+
 
 
 <a name="I.3"></a>
@@ -193,7 +202,7 @@ C'est une interface graphique reposant sur une [*carte heuristique / mind map*](
 <a name="I.4.b"></a>
 #### b. Arbre sémantique
 *[SYNTHESE.MD#II.3.b](SYNTHESE.MD#II.3)*  
-Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les posts.
+Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les posts.  
 **Remarque** sur la structure de données : Une feuille peut être dupliquée sur différents noeuds ! C'est pourquoi il est important de souligner ne s'agit pas d'un arbre au sens de structure de données, mais d'une *vue* de l'ensemble des chemins sémantiques assemblés en *graphe* orienté.
 **Ex :**
 > ├── Ascenceurs spatiaux  
@@ -212,11 +221,12 @@ Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les 
 <a name="I.4.c"></a>
 #### c. Hash sémantique / chemin sémantique
 *[SYNTHESE.MD#II.3.c](SYNTHESE.MD#II.3)*  
-Suite ordonnée de mots carractérisant un *document*, un *post* dont l'ordre d'importance est décroissant.  
+Suite ordonnée de mots carractérisant un *document* dont l'ordre d'importance est décroissant.  
 C'est un peu comme un hashtag, mais "augmenté" : il donne une information sur la manière dont le *document* articule certains concepts entre eux.  
 **Conventions syntaxiques:**
 - Chaque feuille est séparée de son noeud par un `:`
 - La racine du chemin est identifiée par un `#`
+
 **Ex :**
 1. `#Allemagne:Artisanat:Bière` **se distingue de**
 2. `#Bière:Artisanat:Allemagne` **dans l'importance que l'article donne aux termes énumérés**.
@@ -229,8 +239,9 @@ Dans le cas n°2, l'article traite d'abord de la bière, puis de sa production a
 
 <a name="I.4.d"></a>
 #### d. Filtre sémantique
-Expression textuelle permettant de filtrer les posts suivant les noeuds sélectionnés
-Ex :
+Expression textuelle permettant de filtrer les posts suivant les noeuds sélectionnés.  
+Reprend les conventions syntaxique d'un *hash sémantique*.  
+**Ex :**
 > `#Propulsion:Fusées`
 
 Affiche tous les posts référés dans le chemin `Propulsion:Fusées`.  
@@ -246,8 +257,8 @@ Au sujet d'une représentation visuelle (arbre), choix des noeuds à afficher po
 <a name="I.4.f"></a>
 #### f. Ontologie
 Une [ontologie](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) en informatique est un modèle non ambigu de description du réel.
-Elle associe des concepts pour ensuite tirer des inférences.
-[**[wikipedia]**](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) Les ontologies décrivent généralement :
+Elle associe des concepts pour ensuite tirer des inférences.  
+>[**[wikipedia]**](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) Les ontologies décrivent généralement :
 * individus : les objets de base ;
 * classes : ensembles, collections, ou types d'objets1 ;
 * attributs : propriétés, fonctionnalités, caractéristiques ou paramètres que les objets peuvent posséder et partager ;
@@ -257,7 +268,7 @@ Elle associe des concepts pour ensuite tirer des inférences.
 
 <a name="I.4.g"></a>
 #### g. Définitions chaînées
-**Cet article est une ébauche en attente de validation par des spécialistes**.
+**Cet article est une ébauche en attente de validation par des spécialistes**.  
 Un peu comme dans un wiki, des définitions sont référées les une aux autres par des hyperliens.
 Mais à la différence d'un wiki, ces hyperliens sont qualifiées par des *relations sémantiques* et/ou par des [relations de subsomption](https://fr.wikipedia.org/wiki/Subsomption).
 Les différentes natures de ces relations pourraient être (proposées par [Piratdu52](https://github.com/Piratdu52), **ceci est une ébauche!**):
@@ -276,13 +287,14 @@ Et une balise optionnelle :
 
 <a name="I.4.h"></a>
 #### h. Appariement
-Dans un *arbre sémantique*, ou plus généralement dans une [taxonomie](), c'est une unité servant à la mesure de proximité entre deux *documents*. On distingue :  
-- **appariement fort** : Un **chemin** complet du graphe, soit un **hash sémantique** complet est partagé entre deux items.  
+Dans un *arbre sémantique*, ou plus généralement dans une [taxonomie](https://fr.wikipedia.org/wiki/Taxinomie_%28homonymie%29#Informatique), c'est une unité servant à la mesure de proximité entre deux *documents*.  
+On distingue :  
+- **Appariement fort** : Un **chemin** complet du graphe, soit un **hash sémantique** complet est partagé entre deux items.  
 **Ex :** `#Alimentation:Breuvages:Thé` partagé entre deux *posts*.  
-- **appariement faible** : Un **sommet** du graphe est partagé entre deux items.  
+- **Appariement faible** : Un **sommet** du graphe est partagé entre deux items.  
 **Ex :**
-  - `#Aliments:Boissons:Thé` pour *post 1*
-  - `#Angleterre:Culture:Thé` pour *post 2*
+  - *post 1* : `#Aliments:Boissons:Thé`
+  - *post 2* : `#Angleterre:Culture:Thé`
 
 >![](img/appariement.png)
 *Exemple d'appariement faible*
