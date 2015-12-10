@@ -203,7 +203,7 @@ C'est une interface graphique reposant sur une [*carte heuristique / mind map*](
 #### b. Arbre sémantique
 *[SYNTHESE.MD#II.3.b](SYNTHESE.MD#II.3)*  
 Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les posts.  
-**Remarque** sur la structure de données : Une feuille peut être dupliquée sur différents noeuds ! C'est pourquoi il est important de souligner ne s'agit pas d'un arbre au sens de structure de données, mais d'une *vue* de l'ensemble des chemins sémantiques assemblés en *graphe* orienté.
+**Remarque** sur la structure de données : Une feuille peut être dupliquée sur différents noeuds ! C'est pourquoi il est important de souligner ne s'agit pas d'un arbre au sens de structure de données, mais d'une *vue* de l'ensemble des chemins sémantiques assemblés en *graphe* orienté.  
 **Ex :**
 > ├── Ascenceurs spatiaux  
 │   ├── Ascenseur  
