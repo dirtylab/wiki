@@ -33,6 +33,8 @@ Sommaire
       - b [Post Versionné](#I.2.b)
       - c [Commentaire](#I.2.c)  
       - d [Document](#I.2.d)
+      - e [Connaissance](#I.2.e)
+      - f [Proposition](#I.2.f)
 
     3. [Politique](#I.3)
       - a [Modération Oligarchique](#I.3.a)
@@ -132,7 +134,15 @@ Ce peut être une vidéo, un *post*, un article, une page web interactive, un gi
 > ![](http://i.imgur.com/C4buo.gif)  
 *Gif référencé par le chemin sémantique `#Mind:Nuclear:Explosion`*
 
+<a name="I.2.e"></a>
+#### e. Connaissance
+Dans le cadre d'un défi, élément de réponse **servant la compréhension**, que souhaite partager un *membre* avec la *communauté*.
+**Ex** :  une synthèse sur les ontologies
 
+<a name="I.2.f"></a>
+#### f. Proposition
+Dans le cadre d'un *défi*, élément de réponse **servant un but** inféré - déduit - de la problématique, que souhaite partager un *membre* avec la *communauté*.  
+**Ex** : une fonctionnalité de l'application
 
 <a name="I.3"></a>
 ### 3. Politique
