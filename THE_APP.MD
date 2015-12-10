@@ -193,11 +193,11 @@ acceptent *implicitement* la décision. Cf. inspiration [sur le Wiki GitHub du p
 
 <a name="I.4"></a>
 ### 4. Sémantique
-*La sémantique, c'est l'étude du sens. Dans le contexte d'une application web, l'exemple le plus parlant est l'utilisation de hash tags `#` dans twitter pour regrouper un ensemble de publications qui partagent un même thème lexical.*
+*La sémantique, c'est l'étude du sens. Dans le contexte d'une application web, l'exemple le plus parlant est l'utilisation de hash tags `#` dans twitter pour regrouper un ensemble de publications.*
 <a name="I.4.a"></a>
 #### a. Explorateur Heuristique
 Schéma interactif aidant à naviguer dans les idées proposées par la communauté.
-C'est une interface graphique reposant sur une [*carte heuristique / mind map*](https://fr.wikipedia.org/wiki/Carte_heuristique).
+C'est une interface graphique reposant sur une [*carte heuristique / mind map*](https://fr.wikipedia.org/wiki/Carte_heuristique).  
 **Ex :** carte représentant un *arbre sémantique* sur un plan permettant de naviguer entre des *documents*.
 <a name="I.4.b"></a>
 #### b. Arbre sémantique
@@ -296,7 +296,7 @@ On distingue :
   - *post 1* : `#Aliments:Boissons:Thé`
   - *post 2* : `#Angleterre:Culture:Thé`
 
->![](img/appariement.png)
+>![](img/appariement.png)  
 *Exemple d'appariement faible*
 
 <a name="I.5"></a>
