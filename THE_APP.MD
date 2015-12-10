@@ -64,6 +64,7 @@ Sommaire
       - f [Hôte](#I.5.f)
       - g [Amendeur](#I.5.g)
       - h [Amendement](#I.5.h)
+      - i [Versionnement sémantique](#I.5.i)
 
     6. [Sources de données](#I.6)
       - a [Application Souveraine](#I.6.a)
@@ -290,6 +291,23 @@ Auteur d'un *amendement*.
 #### h. Amendement
 L'ensemble des modifications demandées par l'*amendeur* à l'*hôte*. A ne pas confondre avec la *fusion* qui est l'action d'accepter un *amendement*.
 
+<a name="I.5.i"></a>
+#### i. Versionnement sémantique
+**[Sens 1.]** : [Spécification officielle](http://semver.org/lang/fr/) de la **V2.0**. En génie logiciel, versionnement au format **MAJEUR**.**MINEUR**.**CORRECTIF**, par exemple **1.0.1** avec :
+
+1. **MAJEUR** : le numéro de version MAJEUR est incrémenté (augmenté de 1) s'il y a des changements rétro-incompatibles
+2. **MINEUR**, le numéro de version MINEUR est incrémenté s'il y a des changements rétro-compatibles
+3. **CORRECTIF**, le numéro de version de CORRECTIF est incrémenté s'il y a des corrections d’anomalies (bugs) rétro-compatibles
+
+**[Sens 2.]** : S'applique à un *document versionné*, avec une signification analogue à [1.]. Versionnement au format **MAJEUR**.**MINEUR**.**CORRECTIF**, par exemple **1.0.1** avec :
+
+1. **MAJEUR**, le numéro de version MAJEUR est incrémenté (augmenté de 1) si le document est fondamentalement restructuré, si son approche est sensiblement remise en question. On appelle le passage à la prochaine version majeure une **Refonte**.
+2. **MINEUR**, le numéro de version MINEUR est incrémenté s'il y a des ajouts significatifs mais ne remettant pas en cause les grandes lignes abordées par le document. On appelle le passage à la prochaine version mineure une **Amélioration**.
+3. **CORRECTIF**, le numéro de version de CORRECTIF est incrémenté s'il y a des corrections de syntaxe, de mise en page ou d'orthographe. On appelle le passage à la prochaine version de correctif une **Correction**.
+
+*Exemple* : passage de la version **1.0.1** à la version **1.0.2** suite à la correction de petites fautes de syntaxe.
+
+**PS** : *document* se veut ici être un peu plus générique que *post*. C'est une production de texte versionnée quelconque.
 
 <a name="I.6"></a>
 ### 6. Sources de données
