@@ -1,8 +1,8 @@
 Spécifications
 ==============
 
-Définition des besoins pour une plateforme de réflexion idéale
---------------------------------------------------------------
+Définition des besoins pour une plateforme de réflexion collaborative idéale
+----------------------------------------------------------------------------
 
 Plateforme de réflexion orientée **"collaboration de masse sur Internet sur un sujet donné"**,
 ce qui devrait répondre aux besoins des **Let's Play Science**, même si la plateforme n'est pas spécifiquement destinée à ce cas.
