@@ -1,6 +1,6 @@
 # Tutoriel GitHub
 
-Afin de permettre à un maximum de personnes (y compris les non informaticiens) d'utiliser cette plateforme
+Afin de permettre à un maximum de personnes (y compris les non informaticiens) d'utiliser cette plateforme,
 voici un petit topo sur l'utilisation des *espaces de discussion* et *d'écriture collaborative* qu'offrent
 **GitHub + Gitter**.
 
