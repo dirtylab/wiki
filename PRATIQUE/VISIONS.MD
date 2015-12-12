@@ -41,5 +41,5 @@ Remarques importantes :
 
 *TODO:*
 * *Principe des __Visions Partielles__ à rajouter*
-* *Rappeler qu’il ne faut pas hésiter à chercher de l’inspiration côté axe théorique*
+* *Rappeler qu’il ne faut pas hésiter à chercher de l’inspiration côté [axe théorique](../THEORIE)*
 * *Pour les deux VE existantes, rajouter un lien vers une issue associée*
