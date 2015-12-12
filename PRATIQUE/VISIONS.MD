@@ -33,9 +33,9 @@ Remarques importantes :
 ### 2. Référencement des VE
 *Voici la liste des VE et de leur issue associée sur le forum*
 
-**VE 1** : [Suivre le chemin tracé par la synthèse des commentaires YouTube](PRATIQUE/VE/VE-Frosty-Z.MD)
+**VE 1** : [Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)
 
-**VE 2** : [La foule a les pleins pouvoirs](PRATIQUE/VE/VE-Gophys.MD)
+**VE 2** : [La foule a les pleins pouvoirs](VE/VE-Gophys.MD)
 
 ---------------------------------------------
 
