@@ -40,6 +40,6 @@ Remarques importantes :
 ---------------------------------------------
 
 *TODO:*
-* *Principe des **Visions Partielles** à rajouter*
+* *Principe des __Visions Partielles__ à rajouter*
 * *Rappeler qu’il ne faut pas hésiter à chercher de l’inspiration côté axe théorique*
 * *Pour les deux VE existantes, rajouter un lien vers une issue associée*
