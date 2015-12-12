@@ -41,7 +41,7 @@ Beaucoup partent du constat que les fonctionnalités offertes par le système de
   3. De faire de l'analyse syntaxique pour dégager les principaux mots clés, tendances
 
 <a name="2"></a>
-### 2. Espace questions/réponses / sondage (20% des propositions)
+### 2. Espace questions/réponses, sondage (20% des propositions)
 
 **Fonctionnalité particulière souvent proposée :**
 * Eviter l'effet « mouton » en masquant les votes, en ordonnant aléatoirement les propositions (pendant un temps limité ou non), etc.
