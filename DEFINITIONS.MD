@@ -186,7 +186,7 @@ C'est une interface graphique reposant sur une [*carte heuristique / mind map*](
 **Ex :** carte représentant un *arbre sémantique* sur un plan permettant de naviguer entre des *documents*.
 <a name="4.b"></a>
 #### b. Arbre sémantique
-*[SYNTHESE.MD#III.3.b](SYNTHESE.MD#III.3)* **<=== LIEN A CORRIGER VERS UNE VP A CREER**
+*cf. [VP propositions Youtube : structure arborescente](PRATIQUE/VP/VP-forum%20(propositions%20Youtube).MD#3-une-association-sémantique-des-posts)*
 
 Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les posts.  
 **Remarque** sur la structure de données : Une feuille peut être dupliquée sur différents noeuds ! C'est pourquoi il est important de souligner ne s'agit pas d'un arbre au sens de structure de données, mais d'une *vue* de l'ensemble des chemins sémantiques assemblés en *graphe* orienté.  
@@ -206,9 +206,9 @@ Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les 
 
 <a name="4.c"></a>
 #### c. Hash sémantique / chemin sémantique
-*[SYNTHESE.MD#III.3.c](SYNTHESE.MD#III.3)* **<=== LIEN A CORRIGER VERS UNE VP A CREER**
+*cf. [VP propositions Youtube : hashtag avec domaine de noms](PRATIQUE/VP/VP-forum%20(propositions%20Youtube).MD#3-une-association-sémantique-des-posts)* 
 
-Suite ordonnée de mots carractérisant un *document* dont l'ordre d'importance est décroissant.  
+Suite ordonnée de mots caractérisant un *document* dont l'ordre d'importance est décroissant.  
 C'est un peu comme un hashtag, mais "augmenté" : il donne une information sur la manière dont le *document* articule certains concepts entre eux.  
 **Conventions syntaxiques:**
 - Chaque feuille est séparée de son noeud par un `:`
