@@ -28,10 +28,13 @@ Sommaire
       - d [Référence](#I.1.d)
       - e [Cycle de vie](#I.1.e)
 
-    2. [Coordination](#I.2)
+    2. [Créations](#I.2)
       - a [Post Simple](#I.2.a)
       - b [Post Versionné](#I.2.b)
       - c [Commentaire](#I.2.c)  
+      - d [Document](#I.2.d)
+      - e [Connaissance](#I.2.e)
+      - f [Proposition](#I.2.f)
 
     3. [Politique](#I.3)
       - a [Modération Oligarchique](#I.3.a)
@@ -47,13 +50,14 @@ Sommaire
       - k [Consensus tacite/implicite](#I.3.k)
 
     4. [Sémantique](#I.4)
-      - a [Carte Heuristique / Mind map](#I.4.a)
+      - a [Explorateur Heuristique](#I.4.a)
       - b [Arbre sémantique](#I.4.b)
-      - c [Hash sémantique](#I.4.c)
+      - c [Hash sémantique / chemin sémantique](#I.4.c)
       - d [Filtre sémantique](#I.4.d)
       - e [Niveau de détail](#I.4.e)
       - f [Ontologie](#I.4.f)
       - g [Définitions chaînées](#I.4.g)
+      - h [Appariement](#I.4.h)
 
     5. [Versionnement](#I.5)
       - a [Version](#I.5.a)
@@ -109,8 +113,8 @@ C'est une source littéraire ou culturelle, logiquement associée à un post.
 C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *défi* posé par Léo. Cette définition est au coeur des différentes approches possibles, les [visions d'ensemble](#II)
 
 <a name="I.2"></a>
-### 2. Coordination
-*La coordination en vue d'atteindre les objectifs de la collaboration*
+### 2. Créations
+*Ce que la communauté créée*
 <a name="I.2.a"></a>
 #### a. Post Simple
 Texte structuré qui répond au *défi*, éditable par son auteur seulement.
@@ -121,8 +125,24 @@ Document collaboratif qui offre une réponse possible au *défi*. Se référer �
 
 <a name="I.2.c"></a>
 #### c. Commentaire
-Observation, critique, avis fait sur un post. Ce n'est pas un document collaboratif.
+Observation, critique, avis fait sur un *post*. Ce n'est pas un document collaboratif.
 
+<a name="I.2.d"></a>
+#### d. Document
+Production quelconque référencée ou fournie par la communauté.
+Ce peut être une vidéo, un *post*, un article, une page web interactive, un gif...  
+> ![](http://i.imgur.com/C4buo.gif)  
+*Gif référencé par le chemin sémantique `#Mind:Nuclear:Explosion`*
+
+<a name="I.2.e"></a>
+#### e. Connaissance
+Dans le cadre d'un défi, élément de réponse **servant la compréhension**, que souhaite partager un *membre* avec la *communauté*.
+**Ex** :  une synthèse sur les ontologies
+
+<a name="I.2.f"></a>
+#### f. Proposition
+Dans le cadre d'un *défi*, élément de réponse **servant un but** inféré - déduit - de la problématique, que souhaite partager un *membre* avec la *communauté*.  
+**Ex** : une fonctionnalité de l'application
 
 <a name="I.3"></a>
 ### 3. Politique
@@ -183,17 +203,18 @@ acceptent *implicitement* la décision. Cf. inspiration [sur le Wiki GitHub du p
 
 <a name="I.4"></a>
 ### 4. Sémantique
-*La sémantique, c'est l'étude du sens. Dans le contexte d'une application web, l'exemple le plus parlant est l'utilisation de hash tags `#` dans twitter pour regrouper un ensemble de publications qui partagent un même thème lexical.*
+*La sémantique, c'est l'étude du sens. Dans le contexte d'une application web, l'exemple le plus parlant est l'utilisation de hash tags `#` dans twitter pour regrouper un ensemble de publications.*
 <a name="I.4.a"></a>
-#### a. Carte Heuristique / Mind map
-Vue en 2D sous forme de diagramme de graphe ordonné des liens sémantiques *entre posts*
-
+#### a. Explorateur Heuristique
+Schéma interactif aidant à naviguer dans les idées proposées par la communauté.
+C'est une interface graphique reposant sur une [*carte heuristique / mind map*](https://fr.wikipedia.org/wiki/Carte_heuristique).  
+**Ex :** carte représentant un *arbre sémantique* sur un plan permettant de naviguer entre des *documents*.
 <a name="I.4.b"></a>
 #### b. Arbre sémantique
 *[SYNTHESE.MD#II.3.b](SYNTHESE.MD#II.3)*  
-Vue sous forme d'arbre des liens sémantiques *entre posts*, c'est à dire d'un **graphe** sémantique.  
-**Remarque** : Une feuille peut être dupliquée sur différents noeuds ! C'est pourquoi il ne s'agit pas d'un arbre au sens de structure de données, mais de *vue* d'une structure en graphe.
-Ex :
+Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les posts.  
+**Remarque** sur la structure de données : Une feuille peut être dupliquée sur différents noeuds ! C'est pourquoi il est important de souligner ne s'agit pas d'un arbre au sens de structure de données, mais d'une *vue* de l'ensemble des chemins sémantiques assemblés en *graphe* orienté.  
+**Ex :**
 > ├── Ascenceurs spatiaux  
 │   ├── Ascenseur  
 │   ├── Skyhook  
@@ -208,17 +229,29 @@ Ex :
 └── …
 
 <a name="I.4.c"></a>
-#### c. Hash sémantique
+#### c. Hash sémantique / chemin sémantique
 *[SYNTHESE.MD#II.3.c](SYNTHESE.MD#II.3)*  
-Chemin de l'arbre sémantique exprimé sous forme de hashtag, chaque feuille est séparée de son noeud par un `:`
+Suite ordonnée de mots carractérisant un *document* dont l'ordre d'importance est décroissant.  
+C'est un peu comme un hashtag, mais "augmenté" : il donne une information sur la manière dont le *document* articule certains concepts entre eux.  
+**Conventions syntaxiques:**
+- Chaque feuille est séparée de son noeud par un `:`
+- La racine du chemin est identifiée par un `#`
 
-Ex :
-> `#Propulsion:Fusées:Explosion`
+**Ex :**
+1. `#Allemagne:Artisanat:Bière` **se distingue de**
+2. `#Bière:Artisanat:Allemagne` **dans l'importance que l'article donne aux termes énumérés**.
+
+Dans le cas n° 1, L'article aborde d'abord l'Allemagne et mentionne brièvement sa production de bière dans un paragraphe dédié à son Artisanat.  
+Dans le cas n°2, l'article traite d'abord de la bière, puis de sa production artisanale et éventuellement mentionne l'Allemagne.
+
+**Remarque :** Un tel chemin **caractérise l'articulation proposée par un document** (un *post* par exemple, voire un chapitre), **et pas la relation ontologique entre les termes du chemin**. Un document (ou section de document) peut être carractérisé par plusieurs chemins.
+
 
 <a name="I.4.d"></a>
 #### d. Filtre sémantique
-Expression textuelle permettant de filtrer les posts suivant les noeuds sélectionnés
-Ex :
+Expression textuelle permettant de filtrer les posts suivant les noeuds sélectionnés.  
+Reprend les conventions syntaxique d'un *hash sémantique*.  
+**Ex :**
 > `#Propulsion:Fusées`
 
 Affiche tous les posts référés dans le chemin `Propulsion:Fusées`.  
@@ -227,17 +260,28 @@ Affiche tous les posts référés dans le chemin `Propulsion:Fusées`.
 > `#Fusées`
 
 <a name="I.4.e"></a>
-Va agréger (fusionner) tous les noeuds appellés `Fusées`
+Va agréger (fusionner) les résultats de tous les noeuds appellés `Fusées`
 #### e. Niveau de détail
 Au sujet d'une représentation visuelle (arbre), choix des noeuds à afficher pour conserver un bon niveau de lisibilité.
 
+<a name="I.4.f"></a>
 #### f. Ontologie
 Une [ontologie](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) en informatique est un modèle non ambigu de description du réel.
-Elle associe des concepts pour ensuite tirer des inférences...
+Elle associe des concepts pour ensuite tirer des inférences.  
+>[**[wikipedia]**](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) Les ontologies décrivent généralement :
+* individus : les objets de base ;
+* classes : ensembles, collections, ou types d'objets1 ;
+* attributs : propriétés, fonctionnalités, caractéristiques ou paramètres que les objets peuvent posséder et partager ;
+*  **relations** : les liens que les objets peuvent avoir entre eux ;
+*  événements : changements subis par des attributs ou des relations ;
+* métaclasse (web sémantique) : des collections de classes qui partagent certaines caractéristiques.
 
+<a name="I.4.g"></a>
 #### g. Définitions chaînées
-Un peu comme dans un wiki, des définitions sont référées les une aux autres par des *relations sémantiques* qualifiées.
-Les différentes natures de ces relations (proposées par [Piratdu52](https://github.com/Piratdu52)) sont :
+**Cet article est une ébauche en attente de validation par des spécialistes**.  
+Un peu comme dans un wiki, des définitions sont référées les une aux autres par des hyperliens.
+Mais à la différence d'un wiki, ces hyperliens sont qualifiées par des *relations sémantiques* et/ou par des [relations de subsomption](https://fr.wikipedia.org/wiki/Subsomption).
+Les différentes natures de ces relations pourraient être (proposées par [Piratdu52](https://github.com/Piratdu52), **ceci est une ébauche!**):
 
 >
 **Spécialisation** : Pour les liens de type un carré est un rectangle. Il sera surement obligatoire de créer une balise « généralisation » simplement pour ne pas avoir la liste de tout les modelés d'avions sur la page du concept d'avion.
@@ -250,6 +294,20 @@ Les différentes natures de ces relations (proposées par [Piratdu52](https://gi
 Et une balise optionnelle :
 >
 **NoFollow** : Pour que le moteur ignore le lien. Utile pour pointer vers une page qui n'a pas de lien sémantique directe, par exemple pour comparer les performances de deux concept d'éclairage tel la bougie et l'ampoule.
+
+<a name="I.4.h"></a>
+#### h. Appariement
+Dans un *arbre sémantique*, ou plus généralement dans une [taxonomie](https://fr.wikipedia.org/wiki/Taxinomie_%28homonymie%29#Informatique), c'est une unité servant à la mesure de proximité entre deux *documents*.  
+On distingue :  
+- **Appariement fort** : Un **chemin** complet du graphe, soit un **hash sémantique** complet est partagé entre deux items.  
+**Ex :** `#Alimentation:Breuvages:Thé` partagé entre deux *posts*.  
+- **Appariement faible** : Un **sommet** du graphe est partagé entre deux items.  
+**Ex :**
+  - *post 1* : `#Aliments:Boissons:Thé`
+  - *post 2* : `#Angleterre:Culture:Thé`
+
+>![](img/appariement.png)  
+*Exemple d'appariement faible*
 
 <a name="I.5"></a>
 ### 5. Versionnement
