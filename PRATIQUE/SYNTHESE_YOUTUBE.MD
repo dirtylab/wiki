@@ -46,7 +46,7 @@ Beaucoup partent du constat que les fonctionnalités offertes par le système de
 **Fonctionnalité particulière souvent proposée :**
 * Eviter l'effet « mouton » en masquant les votes, en ordonnant aléatoirement les propositions (pendant un temps limité ou non), etc.
 
-**Outils existants évoqués** (par ordre de fréquence décroissante) : [StackOverflow](http://stackoverflow.com/)/[StackExchange](http://stackexchange.com/)/[jepolitique.fr](http://jepolitique.fr/), [Quora](https://www.quora.com/), [republique-numerique.fr](https://www.republique-numerique.fr/), [laprimaire.org](https://laprimaire.org/), [projet « Reboot la France »](http://korben.info/reboot-la-france-vous-etes-des-grands-malades.html), [Tricider](https://www.tricider.com/), straw poll divers
+**Outils existants évoqués** (par ordre de fréquence décroissante) : [StackOverflow](http://stackoverflow.com/) / [StackExchange](http://stackexchange.com/) / [jepolitique.fr](http://jepolitique.fr/), [Quora](https://www.quora.com/), [republique-numerique.fr](https://www.republique-numerique.fr/), [laprimaire.org](https://laprimaire.org/), [projet « Reboot la France »](http://korben.info/reboot-la-france-vous-etes-des-grands-malades.html), [Tricider](https://www.tricider.com/), straw poll divers
 
 Permettrait à moindre coût de faire ressortir facilement les grandes tendances se dégageant d'un groupe d'individus.
 
