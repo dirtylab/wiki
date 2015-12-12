@@ -32,7 +32,7 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/sveinb
 
 #### 1.1.2. Avec un fork
 
-Relativement complexe pour un non informaticien (notamment pour s'assurer que son **fork** est synchro avec le [dépôt](THE_APP.MD#I.7.a) original. [Il existe des manières de le faire directement sur GitHub.com](http://stackoverflow.com/a/23853061/488666) mais c'est relativement lourd tout ça).
+Relativement complexe pour un non informaticien (notamment pour s'assurer que son **fork** est synchro avec le [dépôt](DEFINITIONS.MD#7.a) original. [Il existe des manières de le faire directement sur GitHub.com](http://stackoverflow.com/a/23853061/488666) mais c'est relativement lourd tout ça).
 
 [Guide officiel GitHub.com (anglais)](https://guides.github.com/activities/forking/)
 
