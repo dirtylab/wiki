@@ -2,7 +2,7 @@ Propositions extraites de commentaires Youtube
 ==============================================
 
 Dès la création de ce dépôt GitHub, [Jules Randolph](https://github.com/sveinburne) a agrégé et organisé des propositions
-de fonctionnalités issues de commentaires Youtube, concernant essentiellement un espace de discussion de type forum.
+de fonctionnalités issues de commentaires Youtube, concernant essentiellement un **espace de discussion de type forum**.
 
 En théorie, il faudrait créer une VP par proposition listée ci dessous. Par souci de simplicité et accessibilité (il faudrait créer 15-20 fichiers et la plupart de ces propositions sont relativement courtes), elles sont réunies dans ce seul fichier.
 
