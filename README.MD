@@ -3,7 +3,7 @@
 
 > ***Comment collaborer à 5000 cerveaux sur la même question ?***
 
-**Un [dépôt](THE_APP.MD#I.7.a) GitHub** pour organiser les réflexions sur [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
+**Un [dépôt](DEFINITIONS.MD#7.a) GitHub** pour organiser les réflexions sur [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
 
 ## Cette plateforme est utilisée comme...
 
@@ -21,19 +21,19 @@
 
 On sera heureux de vous familiariser avec ces outils ;)
 
-## Les objectifs de ce [dépôt](THE_APP.MD#I.7.a) ?
+## Les objectifs de ce [dépôt](DEFINITIONS.MD#7.a) ?
 
-1. Faire la synthèse des propositions sur youtube  
-[c'est ici : SYNTHESE.MD](SYNTHESE.MD)
+1. Faire la synthèse des propositions sur Youtube  
+[c'est ici : SYNTHESE_YOUTUBE.MD](PRATIQUE/SYNTHESE_YOUTUBE.MD)
 2. Faire l'inventaire des outils existants répondant à nos besoins  
-[c'est ici : OUTILS.MD](OUTILS.MD)
+[c'est ici : OUTILS.MD](PRATIQUE/OUTILS.MD)
 3. Rechercher et partager un maximum de connaissances sur le sujet, qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ...  
-[c'est ici : INSPIRATION.MD](INSPIRATION.MD)
+[c'est ici : INSPIRATION.MD](THEORIE/INSPIRATION.MD) et [PISTES.MD](THEORIE/PISTES.MD)
 4. Imaginer des solutions inspirées des démarches **1.**, **2.** et **3.** - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
   - définir un vocabulaire qui nous permet de communiquer sans ambiguité  
-  [c'est ici : THE_APP.MD#I](THE_APP.MD#I)
+  [c'est ici : DEFINITIONS.MD](DEFINITIONS.MD)
   - proposer des solutions concrètes (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
-  [c'est ici : THE_APP.MD#II](THE_APP.MD#II)
+  [c'est ici : VISIONS.MD](PRATIQUE/VISIONS.MD)
 5. Implémenter la plateforme open-source qui émergera de **4.** en faisant intervenir un **maximum de gens d'horizons disciplinaires différents**. On ne souhaite pas se précipiter, on préfère avancer sereinement que trébucher en courant.
   - Rédiger les spécifications
   - Lister les intéressés et leurs domaines de prédilection
@@ -49,7 +49,7 @@ On est des fous et on fait l'application en Open Source!
 #### 1. Participer à la réflexion sur l'application, pas besoin d'être dev'
 *Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
 
-- Consultez les documents dédiés : [THE_APP.MD](THE_APP.MD) et [INSPIRATION.MD](INSPIRATION.MD)
+- Consultez les documents dédiés : [VISIONS.MD](PRATIQUE/VISIONS.MD) et [INSPIRATION.MD](THEORIE/INSPIRATION.MD)
 - Lisez [ce billet](https://github.com/sveinburne/lets-play-science/issues/11)
 - Consulter les issues taguées avec
   - [`label:vision d'ensemble`,](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3A%22vision+d%27ensemble%22+)
