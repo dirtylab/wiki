@@ -1,6 +1,6 @@
 Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 ==
-Titre : Suivre le chemin tracé par la [synthèse des commentaires Youtube](SYNTHESE.MD)
+Titre : Suivre le chemin tracé par la [synthèse des commentaires Youtube](../SYNTHESE_YOUTUBE.MD)
 -
 
 Sommaire
@@ -52,12 +52,12 @@ I. Espace de discussion (fil de commentaires, forum...)
 <a name="I.1"></a>
 ### I.1. Application souveraine
 
-Fonctionnalités proposées : identiques à ce qui est décrit dans [la synthèse des commentaires Youtube](https://github.com/sveinburne/lets-play-science/blob/master/SYNTHESE.MD#II.1), détails à discuter/décider
+Fonctionnalités proposées : identiques à ce qui est décrit dans [la synthèse des commentaires Youtube](../SYNTHESE_YOUTUBE.MD), détails à discuter/décider
 
 <a name="I.2"></a>
 ### I.2. Application intégrée (Youtube + Facebook + interface de "suivi")
 
-Quelques propositions plus détaillées que dans [la synthèse](https://github.com/sveinburne/lets-play-science/blob/master/SYNTHESE.MD#II.1) :
+Quelques propositions plus détaillées que dans [la synthèse](../SYNTHESE_YOUTUBE.MD) :
 
 * **Tenter une organisation minimale des commentaires Youtube** : Léo posterait d'emblée sous chaque future *vidéo LetsPlayScience* des commentaires faisant office de *catégories*. Par exemple :
   * Réactions sur le défi traité dans la vidéo (ex. *nous n'irons pas dans l'espace*) ? Répondez ici SVP
@@ -127,13 +127,13 @@ Ce mécanisme de réputation peut être combiné à des participations sur l'[*e
 Modération "à posteriori" assez classique :
 * Tout **participant authentifié** doit pouvoir signaler un **sous-défi** ou une **(sous-)proposition** problématique (HS, insulte, doublon, mal placé dans l'arborescence...)
 * Un **modérateur** aurait alors la possibilité de :
-  * Modifier tout **(sous-)défi**, et **(sous-)proposition** (un historique des versions serait conservé à la manière d'un [post versionné](THE_APP.MD#b-post-versionné))
+  * Modifier tout **(sous-)défi**, et **(sous-)proposition** (un historique des versions serait conservé à la manière d'un [post versionné](../../DEFINITIONS.MD#b-post-versionné))
   * Supprimer des **sous-défis**, **(sous-)propositions**, **hashtags**...
   * Réorganiser l'arborescence de **défis/propositions** (au minimum : pouvoir changer la "proposition parente" d'un **sous-défi**)
 
 
 <a name="II.2.5"></a>
-#### II.2.5. Possibilité d'éditer les questions et réponses de manière collaborative (= [posts versionnés](THE_APP.MD#b-post-versionné))
+#### II.2.5. Possibilité d'éditer les questions et réponses de manière collaborative (= [posts versionnés](../../DEFINITIONS.MD#b-post-versionné))
 * L'auteur de la question/proposition, un modo, ou un participant authentifié (avec validation par modo), peut modifier son contenu (titre, description, hashtags...), avec versionnage, permettant ainsi une *rédaction collaborative* des (sous-)propositions.
 * Modifications concurrentes : dans un premier temps, je propose un simple "c'est le dernier commit qui gagne" étant donné qu'on aurait le versionnage d'entrée de jeu. A voir dans le temps et selon le succès de la plateforme, pour une gestion plus poussée.
 
@@ -167,6 +167,6 @@ IV. Modération
 
 Considérations d'ordre général :
 
-* Dans un premier temps, Léo + les développeurs/installeurs des outils/plateformes seraient modos ([modération oligarchique](THE_APP.MD#a-modération-oligarchique)).
-* Ensuite, si ce besoin est exprimé par la communauté, des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), seraient envisagées ([modération démocratique et/ou méritocratique](THE_APP.MD#b-modération-méritocratique)).
+* Dans un premier temps, Léo + les développeurs/installeurs des outils/plateformes seraient modos ([modération oligarchique](../../DEFINITIONS.MD#a-modération-oligarchique)).
+* Ensuite, si ce besoin est exprimé par la communauté, des fonctionnalités permettant l'élection des modérateurs (durée de mandat à définir), seraient envisagées ([modération démocratique et/ou méritocratique](../../DEFINITIONS.MD#b-modération-méritocratique)).
 
