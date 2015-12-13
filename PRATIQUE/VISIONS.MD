@@ -24,7 +24,7 @@ I. Visions d'ensemble (VE)
 
 **Forum :**
 - [**meta-topic - Visions d'ensemble**](https://github.com/sveinburne/lets-play-science/issues/41)  
-- [`label:visions d'ensemble`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22vision+d%27ensemble%22) pour organiser la discussion autour d'une [**vision d'ensemble**](#I)
+- [`label:vision d'ensemble`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22vision+d%27ensemble%22) pour organiser la discussion autour d'une [**vision d'ensemble**](#I)
 
 *Une vision d'ensemble, VE, est un ensemble de propositions qui offre une solution applicative cohérente.*
 
@@ -65,8 +65,8 @@ II. Visions partielles (VP)
 ---------------------------
 
 **Forum :**
-- [**meta-topic - Visions partielles**](https://github.com/sveinburne/lets-play-science/issues/) ISSUE A CREER
-- [`label:visions partielles`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22visions+d%27partielles%22) pour organiser la discussion autour d'une [**vision partielle**](#II) LABEL A CREER
+- [**meta-topic - Visions partielles**](https://github.com/sveinburne/lets-play-science/issues/77)
+- [`label:vision partielle`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22vision+partielle%22) pour organiser la discussion autour d'une [**vision partielle**](#II)
 
 Une **vision partielle** est une proposition d'une ou plusieurs fonctionnalités, sans forcément chercher à couvrir tous les besoins d'une plateforme idéale et ses différents espaces (forum, t'chat, etc.), contrairement à la **vision d'ensemble**.
 
