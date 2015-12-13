@@ -1,5 +1,5 @@
-Visions
-=======
+Visions / propositions
+======================
 
 *Avant de concevoir une application, c'est une bonne idée de savoir à quoi elle ressemble, d'analyser quels sont les enjeux techniques de sa réalisation.*  
 
