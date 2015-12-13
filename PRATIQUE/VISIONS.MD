@@ -5,7 +5,7 @@ Visions / propositions
 
 Ce document n'est pas du tout destiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur à faire valoir.
 
-Avant ou pendant la rédaction d'une **VE** ou **VP**, n'hésitez pas à parcourir les fichiers [PISTES.MD](../THEORIE/PISTES.MD) et [INSPIRATION.MD](../THEORIE/INSPIRATION.MD) pour y trouver de nombreux éléments d'inspiration. Pensez à faire des liens vers les idées/ problématiques évoquées dans l'[axe théorique](../THEORIE) si vous en utilisez.
+Avant ou pendant la rédaction d'une [**vision d'ensemble (VE)**](#I)  ou [**vision partielle (VP)**](#II), n'hésitez pas à parcourir les fichiers [`PISTES.MD`](../THEORIE/PISTES.MD) et [`INSPIRATION.MD`](../THEORIE/INSPIRATION.MD) pour y trouver de nombreux éléments d'inspiration. Pensez à faire des liens vers les idées/ problématiques évoquées dans l'[axe théorique](../THEORIE) si vous en utilisez.
 
 Sommaire
 --------
