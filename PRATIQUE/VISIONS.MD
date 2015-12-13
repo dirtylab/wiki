@@ -16,9 +16,9 @@ I. Visions d'ensemble (VE)
 *Une vision d'ensemble, VE, est un ensemble de propositions qui offre une solution applicative cohérente.*
 <a name="II.1"></a>
 ### 1. Critères de soumission d'une VE
-Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
+Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **PRATIQUE/VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
 - elle doit être sensiblement différente d'une VE existante
-- elle doit s'appuyer rigoureusement sur le vocabulaire définit en [**I**](#I)
+- elle doit s'appuyer rigoureusement sur le vocabulaire définit dans les [**définitions**](../DEFINITIONS.MD)
 - elle doit être rédigée avec **concision** et esprit de **synthèse**
 - elle doit offrir une **perspective** à minima sur les points suivants :
   1. Application souveraine vs Application intégrée ?
