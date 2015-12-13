@@ -57,7 +57,7 @@ Remarques importantes :
 |N°   |Titre |Auteur |     |
 |:---:|:-----|:------|:----:|
 |1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|Frosty-Z|[discussion](https://github.com/sveinburne/lets-play-science/issues/75)|
-|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/sveinburne/lets-play-science/issues/76)|
+|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/sveinburne/lets-play-science/issues/76) + [topic complémentaire](https://github.com/sveinburne/lets-play-science/issues/48)|
 |3|*sans titre* (ébauche dans une issue)|akka-vodol|[discussion](https://github.com/sveinburne/lets-play-science/issues/36)|
 
 <a name="II"></a>
@@ -84,6 +84,6 @@ Une fois acceptée, l'auteur de la **pull request** doit créer une issue portan
 <a name="II.2"></a>
 ### 2. Liste des VP
 
-|N°   |Titre |     |
-|:---:|:-----|:----:|
-|1|[Fonctionnalités pour forum (propositions YouTube)](VP/VP-forum%20(propositions%20Youtube))|[discussion]() ISSUE A CREER|
+|N°   |Titre |Auteur|     |
+|:---:|:-----|:-----|:----:|
+|1|[Fonctionnalités pour forum (propositions YouTube)](VP/VP-forum%20(propositions%20Youtube))|*multiples*|[discussion](https://github.com/sveinburne/lets-play-science/issues/78)|
