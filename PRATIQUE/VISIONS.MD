@@ -54,10 +54,11 @@ Remarques importantes :
 <a name="I.2"></a>
 ### 2. Liste des VE
 
-|N°   |Titre |     |
-|:---:|:-----|:----:|
-|1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|[discussion]() ISSUE A CREER|
-|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|[discussion]() ISSUE A CREER|
+|N°   |Titre |Auteur |     |
+|:---:|:-----|:------|:----:|
+|1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|Frosty-Z|[discussion](https://github.com/sveinburne/lets-play-science/issues/75)|
+|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/sveinburne/lets-play-science/issues/76)|
+|3|*sans titre* (ébauche dans une issue)|akka-vodol|[discussion](https://github.com/sveinburne/lets-play-science/issues/36)|
 
 <a name="II"></a>
 II. Visions partielles (VP)
