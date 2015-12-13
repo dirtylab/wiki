@@ -5,7 +5,18 @@ Visions / propositions
 
 Ce document n'est pas du tout destiné spécifiquement aux développeurs, bien au contraire. On a tous une expérience utilisateur à faire valoir.
 
-Avant ou pendant la rédaction d'une VE ou VP, n'hésitez pas à parcourir les fichiers [PISTES.MD](../THEORIE/PISTES.MD) et [INSPIRATION.MD](../THEORIE/INSPIRATION.MD) pour y trouver de nombreux éléments d'inspiration. Pensez à faire des liens vers les idées inspirantes de l'[axe théorique](../THEORIE) si vous en utilisez.
+Avant ou pendant la rédaction d'une **VE** ou **VP**, n'hésitez pas à parcourir les fichiers [PISTES.MD](../THEORIE/PISTES.MD) et [INSPIRATION.MD](../THEORIE/INSPIRATION.MD) pour y trouver de nombreux éléments d'inspiration. Pensez à faire des liens vers les idées/ problématiques évoquées dans l'[axe théorique](../THEORIE) si vous en utilisez.
+
+Sommaire
+--------
+
+- I. [Visions d'ensemble (VE)](#I)
+  - I.1. [Critères de soumission d'une VE](#I.1)
+  - I.2. [Liste des VE](#I.2)
+- II. [Visions partielles (VP)](#II)
+  - II.1. [Critères de soumission d'une VP](#II.1)
+  - II.2. [Liste des VP](#II.2)
+
 
 <a name="I"></a>
 I. Visions d'ensemble (VE)
@@ -58,18 +69,18 @@ II. Visions partielles (VP)
 
 Une **vision partielle** est une proposition d'une ou plusieurs fonctionnalités, sans forcément chercher à couvrir tous les besoins d'une plateforme idéale et ses différents espaces (forum, t'chat, etc.), contrairement à la **vision d'ensemble**.
 
-<a name="I.1"></a>
+<a name="II.1"></a>
 ### 1. Critères de soumission d'une VP
 Une **vision partielle** se présente sous la forme d'un fichier Markdown situé dans le répertoire **PRATIQUE/VP** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VP soit acceptée :
 - elle doit être sensiblement différente d'une VP existante
 - elle doit s'appuyer rigoureusement sur [**ce vocabulaire**](../DEFINITIONS.MD)
 - elle doit proposer une priorisation de ses fonctionnalités
 - elle doit offrir un titre explicite
-- le nom du fichier markdown doit être `VP-titre-nomAuteur.MD`
+- le nom du fichier Markdown doit être `VP-titre-nomAuteur.MD`
 
-- Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VP. Des critiques et des propositions d'amendements pourront être soumises.
+Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VP. Des critiques et des propositions d'amendements pourront être soumises.
 
-<a name="I.2"></a>
+<a name="II.2"></a>
 ### 2. Liste des VP
 
 |N°   |Titre |     |
