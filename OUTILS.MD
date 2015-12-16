@@ -13,11 +13,11 @@ Comparatif des outils existants
 I. Espace de discussion
 -----------------------
 
-| Outil | Service en ligne | Projet GitHub | Hashtags (posts) | Hashtags (sujets) | Arborescence | Vote par catégorie (posts) |
+| Outil | Hébergement gratuit | Projet GitHub | Hashtags (posts) | Hashtags (sujets) | Arborescence | Vote par catégorie (posts) |
 |----------------------------------------------|:------------------:|:-------------:|:----------------:|:----------------:|:---------------------------:|:--------------------------:|
 | [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | ?| ?| ?| ?|
 | [Muut](https://muut.com)                       | :white_check_mark: | | ?| ?| ?| ?|
-| [Discourse](http://www.discourse.org)                       | payant | | | :white_check_mark: |  | "like" simple |
+| [Discourse](http://www.discourse.org)                       | [payant](https://meta.discourse.org/t/free-hosted-option/9621) | | | :white_check_mark: |  | "like" simple |
 | [GitHub](http://github.com/) ([issues](https://github.com/sveinburne/lets-play-science/issues))                     | :white_check_mark: | | | :white_check_mark: |  | "+1" ZenHub |
 | [Vanilla Open Source](http://vanillaforums.org/)  | [ici ?](http://www.vanillaforfree.com/) | | | :white_check_mark: |  | :white_check_mark: |
 A parcourir en détail pour remplir le tableau ci dessus :
