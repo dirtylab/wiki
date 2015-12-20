@@ -12,6 +12,8 @@ Recensement des solutions d'hébergement
 Autres possibilités payantes à creuser :
 * [Google Cloud Platform](https://cloud.google.com/)
 * [Amazon Web Services](https://aws.amazon.com)
+* [OVH](https://www.ovh.com/fr/)
+* ...
 
 ## Noms de domaine
 
