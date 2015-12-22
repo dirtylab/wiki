@@ -35,7 +35,7 @@ III. [Agrégation des propositions de fonctionnalités pour une plateforme colla
 <a name="I"></a>
 I. Participer à la synthèse
 ---------------------------
-**Pour faire une proposition d'édition**, suivez [**notre petit tutoriel**](https://github.com/sveinburne/lets-play-science/blob/master/HELP.MD).
+**Pour faire une proposition d'édition**, suivez [**notre petit tutoriel**](HELP.MD).
 
 <a name="II"></a>
 II. Synthèse des commentaires Youtube
