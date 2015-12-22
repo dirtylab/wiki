@@ -1,4 +1,4 @@
-Propositions extraites de commentaires Youtube
+﻿Propositions extraites de commentaires Youtube
 ==============================================
 
 Dès la création de ce dépôt GitHub, [Jules Randolph](https://github.com/sveinburne) a agrégé et organisé des propositions
