@@ -86,4 +86,4 @@ Une fois acceptée, l'auteur de la **pull request** doit créer une issue portan
 
 |N°   |Titre |Auteur|     |
 |:---:|:-----|:-----|:----:|
-|1|[Fonctionnalités pour forum (propositions YouTube)](VP/VP-forum-propositions-Youtube))|*multiples*|[discussion](https://github.com/sveinburne/lets-play-science/issues/78)|
+|1|[Fonctionnalités pour forum (propositions YouTube)](VP/VP-forum-propositions-Youtube.MD)|*multiples*|[discussion](https://github.com/sveinburne/lets-play-science/issues/78)|
