@@ -213,7 +213,7 @@ Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les 
 
 <a name="4.c"></a>
 #### c. Hash sémantique / chemin sémantique
-*cf. [VP propositions Youtube : hashtag avec domaine de noms](PRATIQUE/VP/VP-forum%20(propositions%20Youtube).MD#3-une-association-sémantique-des-posts)* 
+*cf. [VP propositions Youtube : hashtag avec domaine de noms](PRATIQUE/VP/VP-forum-propositions-Youtube.MD#3-une-association-sémantique-des-posts)* 
 
 Suite ordonnée de mots caractérisant un *document* dont l'ordre d'importance est décroissant.  
 C'est un peu comme un hashtag, mais "augmenté" : il donne une information sur la manière dont le *document* articule certains concepts entre eux.  
