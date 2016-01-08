@@ -11,7 +11,7 @@
   - [Tutoriel très rapide (EN, 5 min)](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)
   - [Tutoriel complet (FR, 20 min)](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
 * **Forum de discussion** : onglet [issues](https://github.com/sveinburne/lets-play-science/issues). Si vous n'êtes pas à l'aise avec GitHub, essayez [**ce forum**](https://www.reddit.com/r/dirtylab/).
-* Outil de **messagerie instantanée** intégré [![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
+* Outil de [**messagerie instantanée**](https://dirtylab.slack.com). Auto-invitez vous [**ici**](http://gaelfoppolo.com/projets/dirtylab/slack/), sinon demandez une invitation manuellement, elle sera toujours acceptée rapidement.
 
 ## Ou trouver de l'aide ?
 
