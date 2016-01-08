@@ -10,6 +10,7 @@
 
 | Observateurs | Domaines d'intérêt | Spécialité |
 |--------------|--------------------|------------|
+|[aurelBZH](https://github.com/aurelBZH) | traitement de données génomique | bioinformatique |
 
 ## Développeurs et graphistes
 
