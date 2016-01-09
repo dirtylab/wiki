@@ -252,13 +252,15 @@ Au sujet d'une représentation visuelle (arbre), choix des noeuds à afficher po
 #### f. Ontologie
 Une [ontologie](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) en informatique est un modèle non ambigu de description du réel.
 Elle associe des concepts pour ensuite tirer des inférences.  
->[**[wikipedia]**](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) Les ontologies décrivent généralement :
-* individus : les objets de base ;
-* classes : ensembles, collections, ou types d'objets1 ;
-* attributs : propriétés, fonctionnalités, caractéristiques ou paramètres que les objets peuvent posséder et partager ;
-*  **relations** : les liens que les objets peuvent avoir entre eux ;
-*  événements : changements subis par des attributs ou des relations ;
-* métaclasse (web sémantique) : des collections de classes qui partagent certaines caractéristiques.
+
+> [**[wikipedia]**](https://fr.wikipedia.org/wiki/Ontologie_%28informatique%29) Les ontologies décrivent généralement :
+
+> * individus : les objets de base ;
+> * classes : ensembles, collections, ou types d'objets1 ;
+> * attributs : propriétés, fonctionnalités, caractéristiques ou paramètres que les objets peuvent posséder et partager ;
+> *  **relations** : les liens que les objets peuvent avoir entre eux ;
+> *  événements : changements subis par des attributs ou des relations ;
+> * métaclasse (web sémantique) : des collections de classes qui partagent certaines caractéristiques.
 
 <a name="4.g"></a>
 #### g. Définitions chaînées
