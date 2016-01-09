@@ -44,7 +44,7 @@ On sera heureux de vous familiariser avec ces outils ;)
 <a name="OS"></a>
 On est des fous et on fait l'application en Open Source!
 ----------------------------------------------------------
-**REMARQUE** : Un projet de développement comme celui-ci **a aussi besoin de participants qui ne sont pas issus de l'informatique**. Plus il y a de transdisciplinairté, meilleur sera le produit final.
+**REMARQUE** : Un projet de développement comme celui-ci **a aussi besoin de participants qui ne sont pas issus de l'informatique**. Plus il y a de transdisciplinarité, meilleur sera le produit final.
 
 #### 1. Participer à la réflexion sur l'application, pas besoin d'être dev'
 *Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
