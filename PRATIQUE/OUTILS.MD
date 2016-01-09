@@ -49,5 +49,5 @@ IV. Espace de t'chat
 
 | Outil  |  Service en ligne   | Commentaires |
 |--------|:--------------------:|:-----------|
-| Gitter | :white_check_mark: | *plateforme actuellement utilisée* |
-| [Slack](https://slack.com/) | :white_check_mark:  |               |
+| Gitter | :white_check_mark: |  |
+| [Slack](https://slack.com/) | :white_check_mark:  | *plateforme actuellement utilisée* |
