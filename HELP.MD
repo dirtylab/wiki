@@ -1,8 +1,7 @@
 # Tutoriel GitHub
 
 Afin de permettre à un maximum de personnes (y compris les non informaticiens) d'utiliser cette plateforme,
-voici un petit topo sur l'utilisation des *espaces de discussion* et *d'écriture collaborative* qu'offrent
-**GitHub + Gitter**.
+voici un petit topo sur l'utilisation de l'*espace de discussion* et *d'écriture collaborative* qu'offre **GitHub**.
 
 L'ensemble du projet est accessible « en lecture » sans inscription, cependant si vous souhaitez participer (proposer des modifications, etc.), il vous faudra d'abord [**créer un compte GitHub**](https://github.com/join).
 
@@ -48,6 +47,8 @@ Si vous n'en trouvez pas, créez un nouveau topic/issue, en donnant un **titre c
 et en **décrivant précisément ce que vous souhaitez évoquer** (améliorer l'organisation du fichier X,
 approfondir la réflexion sur le sujet Y...).
 
+Si GitHub vous rebute, n'hésitez pas à poser vos questions ou faire des propositions sur le [**forum Reddit**](https://www.reddit.com/r/dirtylab).
+
 ### 2.1. [Labels](https://github.com/sveinburne/lets-play-science/labels)
 
 Chaque sujet (issue, pull request) peut être associé à un ou plusieurs **[labels](https://github.com/sveinburne/lets-play-science/labels)** qui
@@ -70,18 +71,16 @@ Les filtres peuvent se cumuler, exemple [`-label:épinglé is:open`](https://git
 Vous pouvez aussi utiliser l'interface graphique, boutons `Filters`, `Labels`, `Sort` (tri) ... etc  
 [Pour plus de fonctionnalités sur les filtres, voir le guide officiel (en anglais)](https://help.github.com/articles/searching-issues/).
 
-## 3. [Tchat](https://gitter.im/sveinburne/lets-play-science)
+## 3. [Tchat](https://dirtylab.slack.com)
 
-[![Gitter logo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sveinburne/lets-play-science)
-
-La plateforme [Gitter](https://gitter.im) (associée à Github), est utilisée.
+La plateforme [Slack](https://dirtylab.slack.com) (avec intégration Github), est utilisée.
 
 Avantages :
 * L'historique des interventions est conservé, donc on peut laisser un commentaire même s'il n'y a personne d'autre à ce moment là.
-* Dans un panneau sur la droite, est affichée la liste des derniers "événements"
-qui ont eu lieu sur le **[repository GitHub LetsPlayScience](https://github.com/sveinburne/lets-play-science)**.
+* La liste des derniers "événements" qui ont eu lieu sur le **[repository GitHub LetsPlayScience](https://github.com/sveinburne/lets-play-science)**
+s'affiche automatiquement dans le canal [#github](https://dirtylab.slack.com/messages/github/).
 
-#### Quand utiliser Gitter ou le Forum
+#### Quand utiliser Slack ou le Forum
 
 Le tchat peut permettre de laisser une amorce d'idée, demander de l'aide...
 
