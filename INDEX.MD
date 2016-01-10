@@ -35,7 +35,7 @@ sinon demander une invitation qui sera acceptée rapidement ! :wink:
   * [d'études, recherches, domaines scientifiques liés au sujet de la collaboration de masse](THEORIE/INSPIRATION.MD)
 
 * Proposer et effectuer des améliorations pour ce site
-  * Contenu
+  * Contenu ([tutoriel](HELP.MD))
   * Organisation
   * Charte graphique
   * ...
