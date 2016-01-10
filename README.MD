@@ -3,7 +3,7 @@
 
 > ***Comment collaborer à 5000 cerveaux sur la même question ?***
 
-**Un [dépôt](DEFINITIONS.MD#7.a) GitHub** pour organiser les réflexions sur [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
+**Un [dépôt](DEFINITIONS.MD#7.a) GitHub** pour organiser les réflexions sur le défi lancé dans [l'épisode 3 de **Lets Play Science**](https://youtu.be/noADnHKyRmc?list=PLl5zW0Z-tqm4FoZo7b0V2Rrysh3xuEAZv&t=22m06s) !
 
 ## Cette plateforme est utilisée comme...
 
