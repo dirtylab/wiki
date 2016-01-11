@@ -34,8 +34,8 @@ sinon demander une invitation qui sera acceptée rapidement ! :wink:
   * [d'outils plus adaptés](PRATIQUE/OUTILS.MD) (voire participer à la réalisation de ["preuves de concept"](PRATIQUE/POC.MD) si vous êtes développeur)
   * [d'études, recherches, domaines scientifiques liés au sujet de la collaboration de masse](THEORIE/INSPIRATION.MD)
 
-* Proposer et effectuer des améliorations pour ce site
-  * Contenu ([tutoriel](HELP.MD))
+* Proposer et effectuer des améliorations pour ce site ([tutoriel](HELP.MD))
+  * Contenu
   * Organisation
   * Charte graphique
   * ...
