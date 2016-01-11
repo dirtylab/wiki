@@ -17,7 +17,7 @@
 
 - [Si vous n'êtes pas familiers de **GitHub**, lisez notre tutoriel](HELP.MD).
 - N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new) pour aborder un sujet
-- Poser une question sur le [Tchat](https://gitter.im/sveinburne/lets-play-science) en cas de doute
+- Poser une question sur le [Tchat](https://dirtylab.slack.com) en cas de doute
 
 On sera heureux de vous familiariser avec ces outils ;)
 
