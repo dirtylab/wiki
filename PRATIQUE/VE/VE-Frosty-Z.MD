@@ -156,9 +156,9 @@ Modération "à posteriori" assez classique :
 III. Espace de t'chat
 -
 
-Pour le moment [Gitter](https://gitter.im/sveinburne/lets-play-science) s'en sort très bien.
+Pour le moment [Gitter](https://gitter.im/sveinburne/lets-play-science) s'en sort très bien (EDIT 11/1/2016 depuis quelques jours nous sommes passés sur [Slack](https://dirtylab.slack.com), aidés par [@gaelfoppolo](https://github.com/gaelfoppolo)).
 
-A voir dans le temps s'il sera nécessaire de séparer les **discussions sur les défis** des **discussions sur l'évolution de la plateforme LetsPlayScience**. Sur Gitter, cela peut se faire à l'aide de *"rooms"* distinctes.
+A voir dans le temps s'il sera nécessaire de séparer les **discussions sur les défis** des **discussions sur l'évolution de la plateforme LetsPlayScience**. Sur Slack, cela peut se faire à l'aide de *channels* distincts.
 
 
 <a name="IV"></a>
