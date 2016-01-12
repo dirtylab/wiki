@@ -8,17 +8,17 @@ Pistes
 ## l'Autorité des experts
 *Un appel d'expertise, c'est quand la communauté identifie le besoin de faire appel à des individus spécialisés dans un domaine pour répondre à certaines de ses interrogations*
 
-* [A1 - Comment ne pas faire des experts des autorités incontestables du savoir ?](PISTES/A1)
-* [A2 - Comment les idées peuvent-elles circuler depuis les experts vers les novices, ou la question de la vulgarisation ?](PISTES/A2)
-* [A3 - Comment un membre est identifié par la communauté comme expert sur un domaine ?](PISTES/A3)
+* [A1 - Comment ne pas faire des experts des autorités incontestables du savoir ?](PISTES/A1.MD)
+* [A2 - Comment les idées peuvent-elles circuler depuis les experts vers les novices, ou la question de la vulgarisation ?](PISTES/A2.MD)
+* [A3 - Comment un membre est identifié par la communauté comme expert sur un domaine ?](PISTES/A3.MD)
 
 ## Une expérience ludique
 
-* [B1 - Comment faire de la collaboration une activité ludique et excitante?](PISTES/B2)
+* [B1 - Comment faire de la collaboration une activité ludique et excitante?](PISTES/B2.MD)
 
 ## Une formalisation des échanges dans la communauté
 
-* [C1 - Quels sont les contenus produits par la communauté et à quel objectifs répondent-ils?](PISTES/C1)
-* [C2 - Quelles sont les attentes des membres de la communauté et qu'est-ce qui les pousse à s'investir dans la collaboration ?](PISTES/C2)
-* [C3 - Comment les membres participant à une collaboration reçoivent les nouvelles idées et propositions?](PISTES/C3)
-* [C4 - Comment les membres peuvent-ils **modifier** leur comportement pour améliorer la collaboration?](PISTES/C4)
+* [C1 - Quels sont les contenus produits par la communauté et à quel objectifs répondent-ils?](PISTES/C1.MD)
+* [C2 - Quelles sont les attentes des membres de la communauté et qu'est-ce qui les pousse à s'investir dans la collaboration ?](PISTES/C2.MD)
+* [C3 - Comment les membres participant à une collaboration reçoivent les nouvelles idées et propositions?](PISTES/C3.MD)
+* [C4 - Comment les membres peuvent-ils **modifier** leur comportement pour améliorer la collaboration?](PISTES/C4.MD)
