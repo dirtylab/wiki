@@ -3,7 +3,9 @@
 Afin de permettre à un maximum de personnes (y compris les non informaticiens) d'utiliser cette plateforme,
 voici un petit topo sur l'utilisation de l'*espace de discussion* et *d'écriture collaborative* qu'offre **GitHub**.
 
-L'ensemble du projet est accessible « en lecture » sans inscription, cependant si vous souhaitez participer (proposer des modifications, etc.), il vous faudra d'abord [**créer un compte GitHub**](https://github.com/join).
+L'ensemble du projet est accessible « en lecture » sans inscription, cependant si vous souhaitez participer (proposer des modifications, etc.), il vous faudra
+- [**créer un compte GitHub**](https://github.com/join)
+- préférablement, [installer ZenHub en un clic](https://www.zenhub.io/) dans votre navigateur pour pouvoir donner des +1 aux posts et/ou commentaires que vous estimez pertinents. Le détail des fonctionnalités [ici](https://github.com/sveinburne/lets-play-science/issues/62). 
 
 ## 1. [Rédaction collaborative](https://github.com/sveinburne/lets-play-science)
 
