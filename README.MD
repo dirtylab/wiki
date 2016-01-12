@@ -11,35 +11,33 @@
   - [Tutoriel très rapide (EN, 5 min)](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)
   - [Tutoriel complet (FR, 20 min)](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
 * **Forum de discussion** : onglet [issues](https://github.com/sveinburne/lets-play-science/issues). Si vous n'êtes pas à l'aise avec GitHub, essayez [**ce forum**](https://www.reddit.com/r/dirtylab/).
-* Outil de [**messagerie instantanée**](https://dirtylab.slack.com). Auto-invitez vous [**ici**](http://gaelfoppolo.com/projets/dirtylab/slack/), sinon demandez une invitation manuellement, elle sera toujours acceptée rapidement.
+* Outil de [**messagerie instantanée**](https://dirtylab.slack.com). Inscrivez-vous [**ici**](http://gaelfoppolo.com/projets/dirtylab/slack/), sinon demandez une invitation manuellement : elle sera toujours acceptée dans les plus brefs délais.
 
 ## Ou trouver de l'aide ?
 
-- [Si vous n'êtes pas familiers de **GitHub**, lisez notre tutoriel](HELP.MD).
+- [Lisez avant toute chose notre tutoriel](HELP.MD).
 - N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new) pour aborder un sujet
-- Poser une question sur le [Tchat](https://dirtylab.slack.com) en cas de doute
+- Poser une question sur le [Tchat](https://dirtylab.slack.com) après [vous être inscris](http://gaelfoppolo.com/projets/dirtylab/slack/) en cas de doute.
 
 On sera heureux de vous familiariser avec ces outils ;)
 
 ## Les objectifs de ce [dépôt](DEFINITIONS.MD#7.a) ?
 
-1. Faire la synthèse des propositions sur Youtube  
-[c'est ici : SYNTHESE_YOUTUBE.MD](PRATIQUE/SYNTHESE_YOUTUBE.MD)
-2. Faire l'inventaire des outils existants répondant à nos besoins  
-[c'est ici : OUTILS.MD](PRATIQUE/OUTILS.MD)
-3. Rechercher et partager un maximum de connaissances sur le sujet, qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ...  
-[c'est ici : INSPIRATION.MD](THEORIE/INSPIRATION.MD) et [PISTES.MD](THEORIE/PISTES.MD)
-4. Imaginer des solutions inspirées des démarches **1.**, **2.** et **3.** - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
-  - définir un vocabulaire qui nous permet de communiquer sans ambiguité  
-  [c'est ici : DEFINITIONS.MD](DEFINITIONS.MD)
-  - proposer des solutions concrètes (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
-  [c'est ici : VISIONS.MD](PRATIQUE/VISIONS.MD)
-5. Implémenter la plateforme open-source qui émergera de **4.** en faisant intervenir un **maximum de gens d'horizons disciplinaires différents**. On ne souhaite pas se précipiter, on préfère avancer sereinement que trébucher en courant.
-  - Rédiger les spécifications
-  - Lister les intéressés et leurs domaines de prédilection
+1. Faire la [synthèse des propositions de Youtube ](PRATIQUE/SYNTHESE_YOUTUBE.MD)  
+2. Faire l'[inventaire des outils existants](PRATIQUE/OUTILS.MD) répondant à nos besoins et/ou nous inspirant
+3. Rechercher et partager un maximum de [connaissances sur le sujet](THEORIE/INSPIRATION.MD), qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ...
+4. Creuser des [pistes de réflexion](THEORIE/PISTES.MD) en disséquant la question initiale avec une approche transdisciplinaire, alimentées par **3**
+5. Définir un [vocabulaire](DEFINITIONS.MD) qui nous permet de communiquer sans ambiguïté  et faire émerger des concepts
+6. Imaginer des solutions applicatives (applications web) inspirées des démarches précédentes - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
+  - imaginer des [solutions concrètes](PRATIQUE/VISIONS.MD) (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
+  - imaginer des [fonctionnalités](PRATIQUE/VISIONS.MD) (on les appelle **visions partielles**)  
+  - implémenter des [**PoC** (preuves de concept)](PRATIQUE/POC.MD) qui sont de petites applications mettant en oeuvre des **visions**  
+7. Spécifier et implémenter la plateforme open-source qui émergera de **6.** en faisant intervenir un **maximum de gens d'horizons disciplinaires différents**. On ne souhaite pas se précipiter, on préfère avancer sereinement que trébucher en courant.
+  - Rédiger les [spécifications](PRATIQUE/SPECIFICATIONS.MD)
+  - Lister les [intéressés](CONTRIBUTEURS.MD) et leurs domaines de prédilection  
   - Choisir les technologies
   - ...etc
-6. Itérer de manière ininterrompue de **2.** à **5.**
+8. Itérer de manière ininterrompue de **2.** à **6.**
 
 <a name="OS"></a>
 On est des fous et on fait l'application en Open Source!
