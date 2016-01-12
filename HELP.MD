@@ -1,4 +1,4 @@
-# Tutoriel GitHub
+# Introduction à notre [GitHub](http://github.com/sveinburne/lets-play-science/)
 
 Afin de permettre à un maximum de personnes (y compris les non informaticiens) d'utiliser cette plateforme,
 voici un petit topo sur l'utilisation de l'*espace de discussion* et *d'écriture collaborative* qu'offre **GitHub**.
@@ -73,16 +73,17 @@ Vous pouvez aussi utiliser l'interface graphique, boutons `Filters`, `Labels`, `
 
 ## 3. [Tchat](https://dirtylab.slack.com)
 
-La plateforme [Slack](https://dirtylab.slack.com) (avec intégration Github), est utilisée.
+La plateforme [Slack](https://dirtylab.slack.com) (avec intégration Github), est utilisée. [Les inscriptions se font ici.](http://gaelfoppolo.com/projets/dirtylab/slack/).
 
-Avantages :
+**Avantages :**
 * L'historique des interventions est conservé, donc on peut laisser un commentaire même s'il n'y a personne d'autre à ce moment là.
 * La liste des derniers "événements" qui ont eu lieu sur le **[repository GitHub LetsPlayScience](https://github.com/sveinburne/lets-play-science)**
 s'affiche automatiquement dans le canal [#github](https://dirtylab.slack.com/messages/github/).
+* Un canal d'#annonces répertorie les nouvelles de la communauté depuis les comptes [twitter](https://twitter.com/DrtyLab) et [facebook](http://facebook.com/drtylab).
 
-#### Quand utiliser Slack ou le Forum
+#### Quand utiliser Slack, Reddit ou le Forum
 
-Le tchat peut permettre de laisser une amorce d'idée, demander de l'aide...
-
-Pour garder une trace durable il est recommandé d'utiliser le **[forum](https://github.com/sveinburne/lets-play-science/issues)**
-ou de faire des **PR** (chaque PR a un fil de discussion associé)
+- Le tchat peut permettre de laisser une amorce d'idée, demander de l'aide...
+- Pour garder une trace durable il est recommandé d'utiliser le **[forum](https://github.com/sveinburne/lets-play-science/issues)**
+ou de faire des **PR** (chaque Pull Request a un fil de discussion associé)
+- [Reddit](https://www.reddit.com/r/dirtylab) permet d'aborder des réflexions de manière plus informelles!
