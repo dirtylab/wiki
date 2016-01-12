@@ -27,11 +27,12 @@ A parcourir en détail pour remplir le tableau ci dessus :
 * [Top 9 moteurs de forums sur SaveDelete.com](http://savedelete.com/software/best-forum-software-free-and-paid/14592/)
 * [Page Wikipédia comparant de nombreux moteurs de forum](https://en.m.wikipedia.org/wiki/Comparison_of_Internet_forum_software)
 
-II. Espace questions/réponses
------------------------------
+II. Espace questions/réponses, vote, sondage
+--------------------------------------------
 
 | Outil                        |  Service en ligne        | Projet Github | Commentaires |
 |------------------------------|:------------------------:|:--------------------:|:--------------------|
+| [ZenHub](https://www.zenhub.io/) | :white_check_mark: | privé | *actuellement utilisé* |
 | [ASKBOT](https://askbot.com) |                          | :white_check_mark:| |
 | [question2answer.org](http://www.question2answer.org) | | :white_check_mark:| |
 | [OSQA](http://www.osqa.net)  |                          | :white_check_mark:| |
@@ -52,4 +53,4 @@ IV. Espace de t'chat
 | Outil  |  Service en ligne   | Commentaires |
 |--------|:--------------------:|:-----------|
 | Gitter | :white_check_mark: |  |
-| [Slack](https://slack.com/) | :white_check_mark:  | *plateforme actuellement utilisée* |
+| [Slack](https://slack.com/) | :white_check_mark:  | *actuellement utilisé* |
