@@ -14,7 +14,7 @@ Pistes
 
 ## Une expérience ludique
 
-* [B1 - Comment faire de la collaboration une activité ludique et excitante?](PISTES/B2.MD)
+* [B1 - Comment faire de la collaboration une activité ludique et excitante?](PISTES/B1.MD)
 
 ## Une formalisation des échanges dans la communauté
 
