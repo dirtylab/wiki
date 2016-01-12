@@ -44,7 +44,7 @@ III. Espace d'écriture collaboratif
 
 | Outil  |  Service en ligne   | Projet GitHub | Commentaires |
 |----------------------------------------------|:--------------------:|:-------------:|:-----------|
-| GitHub | :white_check_mark:  |               | Il y a certainement plus « accessible » (plateformes type wiki ?) |
+| GitHub | :white_check_mark:  |               | *actuellent utilisé*. Il y a certainement plus "accessible" (plateformes type wiki ?) |
 | Wikia | :white_check_mark:  |               | [essai](http://fr.dirtylab.wikia.com/) |
 
 
