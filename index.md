@@ -40,6 +40,7 @@ que ce site affiche en **HTML**. Un des prochains chantiers est d'améliorer cet
 
 Markdown est un langage de mise en forme très populaire et simple d'utilisation!  
 Voici trois liens bien utiles pour l'apprendre rapidement :
+
 - [Introduction très rapide (EN, 5 min)](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)
 - [**Editeur en ligne** qui a la classe](https://stackedit.io/editor)
 - [Tutoriel complet (FR, 20 min)](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
