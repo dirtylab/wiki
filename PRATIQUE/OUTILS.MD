@@ -30,11 +30,13 @@ A parcourir en détail pour remplir le tableau ci dessus :
 II. Espace questions/réponses
 -----------------------------
 
-| Outil                        |  Service en ligne        | Projet Github |
-|------------------------------|:------------------------:|:--------------------:|
-| [ASKBOT](https://askbot.com) |                          | :white_check_mark:|
-| [question2answer.org](http://www.question2answer.org) | | :white_check_mark:|
-| [OSQA](http://www.osqa.net)  |                          | :white_check_mark:|
+| Outil                        |  Service en ligne        | Projet Github | Commentaires |
+|------------------------------|:------------------------:|:--------------------:|:--------------------|
+| [ASKBOT](https://askbot.com) |                          | :white_check_mark:| |
+| [question2answer.org](http://www.question2answer.org) | | :white_check_mark:| |
+| [OSQA](http://www.osqa.net)  |                          | :white_check_mark:| |
+| [Loomio](https://www.loomio.org/)  | :white_check_mark:  | | Proposé par @Framartin. Possibilité de service en ligne gratuit à étudier. |
+| [LiquidFeedback](http://liquidfeedback.org/)  |    |   | Proposé par @Framartin. Utilisé par le [Parti pirate](http://www.partipirate.fr/LiquidFeedback-217). |
 
 III. Espace d'écriture collaboratif
 -----------------------------------
