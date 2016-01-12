@@ -6,10 +6,10 @@ dans sa vidéo [**LetsPlayScience #3**](https://www.youtube.com/watch?v=noADnHKy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noADnHKyRmc" frameborder="0" allowfullscreen></iframe>
 
-Ce site a pour objectif de vous présenter l'état actuel de cette réflexion.
+Ce site a pour objectif de vous présenter l'**état actuel de cette réflexion**.
 
 La navigation bizarre sur la gauche, est en fait une arborescence de [**fichiers Markdown**](https://fr.wikipedia.org/wiki/Markdown) rédigés collaborativement,
-que ce site affiche en **HTML**. Un des prochains chantiers est d'améliorer cette navigation.
+que ce site affiche en **HTML**. Un des prochains chantiers est d'[améliorer cette navigation](https://github.com/sveinburne/lets-play-science/issues/90).
 
 
 ## Plateforme de réflexion
