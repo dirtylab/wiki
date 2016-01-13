@@ -35,7 +35,7 @@ Ce site a pour objectif de vous présenter l'**état actuel de cette réflexion*
 
 [**Rendez-vous ici**](HELP.MD) pour une introduction à notre [dépôt](DEFINITIONS.MD#7.a) GitHub.
 
-La navigation bizarre sur la gauche, est en fait une arborescence de [**fichiers Markdown**](https://fr.wikipedia.org/wiki/Markdown) rédigés collaborativement [depuis github](https://github.com/sveinburne/lets-play-science),
+Le site est intégralement généré à partir de [**fichiers Markdown**](https://fr.wikipedia.org/wiki/Markdown) rédigés collaborativement [depuis github](https://github.com/sveinburne/lets-play-science),
 que ce site affiche en **HTML**. Un des prochains chantiers est d'améliorer cette navigation.
 
 Markdown est un langage de mise en forme très populaire et simple d'utilisation!  
