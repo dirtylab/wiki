@@ -10,6 +10,7 @@ Recensement des solutions d'hébergement
 |GitHub pages| gratuit | illimité | Ok (sous domaine github.io) |  |  |
 
 Autres possibilités payantes à creuser :
+
 * [Google Cloud Platform](https://cloud.google.com/)
 * [Amazon Web Services](https://aws.amazon.com)
 * [OVH](https://www.ovh.com/fr/)
