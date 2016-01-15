@@ -4,6 +4,7 @@ Afin de permettre à un maximum de personnes (y compris les non informaticiens) 
 voici un petit topo sur l'utilisation de l'*espace de discussion* et *d'écriture collaborative* qu'offre **GitHub**.
 
 L'ensemble du projet est accessible « en lecture » sans inscription, cependant si vous souhaitez participer (proposer des modifications, etc.), il vous faudra
+
 - [**créer un compte GitHub**](https://github.com/join)
 - préférablement, [installer ZenHub en un clic](https://www.zenhub.io/) dans votre navigateur pour pouvoir donner des +1 aux posts et/ou commentaires que vous estimez pertinents. Le détail des fonctionnalités [ici](https://github.com/sveinburne/lets-play-science/issues/62). 
 
@@ -61,6 +62,7 @@ permettent une classification, aidant à retrouver plus facilement certains thè
 
 Le **moteur de recherche** des **topics/issues** permet l'utilisation de filtres.
 Voici des filtres utiles :
+
  - [`is:issue`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aissue+) (toutes les *issues*, c'est à dire "posts")
  - [`is:pr`](https://github.com/sveinburne/lets-play-science/pulls?q=is%3Apr) (toutes les pull request, PR)
  - [**`sort:updated-desc `**](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=sort%3Aupdated-desc+) (trier par **modifié le plus récemment d'abord**)
@@ -78,6 +80,7 @@ Vous pouvez aussi utiliser l'interface graphique, boutons `Filters`, `Labels`, `
 La plateforme [Slack](https://dirtylab.slack.com) (avec intégration Github), est utilisée. [Les inscriptions se font ici.](http://gaelfoppolo.com/projets/dirtylab/slack/).
 
 **Avantages :**
+
 * L'historique des interventions est conservé, donc on peut laisser un commentaire même s'il n'y a personne d'autre à ce moment là.
 * La liste des derniers "événements" qui ont eu lieu sur le **[repository GitHub LetsPlayScience](https://github.com/sveinburne/lets-play-science)**
 s'affiche automatiquement dans le canal [#github](https://dirtylab.slack.com/messages/github/).

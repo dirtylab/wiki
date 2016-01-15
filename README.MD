@@ -81,6 +81,7 @@ Des **développeurs** et **graphistes / intégrateurs web** qui ont signalé leu
 Pourquoi GitHub?
 ----------------------------------------------------------
 Au même titre qu'un Wiki, cette application permet de faire des **révisions avec validation [des responsables](https://github.com/sveinburne/lets-play-science/issues/1)** d'un document collaboratif.
+
 - L'idée est que chacun puisse éditer ces document en apportant de nouvelles suggestions/idées/synthèses.
 - Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton ![Watch](img/watch.png) en haut à droite.
 - **Pour ne voir que les ajouts récents, et pas se refarcir tout le document à chaque fois**, faites un tour [du côté des *commits*](https://github.com/sveinburne/lets-play-science/commits/master)

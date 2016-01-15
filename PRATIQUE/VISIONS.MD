@@ -23,6 +23,7 @@ I. Visions d'ensemble (VE)
 ---------------------------
 
 **Forum :**
+
 - [**meta-topic - Visions d'ensemble**](https://github.com/sveinburne/lets-play-science/issues/41)  
 - [`label:vision d'ensemble`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22vision+d%27ensemble%22) pour organiser la discussion autour d'une [**vision d'ensemble**](#I)
 
@@ -31,6 +32,7 @@ I. Visions d'ensemble (VE)
 <a name="I.1"></a>
 ### 1. Critères de soumission d'une VE
 Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **PRATIQUE/VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
+
 - elle doit être sensiblement différente d'une VE existante
 - elle doit s'appuyer rigoureusement sur [**ce vocabulaire**](../DEFINITIONS.MD)
 - elle doit être rédigée avec **concision** et esprit de **synthèse**
@@ -47,6 +49,7 @@ Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situ�
 - le nom du fichier markdown doit être `VE-nomAuteur.MD`
 
 Remarques importantes :
+
 - Une solution ne s'oppose pas nécessairement à sa concurrente, elle peut être offerte provisoirement en attendant le développement de fonctionnalités plus avancées, cf. priorités.
 - Si des **définitions** manquent ou des nuances sont nécessaires à apporter, merci de **soumettre une issue** ou une **pull request** en exprimant clairement votre besoin.
 - Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VE. Des critiques et des propositions d'amendements pourront être soumises.

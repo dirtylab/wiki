@@ -26,6 +26,7 @@ Sommaire
 Beaucoup partent du constat que les fonctionnalités offertes par le système de commentaires Youtube est bien trop limité, ne serait-ce que par rapport à un forum classique.
 
 **Fonctionnalités qui reviennent le plus souvent :**
+
   1. Hashtags sur les posts, les fils
   2. Structuration du forum par défi / sous-défi / etc. (+ parfois mind mapping)
   3. Votes par catégorie
@@ -36,6 +37,7 @@ Beaucoup partent du constat que les fonctionnalités offertes par le système de
 #### 1.2 Commentaires Youtube (25%)
 
 **Ceux qui se « contenteraient » de Youtube, proposent le plus souvent :**
+
   1. De noter les commentaires (en réponse aux commentaires)
   2. De structurer l'arborescence de commentaires (par type de message : réaction à la vidéo ou réflexion sur le défi suivant, par défi/sous-défi...)
   3. De faire de l'analyse syntaxique pour dégager les principaux mots clés, tendances
@@ -44,9 +46,19 @@ Beaucoup partent du constat que les fonctionnalités offertes par le système de
 ### 2. Espace questions/réponses, sondage (20% des propositions)
 
 **Fonctionnalité particulière souvent proposée :**
+
 * Eviter l'effet « mouton » en masquant les votes, en ordonnant aléatoirement les propositions (pendant un temps limité ou non), etc.
 
-**Outils existants évoqués** (par ordre de fréquence décroissante) : [StackOverflow](http://stackoverflow.com/) / [StackExchange](http://stackexchange.com/) / [jepolitique.fr](http://jepolitique.fr/), [Quora](https://www.quora.com/), [republique-numerique.fr](https://www.republique-numerique.fr/), [laprimaire.org](https://laprimaire.org/), [projet « Reboot la France »](http://korben.info/reboot-la-france-vous-etes-des-grands-malades.html), [Tricider](https://www.tricider.com/), straw poll divers
+**Outils existants évoqués** (par ordre de fréquence décroissante) : 
+
+* [StackOverflow](http://stackoverflow.com/) / [StackExchange](http://stackexchange.com/) 
+* [jepolitique.fr](http://jepolitique.fr/)
+* [Quora](https://www.quora.com/)
+* republique-numerique.fr](https://www.republique-numerique.fr/)
+* [laprimaire.org](https://laprimaire.org/)
+* [projet « Reboot la France »](http://korben.info/reboot-la-france-vous-etes-des-grands-malades.html)
+* [Tricider](https://www.tricider.com/)
+* *straw poll divers*
 
 Permettrait à moindre coût de faire ressortir facilement les grandes tendances se dégageant d'un groupe d'individus.
 
@@ -61,7 +73,13 @@ Ce qui ressort de la plupart de ces propositions, serait qu'un groupe d'internau
 
 Dans une moindre mesure, l'idée de faire collaborer les internautes directement sur l'espace d'écriture a également été exprimée.
 
-**Outils existants évoqués** : [Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)/[Wikis](https://en.wikipedia.org/wiki/Comparison_of_wiki_software), [authorea.com](https://www.authorea.com/), [GoogleDoc](https://www.google.fr/intl/fr/docs/about/), [workflowy](https://workflowy.com/)
+**Outils existants évoqués** : 
+
+* [Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)
+* [Wikis](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
+* [authorea.com](https://www.authorea.com/)
+* [GoogleDoc](https://www.google.fr/intl/fr/docs/about/)
+* [workflowy](https://workflowy.com/)
 
 <a name="4"></a>
 ### 4. Espace de tchat (5%)

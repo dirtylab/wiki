@@ -2,6 +2,7 @@ Définitions
 ===========
 
 **Forum :**  
+
 - [**meta-topic - Définition**](https://github.com/sveinburne/lets-play-science/issues/40)
 - [`label:définitions`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Ad%C3%A9finitions+) au sujet d'une **définition**
 
@@ -83,6 +84,7 @@ Ensemble des participants à un défi.
 <a name="1.c"></a>
 #### c. Qualité
 La qualité, c'est dans le contexte d'un défi, notre capacité à
+
 - **Structurer** la réponse offerte par la communauté
 - Eviter autant que possible **l'écueil du nombrilisme**, qui consiste à ne pas regarder les interventions des autres participants (parfois pour plein de raisons légitimes)
 - **Sourcer** un maximum les faits et théories que nous avançons avec des *références*.
@@ -174,6 +176,7 @@ Exemples (proposés par [Gophys](https://github.com/Gophys)) :
 <a name="3.k"></a>
 #### k. Consensus tacite/implicite - Lazy consensus
 Processus de décision simple consistant à suivre les étapes suivantes :
+
 * Proposition
 * Discussion
 * Vote (si aucun consensus n'est obtenu suite à discussion)
@@ -218,10 +221,12 @@ Vue sous forme d'arbre des *chemins / hashs sémantiques* référencés par les 
 Suite ordonnée de mots caractérisant un *document* dont l'ordre d'importance est décroissant.  
 C'est un peu comme un hashtag, mais "augmenté" : il donne une information sur la manière dont le *document* articule certains concepts entre eux.  
 **Conventions syntaxiques:**
+
 - Chaque feuille est séparée de son noeud par un `:`
 - La racine du chemin est identifiée par un `#`
 
 **Ex :**
+
 1. `#Allemagne:Artisanat:Bière` **se distingue de**
 2. `#Bière:Artisanat:Allemagne` **dans l'importance que l'article donne aux termes énumérés**.
 
@@ -285,8 +290,10 @@ Et une balise optionnelle :
 #### h. Appariement
 Dans un *arbre sémantique*, ou plus généralement dans une [taxonomie](https://fr.wikipedia.org/wiki/Taxinomie_%28homonymie%29#Informatique), c'est une unité servant à la mesure de proximité entre deux *documents*.  
 On distingue :  
+
 - **Appariement fort** : Un **chemin** complet du graphe, soit un **hash sémantique** complet est partagé entre deux items.  
 **Ex :** `#Alimentation:Breuvages:Thé` partagé entre deux *posts*.  
+
 - **Appariement faible** : Un **sommet** du graphe est partagé entre deux items.  
 **Ex :**
   - *post 1* : `#Aliments:Boissons:Thé`
@@ -358,6 +365,7 @@ L'ensemble des modifications demandées par l'*amendeur* à l'*hôte*. A ne pas 
 *Les sources de données mentionnées sont les sources techniques constituant l'ensemble des entités présentées [ci-dessus](#I).*
 
 Catégorisons de types de données :
+
  - les données primaires :
   - Post Simple [cf 2.a](#2.a)
   - Commentaire [cf 2.c](#2.c)
@@ -371,10 +379,12 @@ Catégorisons de types de données :
 Créer une source de données spécifique et propre, une nouvelle base de donnée. Cela permettrai la mise en oeuvre de certains cas d'utilisation comme la fusion, les gestions des cycles de vies, la gestion des versions, etc...
 
 **Avantages**
+
 - Permet l'édition collaborative, versionnement et fusion
 - Donne globalement plus de marge de manoeuvre à la gestion des contenus par l'application
 
 **Inconvénients**
+
 - Séparé de YouTube, effort pour le participant
 
 <a name="6.b"></a>
@@ -384,11 +394,13 @@ Utiliser pour les données primaires les commentaires de YouTube et leurs répon
 On pourrait aussi imaginer une syntaxe pour que l'application « filtre » les messages qui ont un rapport, permettant par exemple une intégration avec les hashs sémantiques!
 
 **Avantages**
+
 - Pas de changement brutal des habitudes pour les participants
 - Ouverture de la plateforme à toutes les chaines YouTube
 - Authentification par YouTube ou Google+, c'est un parti pris
 
 **Inconvénients**
+
 - Authentification par YouTube ou Google+, c'est un parti pris
 - Versionnement des posts rendu plus compliqué
 
