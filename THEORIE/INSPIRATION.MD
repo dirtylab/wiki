@@ -1,6 +1,7 @@
 # Inspiration & recherches
 
 **Forum :**  
+
 - [**META-TOPIC**](https://github.com/sveinburne/lets-play-science/issues/38)  
 - [**PROPOSITIONS DE RECHERCHES**](https://github.com/sveinburne/lets-play-science/issues/32)
 - [**LABELS**](https://github.com/sveinburne/lets-play-science/issues/39):
@@ -8,6 +9,7 @@
   - [`label:inspiration`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Ainspiration+) au sujet d'un retour sur un projet original ( application, laboratoire expérimental, pédagogie appliquée... )
 
 **Participer :**
+
   - Si vous souhaitez proposer un **nouveau** concept ou un rapport de lecture, [ouvrez une
  issue](https://github.com/sveinburne/lets-play-science/issues/new). Si vous n'êtes pas sur de vous, [venez intervenir dans cette issue](https://github.com/sveinburne/lets-play-science/issues/32).
   - Si vous souhaitez discuter d'un sujet existant dans ce document
@@ -16,6 +18,7 @@
   - Si vous souhaitez discuter de l'organisation de ce document, [rendez-vous sur cette issue](https://github.com/sveinburne/lets-play-science/issues/38)
 
 **Ressources à creuser en vrac :**
+
 - Le site du MOOC [sur les ressources éducatives libres](rel2014.mooc.ca/)
 - La [synthèse du MOOC ITYPA](https://docs.google.com/document/d/16bkqQ0MT2zF7PaepadjC4-UvNSluQXCRrVf82Kj_QZU/mobilebasic#)
 
