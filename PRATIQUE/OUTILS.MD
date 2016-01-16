@@ -46,6 +46,7 @@ III. Espace d'écriture collaboratif
 | Outil  |  Service en ligne   | Projet GitHub | Commentaires |
 |----------------------------------------------|:--------------------:|:-------------:|:-----------|
 | GitHub | :white_check_mark:  |               | *actuellent utilisé*. Il y a certainement plus "accessible" (plateformes type wiki ?) |
+| GitHub + [prose.io](http://prose.io) | :white_check_mark:  | :white_check_mark:    | Outil beaucoup plus user friendly que github seul! Proche d'un wiki basé sur git |
 | [Wikia](http://www.wikia.com/) | :white_check_mark:  |               | [essai](http://fr.dirtylab.wikia.com/) |
 | [Rizzoma](https://rizzoma.com) | :white_check_mark:  |               | Proposé par @Framartin. |
 
