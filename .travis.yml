@@ -2,10 +2,3 @@
 
 script:
   - bash trigger_site_deploy.sh
-  
-env:
-  global:
-  - GH_REF: github.com/dirtylab/site-scripts
-  - GH_USER: Frosty-Z
-  - GH_EMAIL: maxime.pacary@gmail.com
-  - secure: Gp4lENtvCd0M/dhJRFNUObkv8wqoRcBX4Bxdr+DXT5F4eMe/cw3sNtd/bhipoRshoHjB4z9Gky+q9yO/hnz3VS9AQLLQA6kE0Myab/MJkO8Tc8VCatpnhIJC2UG89CuY1LmU2L+xToc/8GW6zOvKxAeinGf0Df/5bTeuw4EYsZyK6I18B6UCXXMMEY8jos1V0v32/9pJNTMKlY0BpiYljxYmntlHSZRJpPAdtsuK2XyuQ46wmeZOWcXUvh15+LRVL+x4uNfCvPu2ACBpKODqZPU1EAP+3DgktcoteCQBAwfctKj8/wTAE4GkvbIcTOR5/2d+3YX7xK3vBhj4UzxhTkqUaSANivZYl3eAJ9APJ2DAAYSfXu+MYtUo6bVhSnTQB0na+zITMucfImiyoerP5INw05tlaH3c/n3vaqAayeA67OMk1uWWJjiUiIbE4/Zj4i2nYTf7/4CF1cSNSfvEAC2ui8zzsz1+PTmGSC63bIQneCo1JAvper3aVYTJzmJeNfysNg02AxApT/Qevdb+32moQhyuUSptoSy0EY+3/BcnUWJYNTEXKBGihP6QfXIxeQ5kabIQL84tSxoKYcuyE1hS6Kd+ttYjtBAzqKRefKL+e9WKRNbbkGesIrtmzS//AfnY9e9cKQS3J/5/eQ9RO+7jO01jj7UMHRfw7Pzmk0I=
