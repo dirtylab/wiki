@@ -12,7 +12,7 @@
 | Observateurs | Domaines d'intérêt | Spécialité |
 |--------------|--------------------|------------|
 |[aurelBZH](https://github.com/aurelBZH) | traitement de données génomique | bioinformatique |
-|[JulienPayot](https://github.com/JulienPayot) | N/C | recetteur logiciel |
+|[JulienPayot](https://github.com/JulienPayot) | dev casu, jeux vidéo | recetteur logiciel |
 
 ## Développeurs et graphistes
 
