@@ -2,3 +2,8 @@
 
 script:
   - bash trigger_site_deploy.sh
+
+#whitelist
+branches:
+  only:
+    - master
