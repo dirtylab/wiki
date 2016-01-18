@@ -1,9 +1,8 @@
-# pour déclencher automatiquement un build du site chaque fois qu'il y a un commit sur ce dépôt sveinburne/lets-play-science
-
 script:
-  - bash trigger_site_deploy.sh
-
-#whitelist
+- bash trigger_site_deploy.sh
 branches:
   only:
-    - master
+  - master
+env:
+  global:
+    secure: Pv2efaoWPKhlPqhggcpR2EtES9o4FlhltpkCzF8qWJI4m3oNXNQPget5QEU2JtPvq9hcUgjePIejK7G72Km8jT7WYptRLzsHvbTdHXzHZkIc6P0xNdCnJiLAfzR4+CFmV5cWSV8wm5QQiWoP8/mVzUkMt70WKuVtl+LdF4iYEV6KS7idE308mmQEidrmETVlmjmHY5upXCBTUnmaLeMHbSsaVCI02F3NXXl+aIRCJPLb407FAv7G9KwyUmtvVLJMQ6klif3jtD2uJW2wqDbS2pfgW7FkBJmlTKgVAHpdjCHPXLtSSpPcWs/I+EkmdOrNshXGScahlxY/OgMZZATRN9Cr44d4571oLTeTC3UO2vwafuPJuffWMsnItDq2gaGZeuAqs2Hfp4B5RLhX6EwNS3pLqO+wA9ZCsYivCFwtM5fDFMPYA74EN6Y0FG2LvWjeYTFWfiGCwBAoXUd3IQMo7ZOjU5e6WS/qbGOjq9kIYgriZZV8ccB7w+Qh+GipuJVmizy7PtTASq6QoqmUgYif6SxpEUiX7s/n4SsuKtRn/Nga8bgzD5q7dsU5OWnNYD56F5S4q86K8whvY2icuRSF8o0ABWl0SOfbG/Cl9GyYq6AgBUwW6aHESE01127mXCAYrPNpO5XQQT40If2O11gohEYiW5dMq5XC3Qoeir3L7tU=
