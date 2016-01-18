@@ -8,7 +8,7 @@ target_repo='dirtylab/site-scripts'
 
 target_repo=${target_repo/\//%2F}
 
-body = '{
+body='{
 "request": {
   "message": "build trigger from dirtylab/wiki",
   "branch":"master",
