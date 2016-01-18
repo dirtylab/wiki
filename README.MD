@@ -86,7 +86,7 @@ Au même titre qu’un Wiki, cette application permet de faire des **révisions 
 
 - L’idée est que chacun puisse éditer ces documents en apportant de nouvelles suggestions/idées/synthèses.
 - Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/dirtylab/wiki/issues), cliquez sur le bouton ![Watch](img/watch.png) en haut à droite.
-- **Pour ne voir que les ajouts ou suppressions effectuéesà chaque mise à jour**, faites un tour [du côté des *commits*](https://github.com/dirtylab/wiki/commits/master)
+- **Pour ne voir que les ajouts ou suppressions effectuées à chaque mise à jour**, faites un tour [du côté des *commits*](https://github.com/dirtylab/wiki/commits/master)
 
 
 Licence/Droits d’utilisation du contenu de ce projet GitHub
