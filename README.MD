@@ -10,13 +10,13 @@
 * Outil d'**écriture collaborative** (fichiers `.md` au format Markdown).  
   - [Tutoriel très rapide (EN, 5 min)](http://www.remarq.io/articles/five-minutes-to-markdown-mastery/)
   - [Tutoriel complet (FR, 20 min)](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
-* **Forum de discussion** : onglet [issues](https://github.com/sveinburne/lets-play-science/issues). Si vous n'êtes pas à l'aise avec GitHub, essayez [**ce forum**](https://www.reddit.com/r/dirtylab/).
+* **Forum de discussion** : onglet [issues](https://github.com/dirtylab/wiki/issues). Si vous n'êtes pas à l'aise avec GitHub, essayez [**ce forum**](https://www.reddit.com/r/dirtylab/).
 * Outil de [**messagerie instantanée**](https://dirtylab.slack.com). Inscrivez-vous [**ici**](http://gaelfoppolo.com/projets/dirtylab/slack/), sinon demandez une invitation manuellement : elle sera toujours acceptée dans les plus brefs délais.
 
 ## Ou trouver de l'aide ?
 
 - [Lisez avant toute chose notre tutoriel](HELP.MD).
-- N'hésitez pas à [ouvrir une issue](https://github.com/sveinburne/lets-play-science/issues/new) pour aborder un sujet
+- N'hésitez pas à [ouvrir une issue](https://github.com/dirtylab/wiki/issues/new) pour aborder un sujet
 - Poser une question sur le [Tchat](https://dirtylab.slack.com) après [vous être inscris](http://gaelfoppolo.com/projets/dirtylab/slack/) en cas de doute.
 
 On sera heureux de vous familiariser avec ces outils ;)
@@ -28,7 +28,7 @@ On sera heureux de vous familiariser avec ces outils ;)
 3. Rechercher et partager un maximum de [connaissances sur le sujet](THEORIE/INSPIRATION.MD), qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ...
 4. Creuser des [pistes de réflexion](THEORIE/PISTES.MD) en disséquant la question initiale avec une approche transdisciplinaire, alimentées par **3**
 5. Définir un [vocabulaire](DEFINITIONS.MD) qui nous permet de communiquer sans ambiguïté  et faire émerger des concepts
-6. Imaginer des solutions applicatives (applications web) inspirées des démarches précédentes - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
+6. Imaginer des solutions applicatives (applications web) inspirées des démarches précédentes - [guide pour participer](https://github.com/dirtylab/wiki/issues/20)
   - imaginer des [solutions concrètes](PRATIQUE/VISIONS.MD) (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
   - imaginer des [fonctionnalités](PRATIQUE/VISIONS.MD) (on les appelle **visions partielles**)  
   - implémenter des [**PoC** (preuves de concept)](PRATIQUE/POC.MD) qui sont de petites applications mettant en oeuvre des **visions**  
@@ -48,12 +48,12 @@ On est des fous et on fait l'application en Open Source!
 *Sans nécessairement voir le projet se lancer, ça peut être une excellente expérience de pensée de se représenter l'application "idéale".*
 
 - Consultez les documents dédiés : [VISIONS.MD](PRATIQUE/VISIONS.MD) et [INSPIRATION.MD](THEORIE/INSPIRATION.MD)
-- Lisez [ce billet](https://github.com/sveinburne/lets-play-science/issues/11)
+- Lisez [ce billet](https://github.com/dirtylab/wiki/issues/20)
 - Consulter les issues taguées avec
-  - [`label:vision d'ensemble`,](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3A%22vision+d%27ensemble%22+)
-  - [`label:définitions`](https://github.com/sveinburne/lets-play-science/issues?q=is%3Aissue+label%3Ad%C3%A9finitions)
-  - [`label:recherche`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Arecherche+)  
-  - [`label:inspiration`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3Ainspiration+)  
+  - [`label:vision d'ensemble`,](https://github.com/dirtylab/wiki/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3A%22vision+d%27ensemble%22+)
+  - [`label:définitions`](https://github.com/dirtylab/wiki/issues?q=is%3Aissue+label%3Ad%C3%A9finitions)
+  - [`label:recherche`](https://github.com/dirtylab/wiki/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Arecherche+)  
+  - [`label:inspiration`](https://github.com/dirtylab/wiki/issues?utf8=%E2%9C%93&q=+is%3Aissue+label%3Ainspiration+)  
 - Eventuellement [vous signaler comme observateur](#observer) si vous souhaitez regarder de près le projet **sans être développeur**, ça n'a rien d'engageant alors n'hésitez pas! Ca nous permettra de communiquer avec vous plus facilement.
 
 
@@ -62,7 +62,7 @@ On est des fous et on fait l'application en Open Source!
 #### 2. Se signaler comme observateur
 *Si vous souhaitez regarder de près l'avancement du projet et participer activement aux réflexions qui l'animent quel que soit votre domaine*
 
-Vous devez [créer un compte git-hub](https://github.com/join) et [vous signaler dans cette discussion](https://github.com/sveinburne/lets-play-science/issues/37), on viendra vous guider dans la démarche :)
+Vous devez [créer un compte git-hub](https://github.com/join) et [vous signaler dans cette discussion](https://github.com/dirtylab/wiki/issues/16), on viendra vous guider dans la démarche :)
 
 #### 3. Se signaler intéressé pour le developpement / intégration web
 
@@ -80,11 +80,11 @@ Des **développeurs** et **graphistes / intégrateurs web** qui ont signalé leu
 
 Pourquoi GitHub?
 ----------------------------------------------------------
-Au même titre qu'un Wiki, cette application permet de faire des **révisions avec validation [des responsables](https://github.com/sveinburne/lets-play-science/issues/1)** d'un document collaboratif.
+Au même titre qu'un Wiki, cette application permet de faire des **révisions avec validation [des responsables](https://github.com/dirtylab/wiki/issues/19)** d'un document collaboratif.
 
 - L'idée est que chacun puisse éditer ces document en apportant de nouvelles suggestions/idées/synthèses.
-- Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton ![Watch](img/watch.png) en haut à droite.
-- **Pour ne voir que les ajouts récents, et pas se refarcir tout le document à chaque fois**, faites un tour [du côté des *commits*](https://github.com/sveinburne/lets-play-science/commits/master)
+- Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/dirtylab/wiki/issues), cliquez sur le bouton ![Watch](img/watch.png) en haut à droite.
+- **Pour ne voir que les ajouts récents, et pas se refarcir tout le document à chaque fois**, faites un tour [du côté des *commits*](https://github.com/dirtylab/wiki/commits/master)
 
 
 Licence / Droits d'utilisation du contenu de ce projet Github

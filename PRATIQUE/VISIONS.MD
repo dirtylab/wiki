@@ -10,12 +10,12 @@ Avant ou pendant la rédaction d'une [**vision d'ensemble (VE)**](#I)  ou [**vis
 Sommaire
 --------
 
-- I. [Visions d'ensemble (VE)](#I)
-  - I.1. [Critères de soumission d'une VE](#I.1)
-  - I.2. [Liste des VE](#I.2)
-- II. [Visions partielles (VP)](#II)
-  - II.1. [Critères de soumission d'une VP](#II.1)
-  - II.2. [Liste des VP](#II.2)
+- [I. Visions d'ensemble (VE)](#I)
+  - [I.1. Critères de soumission d'une VE](#I.1)
+  - [I.2. Liste des VE](#I.2)
+- [II. Visions partielles (VP)](#II)
+  - [II.1. Critères de soumission d'une VP](#II.1)
+  - [II.2. Liste des VP](#II.2)
 
 
 <a name="I"></a>
@@ -24,8 +24,8 @@ I. Visions d'ensemble (VE)
 
 **Forum :**
 
-- [**meta-topic - Visions d'ensemble**](https://github.com/sveinburne/lets-play-science/issues/41)  
-- [`label:vision d'ensemble`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22vision+d%27ensemble%22) pour organiser la discussion autour d'une [**vision d'ensemble**](#I)
+- [**meta-topic - Visions d'ensemble**](https://github.com/dirtylab/wiki/issues/12)  
+- [`label:vision d'ensemble`](https://github.com/dirtylab/wiki/issues?q=label%3A%22vision+d%27ensemble%22) pour organiser la discussion autour d'une [**vision d'ensemble**](#I)
 
 *Une vision d'ensemble, VE, est un ensemble de propositions qui offre une solution applicative cohérente.*
 
@@ -59,17 +59,17 @@ Remarques importantes :
 
 |N°   |Titre |Auteur |     |
 |:---:|:-----|:------|:----:|
-|1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|Frosty-Z|[discussion](https://github.com/sveinburne/lets-play-science/issues/75)|
-|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/sveinburne/lets-play-science/issues/76) + [topic complémentaire](https://github.com/sveinburne/lets-play-science/issues/48)|
-|3|*sans titre* (ébauche dans une issue)|akka-vodol|[discussion](https://github.com/sveinburne/lets-play-science/issues/36)|
+|1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|Frosty-Z|[discussion](https://github.com/dirtylab/wiki/issues/8)|
+|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/dirtylab/wiki/issues/7) + [topic original](https://github.com/sveinburne/lets-play-science/issues/48)|
+|3|*sans titre* (ébauche dans une issue)|akka-vodol|[discussion](https://github.com/dirtylab/wiki/issues/17)|
 
 <a name="II"></a>
 II. Visions partielles (VP)
 ---------------------------
 
 **Forum :**
-- [**meta-topic - Visions partielles**](https://github.com/sveinburne/lets-play-science/issues/77)
-- [`label:vision partielle`](https://github.com/sveinburne/lets-play-science/issues?q=label%3A%22vision+partielle%22) pour organiser la discussion autour d'une [**vision partielle**](#II)
+- [**meta-topic - Visions partielles**](https://github.com/dirtylab/wiki/issues/6)
+- [`label:vision partielle`](https://github.com/dirtylab/wiki/issues?q=label%3A%22vision+partielle%22) pour organiser la discussion autour d'une [**vision partielle**](#II)
 
 Une **vision partielle** est une proposition d'une ou plusieurs fonctionnalités, sans forcément chercher à couvrir tous les besoins d'une plateforme idéale et ses différents espaces (forum, t'chat, etc.), contrairement à la **vision d'ensemble**.
 
@@ -89,4 +89,4 @@ Une fois acceptée, l'auteur de la **pull request** doit créer une issue portan
 
 |N°   |Titre |Auteur|     |
 |:---:|:-----|:-----|:----:|
-|1|[Fonctionnalités pour forum (propositions YouTube)](VP/VP-forum-propositions-Youtube.MD)|*multiples*|[discussion](https://github.com/sveinburne/lets-play-science/issues/78)|
+|1|[Fonctionnalités pour forum (propositions YouTube)](VP/VP-forum-propositions-Youtube.MD)|*multiples*|[discussion](https://github.com/dirtylab/wiki/issues/5)|

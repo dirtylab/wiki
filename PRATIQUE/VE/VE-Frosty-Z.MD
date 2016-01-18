@@ -39,7 +39,7 @@ Roadmap
 
 Note : je ne donne ici aucune indication de délai / milestone, puisque cela dépend énormément du nombre et de l'implication des bonnes volontés qui contribueront au "défi" !
 
-1. Commencer par s'approprier des outils existants (commentaires Youtube, [GitHub](https://github.com/) + [Gitter](https://gitter.im/sveinburne/lets-play-science) inclus, puisqu'ils servent déjà d'espace de discussion, de rédaction, de t'chat pour quelques-uns)
+1. Commencer par s'approprier des outils existants (commentaires Youtube, [GitHub](https://github.com/) + [Gitter](https://gitter.im/dirtylab/wiki) inclus, puisqu'ils servent déjà d'espace de discussion, de rédaction, de t'chat pour quelques-uns)
 
 2. Aller vers des plateformes plus adaptées (notamment plus *accessibles*), comme [Discourse](http://www.discourse.org/) ou [Vanilla Open Source](http://vanillaforums.org/discussions) pour l'espace de discussion, un [StackOverflow](http://stackoverflow.com/)-like pour l'espace Q&A...
 
@@ -156,7 +156,7 @@ Modération "à posteriori" assez classique :
 III. Espace de t'chat
 -
 
-Pour le moment [Gitter](https://gitter.im/sveinburne/lets-play-science) s'en sort très bien (EDIT 11/1/2016 depuis quelques jours nous sommes passés sur [Slack](https://dirtylab.slack.com), aidés par [@gaelfoppolo](https://github.com/gaelfoppolo)).
+Pour le moment [Gitter](https://gitter.im/dirtylab/wiki) s'en sort très bien (EDIT 11/1/2016 depuis quelques jours nous sommes passés sur [Slack](https://dirtylab.slack.com), aidés par [@gaelfoppolo](https://github.com/gaelfoppolo)).
 
 A voir dans le temps s'il sera nécessaire de séparer les **discussions sur les défis** des **discussions sur l'évolution de la plateforme LetsPlayScience**. Sur Slack, cela peut se faire à l'aide de *channels* distincts.
 

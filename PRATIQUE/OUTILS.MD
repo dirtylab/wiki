@@ -5,9 +5,10 @@ Comparatif des outils existants
 
 **Forum**
 
-- [**méta-topic**](https://github.com/sveinburne/lets-play-science/issues/42)
-- [**labels**](https://github.com/sveinburne/lets-play-science/issues/39) :
-    - [`label:outils`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Aoutils+)
+- [**méta-topic**](https://github.com/dirtylab/wiki/issues/11)
+- [**labels**](https://github.com/dirtylab/wiki/issues/14) :
+    - [`label:outils`](https://github.com/dirtylab/wiki/issues?utf8=%E2%9C%93&q=label%3Aoutils+)
+
 
 **Attention : uniquement des outils ou services en ligne gratuits.**
 
@@ -19,7 +20,7 @@ I. Espace de discussion
 | [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | ?| ?| ?| ?|
 | [Muut](https://muut.com)                       | :white_check_mark: | | ?| ?| ?| ?|
 | [Discourse](http://www.discourse.org)                       | [payant](https://meta.discourse.org/t/free-hosted-option/9621) | | | :white_check_mark: |  | "like" simple |
-| [GitHub](http://github.com/) ([issues](https://github.com/sveinburne/lets-play-science/issues))                     | :white_check_mark: | | | :white_check_mark: |  | "+1" ZenHub |
+| [GitHub](http://github.com/) ([issues](https://github.com/dirtylab/wiki/issues))                     | :white_check_mark: | | | :white_check_mark: |  | "+1" ZenHub |
 | [Vanilla Open Source](http://vanillaforums.org/)  | | | | :white_check_mark: |  | :white_check_mark: |
 | [Reddit](http://reddit.com/)  | :white_check_mark: | |  | :white_check_mark: | :white_check_mark: |  |
 A parcourir en détail pour remplir le tableau ci dessus :
@@ -56,5 +57,5 @@ IV. Espace de t'chat
 
 | Outil  |  Service en ligne   | Commentaires |
 |--------|:--------------------:|:-----------|
-| Gitter | :white_check_mark: |  |
-| [Slack](https://slack.com/) | :white_check_mark:  | *actuellement utilisé* |
+| Gitter | :white_check_mark: | [*Anciennement utilisé*]() |
+| [Slack](https://slack.com/) | :white_check_mark:  | [*actuellement utilisé*](https://dirtylab.slack.com) |
