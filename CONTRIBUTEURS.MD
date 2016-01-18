@@ -2,8 +2,8 @@
 
 **Forum**
 
-- [**MEMBRES OBSERVATEURS**](https://github.com/sveinburne/lets-play-science/issues/37)
-- [**MEMBRES MODERATEURS**](https://github.com/sveinburne/lets-play-science/issues/1)
+- [**MEMBRES OBSERVATEURS**](https://github.com/dirtylab/wiki/issues/16)
+- [**MEMBRES MODERATEURS**](https://github.com/dirtylab/wiki/issues/19)
 
 ## Observateurs
 

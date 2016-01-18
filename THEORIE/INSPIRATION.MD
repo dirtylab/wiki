@@ -2,20 +2,20 @@
 
 **Forum :**  
 
-- [**META-TOPIC**](https://github.com/sveinburne/lets-play-science/issues/38)  
-- [**PROPOSITIONS DE RECHERCHES**](https://github.com/sveinburne/lets-play-science/issues/32)
-- [**LABELS**](https://github.com/sveinburne/lets-play-science/issues/39):
-  - [`label:recherche`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Arecherche) au sujet de rapports de recherche (article, livre universitaire, documentaire)
-  - [`label:inspiration`](https://github.com/sveinburne/lets-play-science/issues?utf8=%E2%9C%93&q=label%3Ainspiration+) au sujet d'un retour sur un projet original ( application, laboratoire expérimental, pédagogie appliquée... )
+- [**META-TOPIC**](https://github.com/dirtylab/wiki/issues/15)  
+- [**PROPOSITIONS DE RECHERCHES**](https://github.com/dirtylab/wiki/issues/18)
+- [**LABELS**](https://github.com/dirtylab/wiki/issues/14):
+  - [`label:recherche`](https://github.com/dirtylab/wiki/issues?utf8=%E2%9C%93&q=label%3Arecherche) au sujet de rapports de recherche (article, livre universitaire, documentaire)
+  - [`label:inspiration`](https://github.com/dirtylab/wiki/issues?utf8=%E2%9C%93&q=label%3Ainspiration+) au sujet d'un retour sur un projet original ( application, laboratoire expérimental, pédagogie appliquée... )
 
 **Participer :**
 
   - Si vous souhaitez proposer un **nouveau** concept ou un rapport de lecture, [ouvrez une
- issue](https://github.com/sveinburne/lets-play-science/issues/new). Si vous n'êtes pas sur de vous, [venez intervenir dans cette issue](https://github.com/sveinburne/lets-play-science/issues/32).
+ issue](https://github.com/dirtylab/wiki/issues/new). Si vous n'êtes pas sur de vous, [venez intervenir dans cette issue](https://github.com/dirtylab/wiki/issues/18).
   - Si vous souhaitez discuter d'un sujet existant dans ce document
     - vérifiez qu'aucune issue sur le sujet n'existe
-    - dans ce cas, [ouvrez une nouvelle issue](https://github.com/sveinburne/lets-play-science/issues/new) portant le nom du sujet
-  - Si vous souhaitez discuter de l'organisation de ce document, [rendez-vous sur cette issue](https://github.com/sveinburne/lets-play-science/issues/38)
+    - dans ce cas, [ouvrez une nouvelle issue](https://github.com/dirtylab/wiki/issues/new) portant le nom du sujet
+  - Si vous souhaitez discuter de l'organisation de ce document, [rendez-vous sur cette issue](https://github.com/dirtylab/wiki/issues/15)
 
 **Ressources à creuser en vrac :**
 
