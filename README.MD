@@ -1,5 +1,7 @@
 <a name="hi"></a>
-# LetsPlayScience #3 - À la recherche de la sagesse des foules
+# DirtyLab - À la recherche de la sagesse des foules
+
+## La genèse : LetsPlayScience #3
 
 > ***Comment collaborer à 5000 cerveaux sur la même question ?***
 
