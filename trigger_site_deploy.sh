@@ -2,14 +2,22 @@
 
 # script permettant de déclencher un build+deploy du site DirtyLab chaque fois qu'un commit est effectué sur ce dépôt sveinburne/lets-play-science
 
-DEST_REPO="https://$GH_USER:$GH_TOKEN@$GH_REF"
-DEST_DIR="dirtylab.github.io"
+token='iRC3sIcdj7XNrHD3op9OjQ'
 
-git clone $DEST_REPO
+target_repo='dirtylab/site-scripts'
 
-cd $DEST_DIR
+target_repo=${target_repo/\//%2F}
 
-# aucun changement mais suffit à déclencher un build Travis
-git push --force --quiet origin master > /dev/null 2>&1
-#pour debug
-#git push origin master
+body = '{
+"request": {
+  "message": "build trigger from dirtylab/wiki",
+  "branch":"master",
+}'
+
+curl -s -X POST \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json" \
+  -H "Travis-API-Version: 3" \
+  -H "Authorization: token $token" \
+  -d "$body" \
+  https://api.travis-ci.org/repo/$target_repo/requests
