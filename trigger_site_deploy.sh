@@ -11,8 +11,8 @@ target_repo=${target_repo/\//%2F}
 body='{
 "request": {
   "message": "build trigger from dirtylab/wiki",
-  "branch":"master",
-}'
+  "branch":"master"
+}}'
 
 curl -s -X POST \
   -H "Content-Type: application/json" \
