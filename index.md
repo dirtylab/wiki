@@ -5,8 +5,13 @@ La communauté **DirtyLab** organise une réflexion sur le thème de la **collab
 suite au défi lancé par le youtubeur [**DirtyBiology**](https://www.youtube.com/user/dirtybiology)
 dans sa vidéo [**LetsPlayScience #3**](https://www.youtube.com/watch?v=noADnHKyRmc?start=1326).   :
 
-<iframe width="560" height="315" style="display:block;margin:0 auto;" src="https://www.youtube.com/embed/noADnHKyRmc?start=1326" frameborder="0" allowfullscreen></iframe>
-
+<div class="embed-container">
+<iframe 
+    frameborder="0" 
+    src="https://www.youtube.com/embed/noADnHKyRmc?start=1326" 
+    allowfullscreen>
+</iframe>
+</div>
 Nous constituons un groupe ouvert, distinct de la communauté de **LetsPlayScience**, avec laquelle nous souhaitons collaborer.
 
 Ce site a pour objectif de vous présenter l'**état actuel de cette réflexion**.
