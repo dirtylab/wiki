@@ -6,14 +6,16 @@ Recensement des solutions d'hébergement
 |          | prix | capacités | pour site statique | pour PoC | pour outils existants / plateforme souveraine |
 |----------|------|-----------|--------------------|----------|-----------------------------------------------|
 |[alwaysdata](https://www.alwaysdata.com/)|gratuit| 10 Mo disque, 64 Mo RAM | Ok sauf NDDomaine | Ok (faible trafic, selon technos utilisées) | |
-|[Digital Ocean](https://www.digitalocean.com)| 10 $ / mois | 30 Go SSD, 1 Go RAM | Ok sauf NDDomaine | Ok | Ok (ex. [Discourse](http://www.discourse.org/)), à voir selon perf/trafic |
 |GitHub pages| gratuit | illimité | Ok (sous domaine github.io) |  |  |
 |[000webhost](https://www.000webhost.com)| gratuit | 1,5 Go disque, 100 Go données/mois | ? | ? | ? |
+|[OpenShift](https://www.openshift.com/)| gratuit |  |  | Ok (Node.js notamment) |  |
 
-Autres possibilités payantes à creuser :
+Possibilités payantes à creuser, si un jour nos moyens le permettent :
 
-* [Google Cloud Platform](https://cloud.google.com/)
 * [Amazon Web Services](https://aws.amazon.com)
+* [Digital Ocean](https://www.digitalocean.com)
+* [Google Cloud Platform](https://cloud.google.com/)
+* [OpenShift](https://www.openshift.com/)
 * [OVH](https://www.ovh.com/fr/)
 * ...
 
@@ -21,5 +23,5 @@ Autres possibilités payantes à creuser :
 
 Compter 10-20 EUR/an/domaine, voir par exemple :
 
-* [OVH](https://www.ovh.com/fr/domaines/)
 * [Gandi.net](http://www.gandi.net/domaine)
+* [OVH](https://www.ovh.com/fr/domaines/)
