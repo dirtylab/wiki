@@ -24,37 +24,29 @@
 
 ## Sommaire
 
-I. [L'étude de la collaboration et de l'élaboration du savoir](#I)  
-
-  1. [Sciences de la Vie et de l'Homme](#I.1)
-
-    a. [Sociologie](#I.1.a)  
-    b. [Psychologie](#I.1.b)  
-    c. [Psychologie Sociale](#I.1.c)  
-    d. [Linguistique](#I.1.d)  
-    e. [Intelligence Animale](#I.1.e)  
-    f. [Intelligence Collective](#I.1.f)  
-
-  2. [Sciences de l'Information et de la Communication](#I.2)
-
-    a. [Simulations multi-agent](#I.2.a)  
-    b. [Programmation parallèle](#I.2.b)  
-
-  3. [Approches Transdisciplinaires](#I.3)
-
-    a. [Le Connectivisme](#I.3.a)  
-    b. [Les Ontologies](#I.3.b)  
-    c. [La Cybernétique](#I.3.c)  
-
-II. [La pratique de la collaboration et de l'élaboration du savoir](#II)  
-
-  1. [Le web sémantique](#II.1)
-  2. [Les CLOMS/MOOCS](#II.2)
-  3. [Réseaux d'Echange Réciproque de Savoirs](#II.3)
-  4. [FabLabs](#II.4)
-  5. [Gestion des Ressources Humaines](#II.5)
-  6. [Le Management de la Pédagogie](#II.6)
-  7. [Les Méthodes Agiles](#II.7)
+* [I. L'étude de la collaboration et de l'élaboration du savoir](#I)
+  * [1. Sciences de la Vie et de l'Homme](#I.1)
+    * [a. Sociologie](#I.1.a)
+    * [b. Psychologie](#I.1.b)
+    * [c. Psychologie Sociale](#I.1.c)
+    * [d. Linguistique](#I.1.d)
+    * [e. Intelligence Animale](#I.1.e)
+    * [f. Intelligence Collective](#I.1.f)
+  * [2. Sciences de l'Information et de la Communication](#I.2)
+    * [a. Simulations multi-agent](#I.2.a)
+    * [b. Programmation parallèle](#I.2.b)
+  * [3. Approches Transdisciplinaires](#I.3)
+    * [a. Le Connectivisme](#I.3.a)
+    * [b. Les Ontologies](#I.3.b)
+    * [c. La Cybernétique](#I.3.c)
+* [II. La pratique de la collaboration et de l'élaboration du savoir](#II)
+  * [1. Le web sémantique](#II.1)
+  * [2. Les CLOMS/MOOCS](#II.2)
+  * [3. Réseaux d'Echange Réciproque de Savoirs](#II.3)
+  * [4. FabLabs](#II.4)
+  * [5. Gestion des Ressources Humaines](#II.5)
+  * [6. Le Management de la Pédagogie](#II.6)
+  * [7. Les Méthodes Agiles](#II.7)
 
 <a name="I"></a>
 ## I. L'étude de la collaboration et de l'élaboration du savoir
