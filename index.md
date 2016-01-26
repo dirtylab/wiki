@@ -3,7 +3,7 @@
 
 La communauté **DirtyLab** organise une réflexion sur le thème de la **collaboration de masse sur Internet**,
 suite au défi lancé par le youtubeur [**DirtyBiology**](https://www.youtube.com/user/dirtybiology)
-dans sa vidéo [**LetsPlayScience #3**](https://www.youtube.com/watch?v=noADnHKyRmc?start=1326).   :
+dans sa vidéo [**LetsPlayScience #3**](https://www.youtube.com/watch?v=noADnHKyRmc?start=1326).   : 
 
 <div class="embed-container">
 <iframe 
