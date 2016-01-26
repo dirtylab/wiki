@@ -85,5 +85,3 @@ Dans une moindre mesure, l'idée de faire collaborer les internautes directement
 ### 4. Espace de tchat (5%)
 
 Propositions de participants qui utilisent régulièrement IRC ou Twitch.
-
-test?
