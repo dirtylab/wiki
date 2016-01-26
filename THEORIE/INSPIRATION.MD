@@ -22,8 +22,7 @@
 - Le site du MOOC [sur les ressources éducatives libres](rel2014.mooc.ca/)
 - La [synthèse du MOOC ITYPA](https://docs.google.com/document/d/16bkqQ0MT2zF7PaepadjC4-UvNSluQXCRrVf82Kj_QZU/mobilebasic#)
 
-Sommaire
----------------------------------------------------
+## Sommaire
 
 I. [L'étude de la collaboration et de l'élaboration du savoir](#I)  
 
