@@ -69,6 +69,14 @@
 <a name="I.1.f"></a>
 ##### f. [Intelligence Collective](https://fr.wikipedia.org/wiki/Intelligence_collective)
 
+Le site web [ArsIndustrialis](http://arsindustrialis.org/) semble une excellente source de réfléxion sur le sujet. 
+
+> **[Extrait de la page de présentation](http://www.arsindustrialis.org/qui-sommes-nous)**
+> 
+*En contribuant à l’émergence d’une intelligence collective, entre nous cinq, qui sommes à l’initiative de l’association ARS INDUSTRIALIS, mais aussi bien sûr entre nous et ceux que notre projet intéressera, et en recherchant les possibilités de débattre avec toutes les compétences possibles, toutes les disciplines, et toutes les dimensions de la société, et toutes les nationalités, dont celles d’Europe en particulier, nous souhaitons devenir une force de proposition, et non seulement de réflexion.*
+>
+*Nous sommes convaincus que la pensée aussi bien que la vie de l’esprit en général – la science, les arts, la musique, la littérature, la philosophie, et en fin de compte tout ce qui relève de ce que l’on appelle du mot très usé de « culture » - consiste d’abord à combattre. Combattre la bêtise, et d’abord sa propre bêtise, ou sa propre inculture. Combattre aussi les forces de régression qui encouragent la tendance bête inhérente à chacun d’entre nous.*
+
 <a name="I.2"></a>
 #### 2. Sciences de l'Information et de la Communication
 <a name="I.2.a"></a>
