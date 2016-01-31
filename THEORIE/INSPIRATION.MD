@@ -41,12 +41,15 @@
     * [c. La Cybernétique](#I.3.c)
 * [II. La pratique de la collaboration et de l'élaboration du savoir](#II)
   * [1. Le web sémantique](#II.1)
-  * [2. Les CLOMS/MOOCS](#II.2)
+  * [2. La pédagogie en Ligne](#II.2)
+  	* [a. Les CLOMS/MOOCS](#II.2.a)
+    * [b. Des plateformes originales](#II.2.b)
   * [3. Réseaux d'Echange Réciproque de Savoirs](#II.3)
   * [4. FabLabs](#II.4)
   * [5. Gestion des Ressources Humaines](#II.5)
   * [6. Le Management de la Pédagogie](#II.6)
   * [7. Les Méthodes Agiles](#II.7)
+  * [8. La pédagogie en Ligne](#II.8)
 
 <a name="I"></a>
 ## I. L'étude de la collaboration et de l'élaboration du savoir
@@ -101,8 +104,20 @@ connaissances déjà présentes sur Internet
 
 
 <a name="II.2"></a>
-### 2. [Les CLOMS/MOOCS](https://fr.wikipedia.org/wiki/Formation_en_ligne_ouverte_%C3%A0_tous)
-Formations en ligne ouvertes à tous, certaines formations pouvant rassembler jusqu'à 100 000 personnes.
+### 2. La pédagogie en Ligne
+*La pédagogie en ligne, au délà
+
+<a name="II.2.a"></a>
+#### a. [Les CLOMS/MOOCS](https://fr.wikipedia.org/wiki/Formation_en_ligne_ouverte_%C3%A0_tous)
+Formations en ligne ouvertes à tous, certaines formations pouvant rassembler jusqu'à 
+100 000 personnes.
+
+<a name="II.2.b"></a>
+#### b. Des plateformes originales
+
+- [Sydologie](http://sydologie.com/) Portail sur la pédagogie en ligne, plein de ressources innovantes y sont référencées
+- [Pédagogie active](http://www.pedagogieactive.com/) Mouvement pour rénover l'enseignement, de bonnes idées à puiser je pense
+- [Outil de génération de pages web interactives](https://www.genial.ly/) Je l'ai testé superficiellement mais ça m'avait l'air très prometteur ; découvert via **Sydologie**.
 
 <a name="II.3"></a>
 ### 3. [Réseaux d'Echange Réciproque de Savoirs](https://fr.wikipedia.org/wiki/R%C3%A9seau_d'%C3%A9changes_r%C3%A9ciproques_de_savoirs)
@@ -118,3 +133,5 @@ Formations en ligne ouvertes à tous, certaines formations pouvant rassembler ju
 <a name="II.7"></a>
 ### 7. [**Les Méthodes Agiles**](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
 > Les méthodes agiles sont une évolution du management allant vers plus d'horizontalité et moins de hierarchie. Elles sont très populaires dans le développement informatique.
+
+
