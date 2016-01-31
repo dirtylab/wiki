@@ -64,6 +64,9 @@
 ##### c. [Psychologie sociale](https://fr.wikipedia.org/wiki/Psychologie_sociale)
 <a name="I.1.d"></a>
 ##### d. [Linguistique](https://fr.wikipedia.org/wiki/Linguistique)
+
+[WordNet](https://wordnet.princeton.edu/) est une base de données lexicale en anglais, s'appuyant sur une solide analyse du langage. 
+
 <a name="I.1.e"></a>
 ##### e. [Intelligence Animale](https://fr.wikipedia.org/wiki/Intelligence_animale)
 <a name="I.1.f"></a>
