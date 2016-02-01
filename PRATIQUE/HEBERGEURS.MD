@@ -20,6 +20,8 @@ Possibilités payantes à creuser, si un jour nos moyens le permettent :
 * [OVH](https://www.ovh.com/fr/)
 * ...
 
+Comparateur [cloudlook.com](http://www.cloudlook.com/)
+
 ## Noms de domaine
 
 Compter 10-20 EUR/an/domaine, voir par exemple :
