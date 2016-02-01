@@ -25,5 +25,5 @@ Pistes
 
 ## Comparaison entre la plateforme idéale et l'existant
 
-* [D1 - Quelle seraient les différences fondamentales entre cette application idéale et des outils Q&A de type StackExchange?](PISTED/D1.MD)
-* [D2 - Qu'est-ce qui distinguerait cette application idéale d'un wiki?](PISTED/D2.MD)
+* [D1 - Quelle seraient les différences fondamentales entre cette application idéale et des outils Q&A de type StackExchange?](PISTES/D1.MD)
+* [D2 - Qu'est-ce qui distinguerait cette application idéale d'un wiki?](PISTES/D2.MD)
