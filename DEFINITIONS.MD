@@ -15,6 +15,7 @@ Sommaire
   - [c Qualité](#1.c)
   - [d Référence](#1.d)
   - [e Cycle de vie](#1.e)
+  - [f Plateforme idéale](#1.f)
 
 2. [Créations](#2)
   - [a Post Simple](#2.a)
@@ -89,12 +90,29 @@ La qualité, c'est dans le contexte d'un défi, notre capacité à
 - Eviter autant que possible **l'écueil du nombrilisme**, qui consiste à ne pas regarder les interventions des autres participants (parfois pour plein de raisons légitimes)
 - **Sourcer** un maximum les faits et théories que nous avançons avec des *références*.
 
-#### d. Référence
 <a name="1.d"></a>
+#### d. Référence
 C'est une source littéraire ou culturelle, logiquement associée à un post.
+
 <a name="1.e"></a>
 #### e. Cycle de vie
 C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *défi* posé par Léo. Cette définition est au coeur des différentes approches possibles, les [visions d'ensemble](#II)
+
+<a name="1.f"></a>
+#### f. Plateforme idéale
+
+Ensemble d'espaces :
+
+* discussion (instantanée ou non)
+* rédaction collaborative
+* questions/réponses
+* etc.
+
+...permettant de disposer de l'ensemble des fonctionnalités idéales pour de la réflexion de masse en ligne.
+
+Ces espaces sont associés et peuvent s'échanger des données entre eux (notifications de nouveau contenu, comptes utilisateurs...).
+
+Voir les [spécifications détaillées](PRATIQUE/SPECIFICATIONS.MD).
 
 <a name="2"></a>
 ### 2. Créations

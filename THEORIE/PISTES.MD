@@ -23,7 +23,8 @@ Pistes
 * [C3 - Comment les membres participant à une collaboration reçoivent les nouvelles idées et propositions?](PISTES/C3.MD)
 * [C4 - Comment les membres peuvent-ils **modifier** leur comportement pour améliorer la collaboration?](PISTES/C4.MD)
 
-## Comparaison entre la plateforme idéale et l'existant
+## Comparaison entre les *espaces de la [plateforme idéale](DEFINITIONS.MD#1.f)* et l'*offre applicative existante*
 
-* [D1 - Quelle seraient les différences fondamentales entre cette application idéale et des outils Q&A de type StackExchange?](PISTES/D1.MD)
-* [D2 - Qu'est-ce qui distinguerait cette application idéale d'un wiki?](PISTES/D2.MD)
+* [D1 - Quelles seraient les différences fondamentales entre **un outil de type StackExchange** et **notre espace Q&A idéal** ?](PISTES/D1.MD)
+* [D2 - Qu'est-ce qui distinguerait **un wiki** de **notre espace de rédaction collaborative idéal** ?](PISTES/D2.MD)
+
