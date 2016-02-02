@@ -21,7 +21,7 @@ Sommaire
   - [a Post Simple](#2.a)
   - [b Post Versionné](#2.b)
   - [c Commentaire](#2.c)
-  - [d Document](#2.d)id
+  - [d Document](#2.d)
   - [e Connaissance](#2.e)
   - [f Proposition](#2.f)
 
