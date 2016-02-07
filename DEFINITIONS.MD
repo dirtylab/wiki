@@ -101,8 +101,9 @@ C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *
 <a name="1.f"></a>
 #### f. Plateforme / Application idéale
 
-C'est une application, pour le moment abstraite, qui réunira un ensemble de fonctionnalités adressant différents besoins et eccueils de la collaboration en ligne. 
-Ses [spécifications](PRATIQUE/SPECIFICATIONS.MD) vont s'élaborer progressivement, à mesure que la communauté adopte des fonctionnalités. A terme, elle sera **la fusion** de **plusieurs visions partielles**, vidions d'**ensemble** et **preuves de concept** si un consensus est trouvé. L'exploration de [pistes](THEORIE/PISTES.MD) devra aussi nous aider à éclairer nos choix de fonctionnalités.
+C'est une application, pour le moment abstraite, qui réunira un ensemble de fonctionnalités adressant différents besoins et écueils de la collaboration en ligne. 
+
+Ses [spécifications](PRATIQUE/SPECIFICATIONS.MD) vont s'élaborer progressivement, à mesure que la communauté adopte des fonctionnalités. A terme, elle sera **la fusion** de **plusieurs visions partielles**, **visions d'ensemble** et **preuves de concept** si un consensus est trouvé. L'exploration de [pistes](THEORIE/PISTES.MD) devra aussi nous aider à éclairer nos choix de fonctionnalités.
 
 <a name="2"></a>
 ### 2. Créations
