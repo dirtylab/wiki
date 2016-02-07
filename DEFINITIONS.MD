@@ -15,7 +15,7 @@ Sommaire
   - [c Qualité](#1.c)
   - [d Référence](#1.d)
   - [e Cycle de vie](#1.e)
-  - [f Plateforme idéale](#1.f)
+  - [f Plateforme / Application idéale](#1.f)
 
 2. [Créations](#2)
   - [a Post Simple](#2.a)
@@ -99,20 +99,10 @@ C'est une source littéraire ou culturelle, logiquement associée à un post.
 C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *défi* posé par Léo. Cette définition est au coeur des différentes approches possibles, les [visions d'ensemble](#II)
 
 <a name="1.f"></a>
-#### f. Plateforme idéale
+#### f. Plateforme / Application idéale
 
-Ensemble d'espaces :
-
-* discussion (instantanée ou non)
-* rédaction collaborative
-* questions/réponses
-* etc.
-
-...permettant de disposer de l'ensemble des fonctionnalités idéales pour de la réflexion de masse en ligne.
-
-Ces espaces sont associés et peuvent s'échanger des données entre eux (notifications de nouveau contenu, comptes utilisateurs...).
-
-Voir les [spécifications détaillées](PRATIQUE/SPECIFICATIONS.MD).
+C'est une application, pour le moment abstraite, qui réunira un ensemble de fonctionnalités adressant différents besoins et eccueils de la collaboration en ligne. 
+Ses [spécifications](PRATIQUE/SPECIFICATIONS.MD) vont s'élaborer progressivement, à mesure que la communauté adopte des fonctionnalités. A terme, elle sera **la fusion** de **plusieurs visions partielles**, vidions d'**ensemble** et **preuves de concept** si un consensus est trouvé. L'exploration de [pistes](THEORIE/PISTES.MD) devra aussi nous aider à éclairer nos choix de fonctionnalités.
 
 <a name="2"></a>
 ### 2. Créations
