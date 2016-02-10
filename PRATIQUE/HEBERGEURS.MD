@@ -10,6 +10,7 @@ Recensement des solutions d'hébergement
 |[000webhost](https://www.000webhost.com)| gratuit | 1,5 Go disque, 100 Go données/mois | ? | ? | ? |
 |[OpenShift](https://www.openshift.com/)| gratuit |  |  | Ok (Node.js notamment) |  |
 |[Pages perso free.fr](http://pagesperso.free.fr/)| gratuit | PHP 5.6, MySQL, PostgreSQL seulement | Ok | Ok | Ok |
+|[Hostinger](http://www.hostinger.fr/)|gratuit|2 Go, PHP, MySQL| ? | ? | ? |
 
 Possibilités payantes à creuser, si un jour nos moyens le permettent :
 
