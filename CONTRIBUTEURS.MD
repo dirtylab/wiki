@@ -13,6 +13,7 @@
 |--------------|--------------------|------------|
 |[aurelBZH](https://github.com/aurelBZH) | traitement de données génomique | bioinformatique |
 |[JulienPayot](https://github.com/JulienPayot) | dev casu, jeux vidéo | recetteur logiciel |
+|[akka-vodol](https://github.com/akka-vodol) | mathématiques, science, algorithmique | étudiant en maths/physiques |
 
 ## Développeurs et graphistes
 
