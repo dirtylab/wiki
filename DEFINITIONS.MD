@@ -16,7 +16,10 @@ Sommaire
   - [d Référence](#1.d)
   - [e Cycle de vie](#1.e)
   - [f Plateforme / Application idéale](#1.f)
-
+  - [g Vision partielle](#1.g)
+  - [h Vision d'ensemble](#1.h)
+  - [i Preuves de concept / PdC / PoC](#1.i)
+  
 2. [Créations](#2)
   - [a Post Simple](#2.a)
   - [b Post Versionné](#2.b)
@@ -103,7 +106,19 @@ C'est l'ensemble des étapes aboutissant à la réponse de la *communauté* au *
 
 C'est une application, pour le moment abstraite, qui réunira un ensemble de fonctionnalités adressant différents besoins et écueils de la collaboration en ligne. 
 
-Ses [spécifications](PRATIQUE/SPECIFICATIONS.MD) vont s'élaborer progressivement, à mesure que la communauté adopte des fonctionnalités. A terme, elle sera **la fusion** de **plusieurs visions partielles**, **visions d'ensemble** et **preuves de concept** si un consensus est trouvé. L'exploration de [pistes](THEORIE/PISTES.MD) devra aussi nous aider à éclairer nos choix de fonctionnalités.
+Ses [spécifications](PRATIQUE/SPECIFICATIONS.MD) vont s'élaborer progressivement, à mesure que la communauté adopte des fonctionnalités. A terme, elle sera **la fusion** de plusieurs [**visions partielles**](#1.g), [**visions d'ensemble**](#1.h) et [**preuves de concept**](#1.i) si un consensus est trouvé. L'exploration de [pistes](THEORIE/PISTES.MD) devra aussi nous aider à éclairer nos choix de fonctionnalités.
+
+<a name="1.g"></a>
+#### g. Vision partielle
+Une vision partielle est une proposition d'une ou plusieurs fonctionnalités, sans forcément chercher à couvrir tous les besoins d'une plateforme idéale et ses différents espaces (forum, t'chat, etc.), contrairement à la *vision d'ensemble*.
+
+<a name="1.g"></a>
+#### g. Vision d'ensemble
+Une vision d'ensemble, VE, est un ensemble de propositions qui offre une solution applicative cohérente.
+
+<a name="1.i"></a>
+#### i. Preuves de concept / PdC / PoC
+Ce sont des réalisations / applications développées pour être utilisées par la communauté *DirtyLab* afin de tester des fonctionnalités qui ont été proposées. 
 
 <a name="2"></a>
 ### 2. Créations
