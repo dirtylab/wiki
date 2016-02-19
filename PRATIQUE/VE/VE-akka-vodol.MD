@@ -64,12 +64,70 @@ Les utilisateurs pourront mettre des tags à leurs posts, les classant dans des 
 *complément/précision
 
 <a name="II.3"></a>
-### II.3. Texte versionné
+### II.3. Réponses et commentaires
 
-Chaque noeud possèderait un texte versionné qui serait un résumé de ce qui est dit dans le noeud. La gestion dudit texte reste à determiner.
+Les internautes peuvent poster des commentaires sur un post. Un commentaire n'est pas un post, et n'a pas les fonctionnalités d'un post.
+
+<a name="II.4"></a>
+### II.4. Texte versionné
+
+Chaque noeud possèderait un texte versionné qui serait un résumé de l'objectif du noeud, et de sa problématique. Le noeud pourrait également contenir un post versionné qui resumerai ce qui est dit dans le noeud. La gestion dudit texte reste à determiner.
 
 <a name="III"></a>
 III regroupement des commentaires.
 -
 
-Il faut déterminer comment regrouper les commentaires. Je suis encore en train de réflechir à ce sujet, et je complèterai cette section plus tard.
+Les branches de l'arbre sont créées automatiquement (sans besoin de moderateurs) par le regroupement de commentaires en branche. Il y a pour cela plusieurs opérations qui s'ffectuent aprés avoir été demandées par suffisament de personnes.
+
+<a name="III.1"></a>
+### III.1. Posts de branchement.
+
+Quand un utilisateur créé un post, il peut le signaler comme "branche potentielle" (et indiquer de quelle catégorie de branche il s'agit). Le posts marqués comme branche potentielle deviennent des sous-branches du noeud sur lequels ils se trouvent si ils ont suffisament de poid. Le poid s'aquiert de deux manière :
+
+*les internautes peuvent voter pour la création de la branche proposée, et augmenter ainsi le poid du post.
+*ils peuvent également voter contre, et diminuer son poid
+*les posts peuvent être reliés à la branche potentielle, ce qui augment son poid (voir III.2)
+*les réponses au posts augmentent pas le poid du poste, sauf si l'internaute qui répond à voté contre le branchement.
+
+Si la branche potentielle devient une branche, le post qui la suggère devient le post versionné qui résume la problématique de la branche. Les commentaires du post restent des commentaires.
+
+<a name="III.2"></a>
+### III.2. Lien de posts
+
+L'internaute qui créé un post peut le lier à une branche potentielle. Cela indique que le post fait partie de la sous-problématique proposée par la branche potentielle, et que si celle-ci devient une vraie branche le post doit en faire partie. Il ne s'agit pas d'un commentaire, mais bien d'un post à part entière. Un post peut être lié à plusieurs branches potentielles, et il part alors avec la première qui devient une branche.
+
+<a name="III.3"></a>
+### III.3. circulation de post
+
+Les posts peuvent être déplacés vers une branche qui leur correspond mieux. L'internaute qui à crée un post peut à tout moment le faire descendre vers une sous-branche.
+
+<a name="III.4"></a>
+### III.4. Déplacement de branches
+
+Une fois crées, les branches ne sont pas statiques. Elles peuvent être déplacées, fusionnées, ou encore changer de catégorie. Toutes ces opérations se font par vote. Les internautes votent pour des opérations, et les opérations suffisament votées sont acceptées. Des points sont en plus automatiquement associés aux opérations sensées, comme regrouper des branches avec peu de contenu, ou déplacer une branche avec beaucoup de contenu vers l'étage supérieur.
+
+<a name="III.5"></a>
+### III.5. Gestion communautaires des posts
+
+J'ai déja parlé de plusieurs opérations pouvant s'effectuer sur les posts, comme les lier, les passer en branche potentielle ou les descendre dans une sous-branche. Ces opérations peuvent être effectuées par l'internaute à l'originne du post, mais aussi par les autres. Les internautes peuvent suggerer une des modifications citées, et lorsque plusieurs internautes proposent la même modification, elle est adoptée. L'auteur du post ne peut pas l'annuler.
+
+Cette fonctionnalité est essentielle, surtout pour la gestion de la racinne. Beaucoup d'internautes posteront dans la racinne au début du projet, puis ne reviendrons plus. Il faut que leurs posts soient ensuite distribués dans les branches adéquates.
+
+<a name="IV"></a>
+IV Cycle de vie
+-
+
+<a name="IV.1"></a>
+### IV.1. idées et construction
+
+Au départ, l'arbre comporte uniquement une racinne. La première phase est celle pendant laquelle les internautes postent toutes leurs suggestions. De multiples branches sont crées, et les premiers fils de pensées se dessinent.
+
+<a name="IV.2"></a>
+### IV.2. organisation
+
+Aprés quelques jours, les internautes ont tous posté leurs premières suggestions, et l'arbre commence à s'organiser. Le déplacement de branche permet de mieux le structurer, et les internautes discutent et avancent dans leurs raisonnement.
+
+<a name="IV.3"></a>
+### IV.3. Travail plus avancé
+
+Aprés l'essentiel de la reflexion, les internautes peuvent encore fournir un travail plus avancé, par exemple de la recherche, des calculs, de la synthèse d'information, ou des illustrations. La question de la limite de ce que les internautes doivent apporter doit être posée, mais cette VE est compatible avec toutes les possibilités, et je ne donnerais pas plus de precisions dans ce domaine.
