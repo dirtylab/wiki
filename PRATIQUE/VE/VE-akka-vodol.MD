@@ -1,11 +1,11 @@
 Vision d'ensemble d'[akka-vodol](https://github.com/akka-vodol)
 ==
-Titre : arbre de reflexion
+Titre : arbre de réflexion
 -
 
 Principe
 -
-La réponse à la question s'organise en arbre. Tout le monde post ses idées et contributions sur un fil de commentaires de départ, appelé racinne. Ensuite, ces posts sont regroupés et organisés sous forme d'arbre. L'arbre représente les différents aspects de la réflexion, et permet de séparer les différentes pistes de réponse possibles.
+La réponse à la question s'organise en arbre. Tout le monde post ses idées et contributions sur un fil de commentaires de départ, appelé racine. Ensuite, ces posts sont regroupés et organisés sous forme d'arbre. L'arbre représente les différents aspects de la réflexion, et permet de séparer les différentes pistes de réponse possibles.
 
 <a name="I"></a>
 I Structure de l'arbre.
@@ -14,7 +14,7 @@ I Structure de l'arbre.
 <a name="I.1"></a>
 ### I.1. Branches et noeuds
 
-La racinne contient des commentaires sur tout ce qui est en lien au défi. A partir de la racinne partent des branches, qui peuvent correspondre à plusieur choses (voir I.2). Chaque branche mène à un noeud, qui est un fil de discussion sur le sujet de la branche. De chaque noeud peut partir plusieurs sous-branches, qui correspondent elles-mêmes à des précision de la branche, etc
+La racine contient des commentaires sur tout ce qui est en lien au défi. A partir de la racine partent des branches, qui peuvent correspondre à plusieurs choses (voir I.2). Chaque branche mène à un noeud, qui est un fil de discussion sur le sujet de la branche. De chaque noeud peut partir plusieurs sous-branches, qui correspondent elles-mêmes à des précision de la branche, etc
 
 <a name="I.2"></a>
 ### I.2. Types de branches
@@ -22,13 +22,13 @@ La racinne contient des commentaires sur tout ce qui est en lien au défi. A par
 Il y a trois types de branches pouvant partir d'un noeud.
 
 *branche de division:
-le sujet du noeud peut être divisé en plusieur parties. Une branche est alors créée pour chaque parties, et les sous-sujets sont traités dans les branches. Les branches réunnies fournissent la réponse au sujet.
+le sujet du noeud peut être divisé en plusieurs parties. Une branche est alors créée pour chaque parties, et les sous-sujets sont traités dans les branches. Les branches réunies fournissent la réponse au sujet.
 
 *piste :
-Une piste est envisagée pour répondre au sujet. La différence avec la branche de division est qu'ici, les différentes pistes fonctionnent en parallèles, et proposent chacunne une réponse complète au sujet.
+Une piste est envisagée pour répondre au sujet. La différence avec la branche de division est qu'ici, les différentes pistes fonctionnent en parallèles, et proposent chacune une réponse complète au sujet.
 
 *branche question:
-Une question qu'il faut se poser avant de répondre au sujet. Toute les questions ne seront pas dans des branches questions, seulement celle qui ne répondent pas directement au sujet, mais plutot qui refléchissent sur le sujet.
+Une question qu'il faut se poser avant de répondre au sujet. Toute les questions ne seront pas dans des branches questions, seulement celle qui ne répondent pas directement au sujet, mais plûtot qui réfléchissent sur le sujet.
 
 <a name="I.3"></a>
 ### I.2. Exemple
@@ -37,12 +37,12 @@ J'ai rajouté en exemple ce qu'aurait pu être l'arbre de réponse à la questio
 
 [Exemple d'arbre](http://postimg.org/image/6maw3uk0d/)
 
-On remarque que dans l'exemple, Leo à bloqué la branche "pandémie", car il veut la traiter dans un autre épisode. L'opérateur pourra ou non avoir la possibilité de modifier l'arbre pour guider la reflexion.
+On remarque que dans l'exemple, Léo à bloqué la branche "pandémie", car il veut la traiter dans un autre épisode. L'opérateur pourra ou non avoir la possibilité de modifier l'arbre pour guider la réflexion.
 
 Légende : 
 étoile = branche de division
 ampoule = piste
-point dinterogation = question
+point d'interrogation = question
 
 <a name="II"></a>
 II fonctionnement de l'arbre
@@ -50,7 +50,7 @@ II fonctionnement de l'arbre
 <a name="II.1"></a>
 ### II.1. Fil de posts
 
-A chaque noeud sera situé un fil de posts. Les internautes qui cliquent sur ce noeud se retrouverons sur ce fil, sur lequel les internautes réponderons au sujet du noeud. Ce fil fonctionnera comme un thread reddit, avec la possiblité de répondre à un post, de voter, etc. Il pourra y avoir différentes catégories de posts (voir plus tard). Un système permettera également de créer une sous branche à propos d'un sujet quand il y a beaucoup de posts sur ce sujet (voir III)
+A chaque noeud sera situé un fil de posts. Les internautes qui cliquent sur ce noeud se retrouverons sur ce fil, sur lequel les internautes répondrons au sujet du noeud. Ce fil fonctionnera comme un thread reddit, avec la possibilité de répondre à un post, de voter, etc. Il pourra y avoir différentes catégories de posts (voir plus tard). Un système permettra également de créer une sous branche à propos d'un sujet quand il y a beaucoup de posts sur ce sujet (voir III)
 
 <a name="II.2"></a>
 ### II.2. Catégories
@@ -71,23 +71,23 @@ Les internautes peuvent poster des commentaires sur un post. Un commentaire n'es
 <a name="II.4"></a>
 ### II.4. Texte versionné
 
-Chaque noeud possèderait un texte versionné qui serait un résumé de l'objectif du noeud, et de sa problématique. Le noeud pourrait également contenir un post versionné qui resumerai ce qui est dit dans le noeud. La gestion dudit texte reste à determiner.
+Chaque noeud posséderait un texte versionné qui serait un résumé de l'objectif du noeud, et de sa problématique. Le noeud pourrait également contenir un post versionné qui résumerai ce qui est dit dans le noeud. La gestion dudit texte reste à déterminer.
 
 <a name="III"></a>
 III regroupement des commentaires.
 -
 
-Les branches de l'arbre sont créées automatiquement (sans besoin de moderateurs) par le regroupement de commentaires en branche. Il y a pour cela plusieurs opérations qui s'ffectuent aprés avoir été demandées par suffisament de personnes.
+Les branches de l'arbre sont créées automatiquement (sans besoin de modérateurs) par le regroupement de commentaires en branche. Il y a pour cela plusieurs opérations qui s'effectuent après avoir été demandées par suffisamment de personnes.
 
 <a name="III.1"></a>
 ### III.1. Posts de branchement.
 
-Quand un utilisateur créé un post, il peut le signaler comme "branche potentielle" (et indiquer de quelle catégorie de branche il s'agit). Le posts marqués comme branche potentielle deviennent des sous-branches du noeud sur lequels ils se trouvent si ils ont suffisament de poid. Le poid s'aquiert de deux manière :
+Quand un utilisateur créé un post, il peut le signaler comme "branche potentielle" (et indiquer de quelle catégorie de branche il s'agit). Le posts marqués comme branche potentielle deviennent des sous-branches du noeud sur lequel ils se trouvent si ils ont suffisamment de poids. Le poids s'acquiert de deux manière :
 
-*les internautes peuvent voter pour la création de la branche proposée, et augmenter ainsi le poid du post.
-*ils peuvent également voter contre, et diminuer son poid
-*les posts peuvent être reliés à la branche potentielle, ce qui augment son poid (voir III.2)
-*les réponses au posts augmentent pas le poid du poste, sauf si l'internaute qui répond à voté contre le branchement.
+*les internautes peuvent voter pour la création de la branche proposée, et augmenter ainsi le poids du post.
+*ils peuvent également voter contre, et diminuer son poids
+*les posts peuvent être reliés à la branche potentielle, ce qui augment son poids (voir III.2)
+*les réponses au posts augmentent son poids, sauf si l'internaute qui répond à voté contre le branchement.
 
 Si la branche potentielle devient une branche, le post qui la suggère devient le post versionné qui résume la problématique de la branche. Les commentaires du post restent des commentaires.
 
@@ -104,14 +104,14 @@ Les posts peuvent être déplacés vers une branche qui leur correspond mieux. L
 <a name="III.4"></a>
 ### III.4. Déplacement de branches
 
-Une fois crées, les branches ne sont pas statiques. Elles peuvent être déplacées, fusionnées, ou encore changer de catégorie. Toutes ces opérations se font par vote. Les internautes votent pour des opérations, et les opérations suffisament votées sont acceptées. Des points sont en plus automatiquement associés aux opérations sensées, comme regrouper des branches avec peu de contenu, ou déplacer une branche avec beaucoup de contenu vers l'étage supérieur.
+Une fois crées, les branches ne sont pas statiques. Elles peuvent être déplacées, fusionnées, ou encore changer de catégorie. Toutes ces opérations se font par vote. Les internautes votent pour des opérations, et les opérations suffisamment votées sont acceptées. Des points sont en plus automatiquement associés aux opérations sensées, comme regrouper des branches avec peu de contenu, ou déplacer une branche avec beaucoup de contenu vers l'étage supérieur.
 
 <a name="III.5"></a>
 ### III.5. Gestion communautaires des posts
 
-J'ai déja parlé de plusieurs opérations pouvant s'effectuer sur les posts, comme les lier, les passer en branche potentielle ou les descendre dans une sous-branche. Ces opérations peuvent être effectuées par l'internaute à l'originne du post, mais aussi par les autres. Les internautes peuvent suggerer une des modifications citées, et lorsque plusieurs internautes proposent la même modification, elle est adoptée. L'auteur du post ne peut pas l'annuler.
+J'ai déjà parlé de plusieurs opérations pouvant s'effectuer sur les posts, comme les lier, les passer en branche potentielle ou les descendre dans une sous-branche. Ces opérations peuvent être effectuées par l'internaute auteur du post, mais aussi par les autres. Les internautes peuvent suggérer une des modifications citées, et lorsque plusieurs internautes proposent la même modification, elle est adoptée. L'auteur du post ne peut pas l'annuler.
 
-Cette fonctionnalité est essentielle, surtout pour la gestion de la racinne. Beaucoup d'internautes posteront dans la racinne au début du projet, puis ne reviendrons plus. Il faut que leurs posts soient ensuite distribués dans les branches adéquates.
+Cette fonctionnalité est essentielle, surtout pour la gestion de la racine. Beaucoup d'internautes posteront dans la racine au début du projet, puis ne reviendrons plus. Il faut que leurs posts soient ensuite distribués dans les branches adéquates.
 
 <a name="IV"></a>
 IV Cycle de vie
@@ -120,14 +120,14 @@ IV Cycle de vie
 <a name="IV.1"></a>
 ### IV.1. idées et construction
 
-Au départ, l'arbre comporte uniquement une racinne. La première phase est celle pendant laquelle les internautes postent toutes leurs suggestions. De multiples branches sont crées, et les premiers fils de pensées se dessinent.
+Au départ, l'arbre comporte uniquement une racine. La première phase est celle pendant laquelle les internautes postent toutes leurs suggestions. De multiples branches sont crées, et les premiers fils de pensées se dessinent.
 
 <a name="IV.2"></a>
 ### IV.2. organisation
 
-Aprés quelques jours, les internautes ont tous posté leurs premières suggestions, et l'arbre commence à s'organiser. Le déplacement de branche permet de mieux le structurer, et les internautes discutent et avancent dans leurs raisonnement.
+Après quelques jours, les internautes ont tous posté leurs premières suggestions, et l'arbre commence à s'organiser. Le déplacement de branche permet de mieux le structurer, et les internautes discutent et avancent dans leurs raisonnement.
 
 <a name="IV.3"></a>
 ### IV.3. Travail plus avancé
 
-Aprés l'essentiel de la reflexion, les internautes peuvent encore fournir un travail plus avancé, par exemple de la recherche, des calculs, de la synthèse d'information, ou des illustrations. La question de la limite de ce que les internautes doivent apporter doit être posée, mais cette VE est compatible avec toutes les possibilités, et je ne donnerais pas plus de precisions dans ce domaine.
+Après l'essentiel de la réflexion, les internautes peuvent encore fournir un travail plus avancé, par exemple de la recherche, des calculs, de la synthèse d'information, ou des illustrations. La question de la limite de ce que les internautes doivent apporter doit être posée, mais cette VE est compatible avec toutes les possibilités, et je ne donnerais pas plus de précisions dans ce domaine.
