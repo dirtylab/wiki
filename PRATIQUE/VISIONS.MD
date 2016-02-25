@@ -61,7 +61,7 @@ Remarques importantes :
 |:---:|:-----|:------|:----:|
 |1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|Frosty-Z|[discussion](https://github.com/dirtylab/wiki/issues/8)|
 |2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/dirtylab/wiki/issues/7) + [topic original](https://github.com/sveinburne/lets-play-science/issues/48)|
-|3|*sans titre* (ébauche dans une issue)|akka-vodol|[discussion](https://github.com/dirtylab/wiki/issues/17)|
+|3|[Arbre de réflexion]|akka-vodol|[discussion](https://github.com/dirtylab/wiki/issues/17)|
 
 <a name="II"></a>
 II. Visions partielles (VP)
