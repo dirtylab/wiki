@@ -23,7 +23,13 @@ I. Espace de discussion
 | [GitHub](http://github.com/) ([issues](https://github.com/dirtylab/wiki/issues))                     | :white_check_mark: | | | :white_check_mark: |  | "+1" ZenHub |
 | [Vanilla Open Source](http://vanillaforums.org/)  | | | | :white_check_mark: |  | :white_check_mark: |
 | [Reddit](http://reddit.com/)  | :white_check_mark: | |  | :white_check_mark: | :white_check_mark: |  |
-A parcourir en détail pour remplir le tableau ci dessus :
+| [Flarum](http://flarum.org/)  | possible | :white_check_mark: |  | :white_check_mark: |  |  |
+
+**Commentaires**
+
+* [Flarum](http://flarum.org/) est encore en Beta, mais c'est un genre de [Discourse](http://www.discourse.org) sensiblement plus léger et performant, en PHP/MySQL (donc facile à héberger).
+
+**A parcourir en détail pour remplir le tableau ci dessus :**
 
 * [Top 15 moteurs de forums sur Quertime.com](http://www.quertime.com/article/15-best-online-forum-platforms-software-free-and-paid/)
 * [Top 9 moteurs de forums sur SaveDelete.com](http://savedelete.com/software/best-forum-software-free-and-paid/14592/)
@@ -51,6 +57,8 @@ III. Espace d'édition collaborative
 | [Wikia](http://www.wikia.com/) | :white_check_mark:  |               | [essai](http://fr.dirtylab.wikia.com/) |
 | [Rizzoma](https://rizzoma.com) | :white_check_mark:  |               | Proposé par @Framartin. |
 | [draw.io](https://www.draw.io/) | :white_check_mark: | ? | Espace de création de diagrammes / mind-maps collaboratif, temps-réel |
+| [Coggle](https://coggle.it/) | :white_check_mark: |  | Espace de création de mind-maps collaboratif, temps-réel |
+
 
 IV. Espace de t'chat
 --------------------
