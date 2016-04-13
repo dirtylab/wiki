@@ -35,7 +35,7 @@ I. Espace de discussion
 * [Top 9 moteurs de forums sur SaveDelete.com](http://savedelete.com/software/best-forum-software-free-and-paid/14592/)
 * [Page Wikipédia comparant de nombreux moteurs de forum](https://en.m.wikipedia.org/wiki/Comparison_of_Internet_forum_software)
 
-II. Espace questions/réponses, vote, sondage
+II. Espace questions/réponses, vote, sondage, argumentation
 --------------------------------------------
 
 | Outil                        |  Service en ligne        | Projet Github | Commentaires |
@@ -46,6 +46,7 @@ II. Espace questions/réponses, vote, sondage
 | [OSQA](http://www.osqa.net)  |                          | :white_check_mark:| |
 | [Loomio](https://www.loomio.org/)  | :white_check_mark:  | | Proposé par @Framartin. Possibilité de service en ligne gratuit à étudier. |
 | [LiquidFeedback](http://liquidfeedback.org/)  |    |   | Proposé par @Framartin. Utilisé par le [Parti pirate](http://www.partipirate.fr/LiquidFeedback-217). |
+| [argüman](http://en.arguman.org/)|                          | | Espace collaboratif d'élaboration d'un argumentaire structuré en carte logique |
 
 III. Espace d'édition collaborative
 -----------------------------------
