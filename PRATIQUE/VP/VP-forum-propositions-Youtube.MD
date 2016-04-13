@@ -129,7 +129,6 @@ Dans ce mode, **seuls les contenus non marqués (comme « vu », « pas bête »
 - **d** En accord avec **a**, **b** et **c**, et en référence à la **sagesse des foules**, créer des « clusters » d'évaluateurs, ou comment créer des posts collaboratifs de qualité. Bon c'est un peu barré ce machin :
 
   - Vocabulaire :
-  
     - **post** : une réponse directe au problème posé, distinct des **commentaires**
     - **cluster** : un groupe restreint de contributeurs participants à un **run**
     - **run** : phase d'évaluation collective
