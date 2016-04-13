@@ -53,6 +53,7 @@ Ainsi on peut basculer entre différentes vues suivant notre approche, « érudi
   - [Panda Terroriste](https://www.youtube.com/channel/UCOSyst_PWE8-gwCxQmZBoUw) suggère qu'on devrait avoir accès à tous les hashtags en cours pour éviter une profusion de tags sémantiquement proches.
 
 *proposé par [Seki Onudric](https://www.youtube.com/channel/UCJhOnkpjRbdL04tkfr46JhA)*  
+
 - **b** Via une structure d'arbre :
 
 >Le système de commentaire, mail, hashtag, etc. c'est bien pour une conversation, pas pour organiser des idées.
