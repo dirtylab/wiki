@@ -1,6 +1,8 @@
 Synthèse des commentaires Youtube
 =================================
 
+*LE RAPPORT COMPLÊT DES COMMENTAIRES YOUTUBES [EST DISPONIBLE ICI](VP/VP-forum-propositions-Youtube.MD).*  
+
 **Problématique : comment collaborer à 5000 cerveaux sur la même question ?**
 
 - Les commentaires les plus pertinents ne sont pas forcément les plus *likés*
