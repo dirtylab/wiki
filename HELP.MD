@@ -56,7 +56,7 @@ Si GitHub vous rebute, n'hésitez pas à poser vos questions ou faire des propos
 
 Chaque sujet (issue, pull request) peut être associé à un ou plusieurs **[labels](https://github.com/dirtylab/wiki/labels)** qui
 permettent une classification, aidant à retrouver plus facilement certains thèmes de discussion.  
-[Lire ce post sur la signification de chaque label](https://github.com/dirtylab/wiki/issues/39).  
+[Lire ce post sur la signification de chaque label](https://github.com/dirtylab/wiki/issues/14).  
 
 ### 2.2. [Filtres](https://help.github.com/articles/searching-issues/)
 
