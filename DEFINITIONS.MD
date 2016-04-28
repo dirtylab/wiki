@@ -41,6 +41,8 @@ Sommaire
   - [j Badges](#3.j)
   - [k Consensus tacite/implicite](#3.k)
   - [l Exécutif](#3.l)
+  - [m Législatif](#3.m)
+
 
 4. [Sémantique](#4)
   - [a Explorateur Heuristique](#4.a)
