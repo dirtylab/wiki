@@ -40,6 +40,7 @@ Sommaire
   - [i Rôle](#3.i)
   - [j Badges](#3.j)
   - [k Consensus tacite/implicite](#3.k)
+  - [l Exécutif](#3.l)
 
 4. [Sémantique](#4)
   - [a Explorateur Heuristique](#4.a)
@@ -214,6 +215,26 @@ Processus de décision simple consistant à suivre les étapes suivantes :
 Le consensus est *implicite* dans le sens où ceux qui n'auraient pas exprimé leur opinion au delà d'une certaine durée,
 acceptent *implicitement* la décision. Cf. inspiration [sur le Wiki GitHub du projet Xerte Online Toolkits](https://github.com/thexerteproject/xerteonlinetoolkits/wiki/6.-Decision-Making-Process)
 
+<a name="3.l"></a>
+#### l. Exécutif
+
+La personne ou le groupe qui prend des décisions 
+
+* sur la communauté 
+* vis à vis du défi
+
+en suivant les règles définies par le *législatif*. 
+
+<a name="3.m"></a>
+#### m. Législatif
+
+La personne ou le groupe qui définit des règles 
+
+* sur la communauté 
+* vis à vis du défi
+
+Dans une application standard, c'est l'administrateur qui a le pouvoir législatif, ainsi que les développeurs... 
+Comme le dit Lawrence Lessig : **Code is Law.**
 
 <a name="4"></a>
 ### 4. Sémantique
