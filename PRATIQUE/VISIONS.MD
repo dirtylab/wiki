@@ -11,8 +11,8 @@ Sommaire
 --------
 
 - [I. Visions d'ensemble (VE)](#I)
-  - [I.1. Critères de soumission d'une VE](#I.1)
-  - [I.2. Liste des VE](#I.2)
+  - [I.1. Liste des VE](#I.1)
+  - [I.2. Critères de soumission d'une VE](#I.2)
 - [II. Visions partielles (VP)](#II)
   - [II.1. Critères de soumission d'une VP](#II.1)
   - [II.2. Liste des VP](#II.2)
@@ -30,7 +30,18 @@ I. Visions d'ensemble (VE)
 *Une vision d'ensemble, VE, est un ensemble de propositions qui offre une solution applicative cohérente.*
 
 <a name="I.1"></a>
-### 1. Critères de soumission d'une VE
+### 1. Liste des VE
+
+|N°   |Titre |Auteur |     |
+|:---:|:-----|:------|:----:|
+|1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|Frosty-Z|[discussion](https://github.com/dirtylab/wiki/issues/8)|
+|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/dirtylab/wiki/issues/7) + [topic original](https://github.com/sveinburne/lets-play-science/issues/48)|
+|3|[Arbre de réflexion](VE/VE-akka-vodol.MD)|akka-vodol|[discussion](https://github.com/dirtylab/wiki/issues/17)|
+|4|[Décomposition de la problématique puis résolution par méthode itérative](VE/VE-PandaDesSteppes.MD)|PandaDesSteppes|[discussion](https://www.reddit.com/r/dirtylab/comments/4gexad/solution_possible_d%C3%A9composition_de_la/)|
+
+
+<a name="I.2"></a>
+### 2. Critères de soumission d'une VE
 Une **vision d'ensemble** se présente sous la forme d'un fichier markdown situé dans le répertoire **PRATIQUE/VE** depuis la racine du projet. Voici **les critères** pour qu'une pull request de VE soit acceptée :
 
 - elle doit être sensiblement différente d'une VE existante
@@ -53,15 +64,6 @@ Remarques importantes :
 - Une solution ne s'oppose pas nécessairement à sa concurrente, elle peut être offerte provisoirement en attendant le développement de fonctionnalités plus avancées, cf. priorités.
 - Si des **définitions** manquent ou des nuances sont nécessaires à apporter, merci de **soumettre une issue** ou une **pull request** en exprimant clairement votre besoin.
 - Une fois acceptée, l'auteur de la **pull request** doit créer une issue portant le titre de la PR. Ce sera le fil de discussion officiel autour de cette VE. Des critiques et des propositions d'amendements pourront être soumises.
-
-<a name="I.2"></a>
-### 2. Liste des VE
-
-|N°   |Titre |Auteur |     |
-|:---:|:-----|:------|:----:|
-|1|[Suivre le chemin tracé par la synthèse des commentaires YouTube](VE/VE-Frosty-Z.MD)|Frosty-Z|[discussion](https://github.com/dirtylab/wiki/issues/8)|
-|2|[La foule a les pleins pouvoirs](VE/VE-Gophys.MD)|Gophys|[discussion](https://github.com/dirtylab/wiki/issues/7) + [topic original](https://github.com/sveinburne/lets-play-science/issues/48)|
-|3|[Arbre de réflexion](VE/VE-akka-vodol.MD)|akka-vodol|[discussion](https://github.com/dirtylab/wiki/issues/17)|
 
 <a name="II"></a>
 II. Visions partielles (VP)
