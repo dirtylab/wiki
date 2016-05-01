@@ -70,6 +70,7 @@ II. Visions partielles (VP)
 ---------------------------
 
 **Forum :**
+
 - [**meta-topic - Visions partielles**](https://github.com/dirtylab/wiki/issues/6)
 - [`label:vision partielle`](https://github.com/dirtylab/wiki/issues?q=label%3A%22vision+partielle%22) pour organiser la discussion autour d'une [**vision partielle**](#II)
 
