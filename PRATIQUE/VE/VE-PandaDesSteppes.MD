@@ -4,6 +4,8 @@
 
 > Note : Cette page est une version plus allégée et mise à jour d'un document plus complet sur le même sujet : [Voir le document](https://drive.google.com/file/d/0B6SoAK5BPqfmeVVhbDhCY21oTms/view?usp=drive_web)
 
+[Discussion](https://www.reddit.com/r/dirtylab/comments/4gexad/solution_possible_d%C3%A9composition_de_la/)  
+
 ## Sommaire
 
 * [Introduction](#introduction)
@@ -21,7 +23,7 @@
   * [Détails sur l’espace de discussion](#II.3)
   * [Détails sur l’espace d’écriture collaborative](#II.4)
   * [Détails sur l’espace de décisions](#II.5)
-  
+
 * [Conclusion](#conclusion)
 
 <a name="introduction"></a>
@@ -122,11 +124,11 @@ Les internautes discutent sur les mots « nature » et « se rebeller » et réf
 
 Ils proposent plusieurs définitions et des problématiques secondaires :
 
-**Définitions** : 
+**Définitions** :
 *La nature* : Ce qui n’est pas humain ou ce qui, dans le monde physique, n'a pas été transformé par l'être humain.
 
  *Se rebeller* : Se révolter contre quelque chose ou quelqu'un (dans ce cas : l’humanité)
- 
+
 **Problématiques secondaires** :
 -	Qu’est-ce qui n’a pas été transformé par l’humain ?
 -	À partir de quel stade pouvons-nous considérer que la nature se rebelle ?
@@ -196,5 +198,5 @@ Mais certains messages intéressants pourraient ne pas être lu et passer à la 
 ## Conclusion
 Ma vision d'ensemble n'est pas aboutie, ce n'est qu'une base de réflexion. Il y a encore beaucoup de points à améliorer.
 
-> [Voir la discussion sur Reddit](https://www.reddit.com/r/dirtylab/comments/4gexad/solution_possible_d%C3%A9composition_de_la/)
+> [Voir la discussion sur Reddit](https://www.reddit.com/r/dirtylab/comments/4gexad/solution_possible_d%C3%A9composition_de_la/)  
 > [Lien de mon dossier Google Drive dédié au sujet](https://drive.google.com/folderview?id=0B6SoAK5BPqfmaHlFOEl6SHhkMDQ&usp=sharing)

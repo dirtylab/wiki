@@ -3,6 +3,8 @@ Vision d'Ensemble de [Frosty-Z](https://github.com/Frosty-Z)
 Titre : Suivre le chemin tracé par la [synthèse des commentaires Youtube](../SYNTHESE_YOUTUBE.MD)
 -
 
+[Discussion](https://github.com/dirtylab/wiki/issues/8)
+
 
 Sommaire
 -

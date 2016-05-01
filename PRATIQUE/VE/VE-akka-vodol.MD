@@ -3,9 +3,13 @@ Vision d'ensemble d'[akka-vodol](https://github.com/akka-vodol)
 Titre : arbre de réflexion
 -
 
+[Discussion](https://github.com/dirtylab/wiki/issues/17)
+
 Principe
 -
 La réponse à la question s'organise en arbre. Tout le monde post ses idées et contributions sur un fil de commentaires de départ, appelé racine. Ensuite, ces posts sont regroupés et organisés dans des branches, qui représentent les différents chemins suivis par la réflexion, et permet de séparer les différentes pistes de réponse possibles.
+
+## Sommaire
 
 * [I. Structure de l'arbre](#I)
   * [I.1. Branches et noeuds](#I.1)
@@ -55,7 +59,7 @@ J'ai rajouté en exemple ce qu'aurait pu être l'arbre de réponse à la questio
 
 [Exemple d'arbre](http://postimg.org/image/6maw3uk0d/)
 
-Légende : 
+Légende :
 * étoile = branche de division
 * ampoule = piste
 * point d'interrogation = question
