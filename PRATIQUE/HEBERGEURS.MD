@@ -19,7 +19,7 @@ Possibilités payantes à creuser, si un jour nos moyens le permettent :
 * [Google Cloud Platform](https://cloud.google.com/)
 * [OpenShift](https://www.openshift.com/)
 * [OVH](https://www.ovh.com/fr/)
-* ...
+* ... etc
 
 Comparateur [cloudlook.com](http://www.cloudlook.com/)
 
