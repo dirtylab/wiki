@@ -10,16 +10,16 @@ L'ensemble du projet est accessible « en lecture » sans inscription, cependant
 
 * [I. Rédaction collaborative](#I)
 
-  * [1. Proposer une modification (Pull Request, PR)](#I.1)
+  * [I.1. Proposer une modification (Pull Request, PR)](#I.1)
 
-    * [1. En éditant le fichier sur prose.io](#I.1.2)
-    * [2. En éditant le fichier sur github](#I.1.2)
-    * [3. Avec un fork](#I.1.3)
+    * [I.1.1. En éditant le fichier sur prose.io](#I.1.2)
+    * [I.1.2. En éditant le fichier sur github](#I.1.2)
+    * [I.1.3. Avec un fork](#I.1.3)
 
 * [II. Forum/Issue tracker](#II)
 
-  * [1. Labels](#II.1)
-  * [2. Filtres](#II.2)
+  * [II.1. Labels](#II.1)
+  * [II.2. Filtres](#II.2)
 
 * [III. Tchat](#III)
 
