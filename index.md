@@ -36,7 +36,7 @@ Ce site a pour objectif de vous présenter l'**état actuel de cette réflexion*
 
 ## Plateforme de réflexion
 
-### Un [**espace de rédaction collaborative** sur GitHub](https://github.com/sveinburne/lets-play-science)
+### Un [**espace de rédaction collaborative** sur GitHub](https://github.com/dirtylab/wiki)
 
 [**Rendez-vous ici**](HELP.MD) pour une introduction à notre [dépôt](DEFINITIONS.MD#7.a) GitHub.
 
