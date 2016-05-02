@@ -6,7 +6,25 @@ voici un petit topo sur l'utilisation de l'*espace de discussion* et *d'écritur
 L'ensemble du projet est accessible « en lecture » sans inscription, cependant si vous souhaitez participer (proposer des modifications, etc.), il vous faudra [**créer un compte GitHub**](https://github.com/join).
 
 
-## 1. [Rédaction collaborative](https://github.com/dirtylab/wiki)
+## Sommaire
+
+* [I. Rédaction collaborative](#I)
+
+  * [1. Proposer une modification (Pull Request, PR)](#I.1)
+
+    * [1. En éditant le fichier sur prose.io](#I.1.2)
+    * [2. En éditant le fichier sur github](#I.1.2)
+    * [3. Avec un fork](#I.1.3)
+
+* [II. Forum/Issue tracker](#II)
+
+  * [1. Labels](#II.1)
+  * [2. Filtres](#II.2)
+
+* [III. Tchat](#III)
+
+<a name="I"></a>
+## I. [Rédaction collaborative](https://github.com/dirtylab/wiki)
 
 Voir le fichier [`README.MD`](https://github.com/dirtylab/wiki/blob/master/README.MD) pour la liste des principaux fichiers du projet et leurs rôles.
 
@@ -21,9 +39,12 @@ Leur rédaction est collaborative : n'importe qui avec un compte **GitHub** peut
 
 Pour le moment, [quelques modérateurs autoproclamés](https://github.com/dirtylab/wiki/issues/19) :wink: se chargent de discuter/valider les **PR**, mais cela peut évoluer.
 
-### 1.1. Proposer une modification (Pull Request, PR)
+<a name="I.1"></a>
+<a name="1-1-proposer-une-modification-pull-request-pr"></a>
+### I.1. Proposer une modification (Pull Request, PR)
 
-#### 1.1.1. En éditant le fichier sur prose.io - *en phase de test pour le moment*
+<a name="I.1.1"></a>
+#### I.1.1. En éditant le fichier sur prose.io - *en phase de test pour le moment*
 
 - Si ce n'est pas encore fait, [créez un compte GitHub](https://github.com/join)
 - [Authentifiez-vous sur github et autorisez l'application prose.io](https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo)
@@ -33,7 +54,8 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/dirtyl
 - Une *Pull Request* apparait alors [dans le forum](https://github.com/dirtylab/wiki/pulls?utf8=%E2%9C%93&q=is%3Apr+) et **les gens peuvent commenter cette proposition**
 - L'[équipe de validation](https://github.com/dirtylab/wiki/issues/1) confirme l'édition.
 
-#### 1.1.2. En éditant le fichier sur github
+<a name="I.1.2"></a>
+#### I.1.2. En éditant le fichier sur github
 
 - Si ce n'est pas encore fait, [créez un compte GitHub](https://github.com/join)
 - [Authentifiez-vous sur github](https://github.com/login)
@@ -48,14 +70,15 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/dirtyl
 - Une *Pull Request* apparait alors [dans le forum](https://github.com/dirtylab/wiki/pulls?utf8=%E2%9C%93&q=is%3Apr+) et **les gens peuvent commenter cette proposition**
 - L'[équipe de validation](https://github.com/dirtylab/wiki/issues/1) confirme l'édition.
 
-
-#### 1.1.3. Avec un fork
+<a name="I.1.3"></a>
+#### I.1.3. Avec un fork
 
 Relativement complexe pour un non informaticien (notamment pour s'assurer que son **fork** est synchro avec le [dépôt](DEFINITIONS.MD#7.a) original. [Il existe des manières de le faire directement sur GitHub.com](http://stackoverflow.com/a/23853061/488666) mais c'est relativement lourd tout ça).
 
 [Guide officiel GitHub.com (anglais)](https://guides.github.com/activities/forking/)
 
-## 2. [Forum](https://github.com/dirtylab/wiki/issues)
+<a name="II"></a>
+## II. [Forum](https://github.com/dirtylab/wiki/issues)/Issue tracker
 
 L'onglet **[issues](https://github.com/dirtylab/wiki/issues)**, normalement prévu pour répertorier
 les bugs/problèmes d'un logiciel, est ici utilisé comme un forum de discussion (1 issue = 1 fil/topic).
@@ -67,15 +90,19 @@ Si vous n'en trouvez pas, créez un nouveau topic/issue, en donnant un **titre c
 et en **décrivant précisément ce que vous souhaitez évoquer** (améliorer l'organisation du fichier X,
 approfondir la réflexion sur le sujet Y...).
 
+**NB** : lors de la migration de dépot depuis [github/sveinburne/lets-play-sciences](https://github.com/sveinburne/lets-play-science), les posts du forum github ont été transférés automatiquement sans préserver les auteurs! C'est pourquoi ils sont tous signés *sveinburne*. 
+
 Si GitHub vous rebute, n'hésitez pas à poser vos questions ou faire des propositions sur le [**forum Reddit**](https://www.reddit.com/r/dirtylab).
 
-### 2.1. [Labels](https://github.com/dirtylab/wiki/labels)
+<a name="II.1"></a>
+### II.1. [Labels](https://github.com/dirtylab/wiki/labels)
 
 Chaque sujet (issue, pull request) peut être associé à un ou plusieurs **[labels](https://github.com/dirtylab/wiki/labels)** qui
 permettent une classification, aidant à retrouver plus facilement certains thèmes de discussion.
 [Lire ce post sur la signification de chaque label](https://github.com/dirtylab/wiki/issues/14).
 
-### 2.2. [Filtres](https://help.github.com/articles/searching-issues/)
+<a name="II.2"></a>
+### II.2. [Filtres](https://help.github.com/articles/searching-issues/)
 
 Le **moteur de recherche** des **topics/issues** permet l'utilisation de filtres.
 Voici des filtres utiles :
@@ -92,7 +119,8 @@ Les filtres peuvent se cumuler, exemple [`-label:épinglé is:open`](https://git
 Vous pouvez aussi utiliser l'interface graphique, boutons `Filters`, `Labels`, `Sort` (tri) ... etc
 [Pour plus de fonctionnalités sur les filtres, voir le guide officiel (en anglais)](https://help.github.com/articles/searching-issues/).
 
-## 3. [Tchat](https://dirtylab.slack.com)
+<a name="III"></a>
+## III. [Tchat](https://dirtylab.slack.com)
 
 La plateforme [Slack](https://dirtylab.slack.com) (avec intégration Github), est utilisée. [Les inscriptions se font ici.](http://gaelfoppolo.com/projets/dirtylab/slack/).
 
@@ -103,7 +131,7 @@ La plateforme [Slack](https://dirtylab.slack.com) (avec intégration Github), es
 s'affiche automatiquement dans le canal [#github](https://dirtylab.slack.com/messages/github/).
 * Un canal d'#annonces répertorie les nouvelles de la communauté depuis les comptes [twitter](https://twitter.com/DrtyLab) et [facebook](http://facebook.com/drtylab).
 
-#### Quand utiliser Slack, Reddit ou le Forum
+**Quand utiliser Slack, Reddit ou le Forum?**  
 
 - Le tchat peut permettre de laisser une amorce d'idée, demander de l'aide...
 - Pour garder une trace durable il est recommandé d'utiliser le **[forum](https://github.com/dirtylab/wiki/issues)**
