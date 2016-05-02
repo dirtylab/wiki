@@ -4,7 +4,7 @@ Titre : La foule a les pleins pouvoirs
 -
 
 [Discussion](https://github.com/dirtylab/wiki/issues/7)
-
+-
 
 Principe
 -

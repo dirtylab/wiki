@@ -1,10 +1,12 @@
 # Vision d'Ensemble de PandaDesSteppes
 
-## Titre : Décomposition de la problématique puis résolution par méthode itérative
+Titre : Décomposition de la problématique puis résolution par méthode itérative
+-
 
 > Note : Cette page est une version plus allégée et mise à jour d'un document plus complet sur le même sujet : [Voir le document](https://drive.google.com/file/d/0B6SoAK5BPqfmeVVhbDhCY21oTms/view?usp=drive_web)
 
 [Discussion](https://www.reddit.com/r/dirtylab/comments/4gexad/solution_possible_d%C3%A9composition_de_la/)  
+-
 
 ## Sommaire
 
