@@ -23,7 +23,7 @@ Ce site a pour objectif de vous présenter l'**état actuel de cette réflexion*
 3. Rechercher et partager un maximum de [connaissances sur le sujet](THEORIE/INSPIRATION.MD), qu'elles soient issues du monde académique, d'auteurs en tout genre, de projets web inspirants ou d'expérimentations ...
 4. Creuser des [pistes de réflexion](THEORIE/PISTES.MD) en disséquant la question initiale avec une approche transdisciplinaire, alimentées par **3**
 5. Définir un [vocabulaire](DEFINITIONS.MD) qui nous permet de communiquer sans ambiguïté  et faire émerger des concepts
-6. Imaginer des solutions applicatives (applications web) inspirées des démarches précédentes - [guide pour participer](https://github.com/sveinburne/lets-play-science/issues/11)
+6. Imaginer des solutions applicatives (applications web) inspirées des démarches précédentes - [guide pour participer](http://dirtylab.github.io/HELP.MD)
   - imaginer des [solutions concrètes](PRATIQUE/VISIONS.MD) (on les appelle des **visions d'ensemble**), qui peuvent être la combinaison de solutions web existantes et d'une application que nous implémenterons  
   - imaginer des [fonctionnalités](PRATIQUE/VISIONS.MD) (on les appelle **visions partielles**)  
   - implémenter des [**PoC** (preuves de concept)](PRATIQUE/POC.MD) qui sont de petites applications mettant en oeuvre des **visions**  
