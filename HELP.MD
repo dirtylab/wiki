@@ -62,7 +62,7 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/dirtyl
 - Sélectionnez le fichier à modifier
   - Directement depuis github : par ex. [README.MD](https://github.com/dirtylab/wiki/blob/master/README.MD)
   - Avec le bouton d'édition github depuis une page de [dirtylab.github.io](http://dirtylab.github.io/HELP.html) : ![](img/edit_github.png)
-- Appuyez sur ![le symbole en forme de stylo *edit*](img/edit.png)]
+- Appuyez sur ![le symbole en forme de stylo *edit*](img/edit.png)
 - Faites vos modifications
 - En bas de la page, section **Propose file change** :
   - Renseignez une phrase qui décrit la modification
@@ -90,7 +90,7 @@ Si vous n'en trouvez pas, créez un nouveau topic/issue, en donnant un **titre c
 et en **décrivant précisément ce que vous souhaitez évoquer** (améliorer l'organisation du fichier X,
 approfondir la réflexion sur le sujet Y...).
 
-**NB** : lors de la migration de dépot depuis [github/sveinburne/lets-play-sciences](https://github.com/sveinburne/lets-play-science), les posts du forum github ont été transférés automatiquement sans préserver les auteurs! C'est pourquoi ils sont tous signés *sveinburne*. 
+**NB** : lors de la migration de dépot depuis [github/sveinburne/lets-play-sciences](https://github.com/sveinburne/lets-play-science), les posts du forum github ont été transférés automatiquement sans préserver les auteurs! C'est pourquoi ils sont tous signés *sveinburne*.
 
 Si GitHub vous rebute, n'hésitez pas à poser vos questions ou faire des propositions sur le [**forum Reddit**](https://www.reddit.com/r/dirtylab).
 
