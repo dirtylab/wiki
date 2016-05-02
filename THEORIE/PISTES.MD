@@ -6,7 +6,6 @@ Pistes
 *Chaque __piste__ est détaillée dans un fichier à part (répertoire [PISTES](PISTES)).*
 
 ## l'Autorité des experts
-*Un appel d'expertise, c'est quand la communauté identifie le besoin de faire appel à des individus spécialisés dans un domaine pour répondre à certaines de ses interrogations*
 
 * [A1 - Comment ne pas faire des experts des autorités incontestables du savoir ?](PISTES/A1.MD)
 * [A2 - Comment les idées peuvent-elles circuler depuis les experts vers les novices, ou la question de la vulgarisation ?](PISTES/A2.MD)
