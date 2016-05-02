@@ -26,7 +26,7 @@ Pour le moment, [quelques modérateurs autoproclamés](https://github.com/dirtyl
 #### 1.1.1. En éditant le fichier sur prose.io - *en phase de test pour le moment*
 
 - Si ce n'est pas encore fait, [créez un compte GitHub](https://github.com/join)
-- [Authentifiez-vous sur github](https://github.com/login)
+- [Authentifiez-vous sur github et autorisez l'application prose.io](https://github.com/login/oauth/authorize?client_id=c602a8bd54b1e774f864&scope=repo)
 - Depuis une page de [dirtylab.github.io](http://dirtylab.github.io/HELP.html), cliquez sur ![le bouton d'édition vert](img/edit_prose.png), en bas **à gauche du document à éditer**.
 - Vous avez été redirigés sur prose.io. Faites les modifications désirées puis appuyer sur le ![bouton de sauvegarde](img/save_prose.png).
 - Renseignez une phrase qui décrit la modification puis validez. **Si vous rencontrez une erreur, pas de panique!** Copiez tout le texte puis collez-le dans un endroit sur (fichier texte). Essayez ensuite la deuxième méthode. Le cas échéant, merci de nous le signaler dans notre canal #aide [de notre messagerie slack](http://gaelfoppolo.com/projets/dirtylab/slack/)
@@ -103,7 +103,7 @@ La plateforme [Slack](https://dirtylab.slack.com) (avec intégration Github), es
 s'affiche automatiquement dans le canal [#github](https://dirtylab.slack.com/messages/github/).
 * Un canal d'#annonces répertorie les nouvelles de la communauté depuis les comptes [twitter](https://twitter.com/DrtyLab) et [facebook](http://facebook.com/drtylab).
 
-#### Quand utiliser Slack, Reddit ou le Forum 
+#### Quand utiliser Slack, Reddit ou le Forum
 
 - Le tchat peut permettre de laisser une amorce d'idée, demander de l'aide...
 - Pour garder une trace durable il est recommandé d'utiliser le **[forum](https://github.com/dirtylab/wiki/issues)**
