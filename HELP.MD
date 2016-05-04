@@ -137,5 +137,3 @@ s'affiche automatiquement dans le canal [#github](https://dirtylab.slack.com/mes
 - Pour garder une trace durable il est recommandé d'utiliser le **[forum](https://github.com/dirtylab/wiki/issues)**
 ou de faire des **PR** (chaque Pull Request a un fil de discussion associé)
 - [Reddit](https://www.reddit.com/r/dirtylab) permet d'aborder des réflexions de manière plus informelles!
-
-nouveau test FrostyZ à supprimer
