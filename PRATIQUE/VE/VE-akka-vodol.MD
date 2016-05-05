@@ -44,14 +44,16 @@ La racine contient des commentaires sur tout ce qui est lié au défi. A partir 
 <a name="I.2"></a>
 ### I.2. Types de branches
 
-Il y a trois types de branches pouvant partir d'un nœud.
+Il y a quatres types de branches pouvant partir d'un nœud.
 
 * division:
 le sujet du noeud peut être divisé en plusieurs parties. Une branche de division est alors créée pour chaque partie, et les sous-sujets sont traités dans leurs branches respectives. Les branches réunies fournissent la réponse au sujet.
 * piste :
 Une piste est envisagée pour répondre au sujet. La différence avec la branche de division est qu'ici, les différentes pistes fonctionnent en parallèle, et proposent chacune une réponse complète au sujet.
 * branche question:
-Une question qu'il faut se poser avant de répondre au sujet. Toute les questions ne seront pas dans des branches questions, seulement celle qui ne répondent pas directement au sujet, mais plûtot qui réfléchissent sur le sujet.
+Une question qu'il faut se poser avant de répondre au sujet. Toute les questions ne seront pas dans des branches questions, seulement celle qui ne répondent pas directement au sujet, mais plûtot qui réfléchissent sur le sujet. Cela peut être entre-autres une question sur la signification de la question.
+* branche postulat:
+Si il y a plusieures options pour la réponse à une branche question, au lieu de choisir, on peut créer une branche postulat pour chacune des options. Le contenu de la branche postulat est alors : réponse à la question dans le cas ou...
 
 <a name="I.3"></a>
 ### I.3. Exemple
@@ -64,6 +66,8 @@ Légende :
 * étoile = branche de division
 * ampoule = piste
 * point d'interrogation = question
+
+Je n'ai pas de branche postulat dans l'exemple, car je les ai rajoutées à la VE aprés. Les branches "attaque animale" et "attaque géologique" pourraient cependant être deux branches postulat, correspondant à deux réponses possibles à la question "qu'entend-on par nature?"
 
 On remarque que dans l'exemple, Léo à bloqué la branche "pandémie", car il veut la traiter dans un autre épisode. L'opérateur pourra ou non avoir la possibilité de modifier l'arbre pour guider la réflexion.
 
