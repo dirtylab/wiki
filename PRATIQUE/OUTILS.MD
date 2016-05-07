@@ -20,7 +20,7 @@ I. Espace de discussion
 | [Proboards.com](https://www.proboards.com)      | :white_check_mark: | | ?| ?| ?| ?|
 | [Muut](https://muut.com)                       | :white_check_mark: | | ?| ?| ?| ?|
 | [Discourse](http://www.discourse.org)                       | [payant](https://meta.discourse.org/t/free-hosted-option/9621) | | | :white_check_mark: |  | "like" simple |
-| [GitHub](http://github.com/) ([issues](https://github.com/dirtylab/wiki/issues))                     | :white_check_mark: | | | :white_check_mark: |  | "+1" ZenHub |
+| [GitHub](http://github.com/) ([issues](https://github.com/dirtylab/wiki/issues))                     | :white_check_mark: | | | :white_check_mark: |  | :white_check_mark: (+1, -1, Laught, Confused, Heart Hooray) |
 | [Vanilla Open Source](http://vanillaforums.org/)  | | | | :white_check_mark: |  | :white_check_mark: |
 | [Reddit](http://reddit.com/)  | :white_check_mark: | |  | :white_check_mark: | :white_check_mark: |  |
 | [Flarum](http://flarum.org/)  | possible | :white_check_mark: |  | :white_check_mark: |  |  |
