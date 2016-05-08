@@ -168,21 +168,27 @@ Dans le cadre d'un *défi*, élément de réponse **servant un but** inféré - 
 <a name="3.a"></a>
 #### a. Modération oligarchique
 Le choix des modérateurs se fait par l'ultime souverain : Léo.
+
 <a name="3.b"></a>
 #### b. Modération méritocratique
-Le choix des modérateurs se fait par *réputation*.
+Le choix des modérateurs se fait au mérite. Ce dernier peut prendre la forme de *réputation* par exemple, ou toute autre métrique qui a un rapport au mérite.
+
 <a name="3.c"></a>
 #### c. Modération démocratique
-Le choix des modérateurs se fait par *élection*.  
+Le choix des modérateurs se fait par *élection*. 
+
 <a name="3.d"></a>
 #### d. Réputation
 La réputation, c'est une métrique (un score) qui est d'autant plus grand que le membre est apprécié de la communauté, ce sont les *votes* qui affectent cette métrique.
+
 <a name="3.e"></a>
 #### e. Élection
 Une élection est l'attribution d'un rôle (ex modérateur) par le résultat d'un vote de la communauté, pour une durée finie (mandat).
+
 <a name="3.f"></a>
 #### f. Vote Simple
 Un vote simple est exactement comme lorsqu'on donne un pouce sur Facebook ou YouTube.
+
 <a name="3.g"></a>
 #### g. Vote Catégorique
 Un vote catégorique est comme un vote simple à la différence près que le votant a plusieurs choix. Il donne l'avantage de pouvoir créer des *filtres catégoriques* et d'avoir un système de réputation plus fin.  
@@ -191,6 +197,7 @@ Un vote catégorique est comme un vote simple à la différence près que le vot
 <a name="3.h"></a>
 #### h. Filtre catégorique
 Un filtre catégorique permet à l'utilisateur de l'application de ne sélectionner que les posts « Pas bête », « Drôle », « Impertinent », etc.
+
 <a name="3.i"></a>
 #### i. Rôle
 Un *Rôle* est une mission assumée par un membre le temps d'un *défi*.
