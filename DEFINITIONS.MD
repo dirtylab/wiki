@@ -40,8 +40,8 @@ Sommaire
   - [i Rôle](#3.i)
   - [j Badges](#3.j)
   - [k Consensus tacite/implicite](#3.k)
-  - [l Exécutif](#3.l)
-  - [m Législatif](#3.m)
+  - [l L'Exécutif](#3.l)
+  - [m Le Législatif](#3.m)
 
 
 4. [Sémantique](#4)
@@ -218,7 +218,7 @@ Le consensus est *implicite* dans le sens où ceux qui n'auraient pas exprimé l
 acceptent *implicitement* la décision. Cf. inspiration [sur le Wiki GitHub du projet Xerte Online Toolkits](https://github.com/thexerteproject/xerteonlinetoolkits/wiki/6.-Decision-Making-Process)
 
 <a name="3.l"></a>
-#### l. Exécutif
+#### l. L'Exécutif
 
 La personne ou le groupe qui prend des décisions 
 
@@ -228,7 +228,7 @@ La personne ou le groupe qui prend des décisions
 en suivant les règles définies par le *législatif*. 
 
 <a name="3.m"></a>
-#### m. Législatif
+#### m. Le Législatif
 
 La personne ou le groupe qui définit des règles 
 
